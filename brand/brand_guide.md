@@ -19,32 +19,50 @@ Noble Sin is an alternative rock band from Rome with female vocals — raw, spec
 
 ---
 
-## 3. COLOR PALETTE
+## 3. LOGO
+
+The official logo is **NOBLE SIN** in a distressed serif typeface, all caps, with "SIN" inside a circle that sits within the O of NOBLE. The full mark reads as one locked unit.
+
+**Logo color:** Red (`#CC0000` approximate — match the actual file). Never recolor to black, white, or any other color without explicit approval.  
+**Background:** White or very light backgrounds only for the full red logo. On dark backgrounds, use a white version if one is created.  
+**Clear space:** Minimum padding equal to the height of the "N" on all sides.  
+**Never:** Stretch, outline, drop-shadow, or place on a busy background without a clean field behind it.  
+**File:** `brand/logo_noblesin.png` (current asset, white background — export a transparent PNG version for overlays)
+
+The logo typeface is **serif with distressed texture** — this is the primary brand typeface for the band name in all official contexts. It is NOT interchangeable with a clean geometric grotesk.
+
+---
+
+## 4. COLOR PALETTE
 
 | Role | Color | Hex | Usage |
 |------|-------|-----|-------|
+| Logo red | Red | `#CC0000` | Logo, accent elements — match logo file exactly |
 | Primary background | Black | `#0A0A0A` | Covers, headers, dark frames |
-| Primary foreground | Off-white | `#E8E4DC` | Text, graphic elements |
-| Accent | Deep red | `#8B0000` | Sparingly — one element per composition max |
+| Primary foreground | Off-white | `#E8E4DC` | Text, graphic elements on dark |
 | Secondary neutral | Cool grey | `#3A3A3A` | Mid-tones, borders |
 
 **Rule:** No more than 3 colors in any single composition. High contrast is the goal — if you need to add a color to make something readable, increase contrast instead.
 
 ---
 
-## 4. TYPOGRAPHY
+## 5. TYPOGRAPHY
 
-**Primary typeface:** Something geometric and industrial — Grotesk category.  
-Suggestions (all free/licensed):
-- **Neue Haas Grotesk** — first choice if budget allows
-- **Inter** — free, clean, works at all sizes
-- **Space Grotesk** — free, slightly harder character, good for covers
+The logo establishes the primary typeface direction: **distressed serif, all caps**. Match or complement this in all official artwork.
+
+**For the band name:** Always use the logo lockup — never retype "NOBLE SIN" in a substitute font on official materials.  
+**For single titles (e.g. NEBO):** Use a serif or high-contrast serif — something with weight and age. Suggestions:
+- **Playfair Display** (free) — high contrast serif, works large
+- **Cormorant Garamond** (free) — elegant but can be pushed to feel heavy at large sizes
+- **IM Fell English** (free, Google Fonts) — distressed, matches the logo energy closest
+
+**For body copy / secondary text** (streaming links, release dates, social captions): Clean sans-serif — Inter or similar. Small, functional, not competing with the logo.
 
 **Rules:**
-- All caps for band name and single titles on covers
-- No script fonts, no serif fonts except sparingly in body copy for contrast
-- Type should be large and direct — if it looks "designed," scale it up until it looks inevitable
-- Tracking: tight to normal. Never loose/airy.
+- Band name: always the logo file, never retyped
+- Single titles: all caps, serif, large
+- Never mix more than two typefaces in one composition
+- Tracking: tight. Never loose/airy.
 
 ---
 

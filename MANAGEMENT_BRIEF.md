@@ -161,12 +161,12 @@ When producing anything for Noble Sin:
 
 ## 11. FILES NEEDED (not yet created — to build)
 
-- [ ] Booking one-sheet PDF (EN + IT)
-- [ ] Booking email template (festival version)
-- [ ] Booking email template (club/venue version)
-- [ ] Spotify curator pitch template
-- [ ] Single rollout plan template (for September releases)
-- [ ] Social content calendar (weekly template)
+- [x] Booking one-sheet PDF (EN + IT) → `booking/onesheet_EN.md`, `booking/onesheet_IT.md`
+- [x] Booking email template (festival version) → `booking/email_festival_EN.md`, `booking/email_festival_IT.md`
+- [x] Booking email template (club/venue version) → `booking/email_venue_IT.md`
+- [x] Spotify curator pitch template → `spotify/curator_pitch_EN.md`
+- [x] Single rollout plan template (for September releases) → `releases/single_rollout_template.md`
+- [x] Social content calendar (weekly template) → `social/content_calendar_template.md`
 
 ---
 

@@ -1,148 +1,91 @@
 # NOBLE SIN — SINGLE COVER ART BRIEF
 ## "Nebo" (небо)
 
-> Nebo = "sky" in Ukrainian. The single is a call for peace — soldiers disobeying orders.  
+> Nebo = "sky" in Ukrainian. A song about soldiers disobeying orders — peace as an act of refusal.  
 > Last updated: June 2026
 
 ---
 
-## THE CONCEPT
+## FINAL CONCEPT — LOCKED
 
-Four images. Same visual grammar, different locations and peoples — all connected by one element: people dressed in white.
+Four-quadrant editorial image. One woman per quadrant. Each woman represents a people caught in a different conflict. All dressed in white — white = surrender, peace, the opposite of a military uniform. Vogue-style photography: warm, luminous, cinematic. The beauty of the subjects against the destruction of the locations is the tension that carries the message.
 
-White = civilian. White = refusal. White = the sky the title names.
+**Quadrants:**
+1. **Top-left:** Ukrainian woman (long dark hair, white denim jacket) — Kremlin, Moscow in background
+2. **Top-right:** Russian woman (long dark hair, white denim jacket) — bombed ruins, Kyiv in background
+3. **Bottom-left:** Palestinian woman (white hijab, white clothing) — destroyed street, Gaza in background
+4. **Bottom-right:** Israeli woman (white tichel headscarf, white clothing) — Western Wall, Jerusalem in background
 
-The series shows people who are supposed to be enemies, or victims, or perpetrators — standing still, dressed in white, in front of the places their world has broken. No weapons. No flags. No slogans. Just humans in front of ruins and monuments, wearing the same color.
-
-**Locations / subjects:**
-1. **Iran** — figures in white in front of damaged or historic architecture in Tehran
-2. **Russia** — figures in white in front of the Kremlin
-3. **Palestine** — figures in white in front of bombed ruins, rubble
-4. **Israel** — figures in white in front of damaged buildings or the Western Wall
-
-**Cover use:** One image used as the primary single cover (whichever is most compositionally strong). The others used for the social campaign around the release — one image per week in the lead-up, each captioned only with "nebo."
+Every woman: waist-up, facing right in profile, contemplating the location. One woman per quadrant — no exceptions.
 
 ---
 
-## ART DIRECTION
+## FINAL COVER — TYPOGRAPHY
 
-- **Figures:** 3–5 people per image. Standing still. Facing the camera or facing away — both work. Not posed dramatically — quiet, present.
-- **Clothing:** All white. Plain. No branding, no military uniform elements. White that reads against both dark ruins and bright sky.
-- **Light:** Overcast or golden-hour. Diffuse. The white clothing should glow slightly against the grey/brown of ruins.
-- **Atmosphere:** Dust, haze, weight. Not beauty. Not hope. Dignity.
-- **Format:** Square (3000×3000px) for cover. Consistent framing across all four images so they feel like a series.
-- **No text on the images themselves** — NEBO and NOBLE SIN are placed in post-production.
+**Top band:** Noble Sin official logo (red distressed serif, the actual logo file — not retyped)
+
+**Center (overlapping all four quadrants):**
+```
+НЕБО • سماء • שָׁמַיִם • НЕБО
+```
+Ukrainian — Arabic — Hebrew — Russian. Same word, four scripts. Red, italic serif font. Use **Cormorant Garamond Italic** or **Noto Serif Italic** (Noto covers all four alphabets in one font — recommended).
 
 ---
 
-## TYPOGRAPHY ON FINAL COVER
+## PHOTOGRAPHY / AI GENERATION DIRECTION
 
+**Style:** High-end Vogue editorial. Annie Leibovitz quality. Medium format camera feel. Warm-neutral color grading consistent across all four quadrants. Shallow depth of field — subject sharp, background slightly soft but readable. Rich blacks, creamy highlights, luminous skin tones.
+
+**Final Gemini prompt (use this):**
 ```
-NEBO
+Create a square single cover image. Four quadrants in a 2x2 grid divided by thin dark lines. The photography style is high-end Vogue editorial — cinematic, beautifully lit, skin tones warm and luminous, sharp focus on the subject, shallow depth of field, the background slightly soft but still recognizable. Shot on medium format camera. Rich blacks, creamy highlights, the quality of an Annie Leibovitz portrait. Consistent warm-neutral color grading across all four images.
 
-NOBLE SIN
-```
+Every quadrant is a waist-up shot. Every woman faces right in profile. Every frame is identically composed — subject on the left third, location filling the right two thirds. One single woman per quadrant, no exceptions.
 
-NEBO: Large, all caps, bottom third of image or top — wherever the sky or negative space is.  
-NOBLE SIN: Small, same typeface, bottom right or bottom center.
+Top-left: one single Ukrainian woman alone, long dark hair, white denim jacket, waist-up, facing right in profile, contemplating the Kremlin towers in Moscow, soft winter light, elegant and still.
 
----
+Top-right: one single Russian woman alone, long dark hair, white denim jacket, waist-up, facing right in profile, contemplating a destroyed bombed apartment building in Kyiv, collapsed floors, blown out windows, rubble, soft diffused light.
 
-## AI IMAGE GENERATION PROMPTS
+Bottom-left: one single Gazan woman alone, wearing a white hijab and white clothing, waist-up, facing right in profile, contemplating a completely destroyed street in Gaza, flattened buildings, dust haze, soft warm light.
 
-### Tool: Midjourney (v6 or later)
-Use `--ar 1:1` for all. Add `--style raw` to reduce over-stylization. `--v 6`.
+Bottom-right: one single Israeli woman alone, wearing a white tichel headscarf and white clothing, waist-up, facing right in profile, contemplating ancient limestone fortress walls in Jerusalem, warm soft afternoon light.
 
----
-
-### IMAGE 1 — IRAN / TEHRAN
-
-```
-A small group of 4 people dressed entirely in plain white clothing standing in front of the ruins of a historic Persian building in Tehran, overcast sky, dusty atmosphere, photorealistic, documentary photography style, no flags no text no symbols, quiet dignity, wide shot showing architecture, desaturated warm tones, grain, f/8 aperture, --ar 1:1 --style raw --v 6
-```
-
-**Alternative / if flagged:**
-```
-Four figures in white linen clothing standing before ancient crumbling stone arches and columns in the Middle East, overcast light, documentary photography, desaturated, grain, no text, no flags, wide establishing shot, somber mood --ar 1:1 --style raw --v 6
+Exactly one woman per quadrant. No exceptions. No text anywhere on the image. Clean empty band at the very top. Square 1:1 format.
 ```
 
 ---
 
-### IMAGE 2 — RUSSIA / KREMLIN
+## POST-PRODUCTION IN CANVA
 
-```
-A small group of people dressed in plain white clothing standing in a large empty square in front of the Kremlin towers in Moscow, overcast grey sky, wide shot, photorealistic documentary style, no flags no banners no text, quiet and still, desaturated color grading, heavy grain, winter light, --ar 1:1 --style raw --v 6
-```
-
-**Alternative / if flagged:**
-```
-Four people in white clothing standing in an enormous empty stone plaza in front of red brick fortification towers and walls, overcast sky, Eastern European architecture, documentary photography style, still and quiet, desaturated, grain --ar 1:1 --style raw --v 6
-```
+1. Upload generated image
+2. Place Noble Sin logo (transparent PNG) in the top band, centered
+3. Add the four-language title at center: **НЕБО • سماء • שָׁמַיִם • НЕБО** in red italic serif
+4. Use **Noto Serif** — only font that renders all four scripts correctly in one typeface
+5. Export at maximum resolution
 
 ---
 
-### IMAGE 3 — PALESTINE / RUINS
+## BAND REELS — WHITE CLOTHING
 
-```
-A small group of people dressed in plain white clothing standing in front of bombed concrete ruins and rubble in Gaza, overcast sky, dust in the air, documentary war photography style, no weapons no flags no text, somber and still, desaturated, heavy film grain, wide shot showing destroyed buildings --ar 1:1 --style raw --v 6
-```
-
-**Alternative / if flagged:**
-```
-Four figures dressed entirely in white standing amid concrete rubble and destroyed buildings, Middle Eastern setting, overcast harsh light, dust haze, documentary photography, no symbols no text, quiet presence, desaturated color, grain --ar 1:1 --style raw --v 6
-```
-
----
-
-### IMAGE 4 — ISRAEL / JERUSALEM
-
-```
-A small group of people dressed in plain white clothing standing in front of old stone walls in Jerusalem, overcast light, documentary photography style, no flags no text no symbols, wide shot showing ancient architecture, quiet dignity, desaturated warm stone tones, grain, still atmosphere --ar 1:1 --style raw --v 6
-```
-
-**Alternative / if flagged:**
-```
-Four figures in white linen clothing standing before ancient limestone walls in a Middle Eastern city, overcast diffuse light, documentary photography, no text no symbols no flags, somber stillness, desaturated, grain --ar 1:1 --style raw --v 6
-```
-
----
-
-## NOTES ON AI GENERATION
-
-- Midjourney may refuse or water down the Gaza / ruins image — use the alternative prompts if the primary is rejected. The key visual is rubble + white figures, not a specific location name.
-- Run each prompt 4 times (`--repeat 4`) and select the strongest composition.
-- Upscale the chosen images with `U` before downloading.
-- Consistent grain and desaturation should be added in post (Lightroom or Photoshop) to make the four images feel like a series even if the AI outputs differ slightly.
-- Final covers need 3000×3000px — upscale with Topaz Gigapixel AI or similar if Midjourney output is insufficient resolution.
-
----
-
-## STABLE DIFFUSION / DALL-E EQUIVALENT
-
-If using Stable Diffusion (SDXL or Flux):
-- Same prompts work, add: `photorealistic, 8k, documentary photography, film grain, desaturated`
-- Negative prompt: `colorful, vibrant, cheerful, military uniform, weapons, flags, text, watermark, cartoon, illustration`
-
-If using DALL-E 3 (via ChatGPT):
-- DALL-E may refuse conflict-zone references by name. Use geographic descriptions instead of country/city names. Focus on the white figures and architecture type.
+All five band members filmed in white clothing for all Nebo-related video content. White is the visual signature of this single. No exceptions for reel content connected to this release.
 
 ---
 
 ## DELIVERABLES
 
 | File | Spec |
-|------|------|
-| `nebo_cover_main_3000x3000.jpg` | Primary cover — strongest of the four images |
-| `nebo_cover_series_1-4.jpg` | All four images at 3000×3000px |
-| `nebo_cover_instagram_4x5.jpg` | 2400×3000px of the primary cover |
-| Source files | PSD or Lightroom edits for post-processing |
+|-------|------|
+| `nebo_cover_3000x3000.jpg` | Primary cover, square |
+| `nebo_cover_2400x3000.jpg` | 4:5 ratio for Instagram feed |
+| `nebo_title_graphic.jpg` | НЕБО • سماء • שָׁמַיִם • НЕБО on black, for social |
+| Source file | Canva / PSD with logo and text layers separate |
 
 ---
 
 ## TIMELINE
 
-- Cover locked: **no later than 3 weeks before release**
-- Spotify editorial pitch submitted: **4 weeks before release** (cover must be final)
+- Cover locked: **3 weeks before release**
+- Spotify editorial pitch submitted: **4 weeks before release** (cover must be final before pitch)
 - Target release: **September 2026**
 
 ---

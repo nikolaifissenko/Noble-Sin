@@ -10,18 +10,32 @@
 **Genre:** Alternative rock  
 **Base:** Rome, Italy  
 **Lineup:** 5 members, female vocals  
-**Language:** Band operates in Italian & English  
+**Language:** Band operates in Italian & English (manager also FR)  
 **Instagram:** @noblesin_official (~1,500 followers, 34 posts)  
 **TikTok:** @noblesin_official  
 **Spotify for Artists:** active  
 
 ---
 
-## 2. DISCOGRAPHY
+## 2. BRAND IDENTITY
+
+**Logo:** Distressed red serif typeface, all caps, "SIN" inside a circle sitting within the O of NOBLE. This is the official mark — never retype the band name in a substitute font on official materials. Always use the logo file.  
+**Logo color:** Red (`#CC0000` approx). Never recolor without approval.  
+**Full brand guide:** `brand/brand_guide.md`
+
+**Visual identity in one line:** High contrast, stark, post-punk / art-rock graphic language. No warmth that wasn't earned.  
+**Color palette:** Black `#0A0A0A`, off-white `#E8E4DC`, logo red `#CC0000`, cool grey `#3A3A3A`  
+**Typography:** Distressed serif for band name (logo file). High-contrast serif (Cormorant Garamond, IM Fell English) for single titles. Clean sans (Inter) for body copy.  
+**Photography:** Hard or diffuse light, urban Rome, near-monochrome or Vogue editorial warmth depending on context. No smiling at camera. No tourist Rome clichés.  
+**Reference touchstones:** Idles, Savages, Fontaines D.C., Factory Records era design
+
+---
+
+## 3. DISCOGRAPHY
 
 ### Album: *Off We Go* (debut)
 - 11 tracks, already released
-- **Flagship track: "Running"** — heavily promoted already. DO NOT push "Running" as the main promo track anymore. It has served its role. Move on.
+- **Flagship track: "Running"** — DO NOT push "Running" as the main promo track anymore. It has served its role. Move on.
 - Strategy: relaunch *Off We Go* via "track of the week" social campaign — rotate through the other 10 tracks, not Running
 
 ### Upcoming Singles (studio, target: September 2026)
@@ -30,9 +44,19 @@
 - Pitch each single to Spotify editorial **4 weeks before release** via Spotify for Artists dashboard
 - Also pitch to **independent alternative rock playlist curators** (not just editorial)
 
+#### First single: "NEBO" (небо)
+- **Nebo** = sky in Ukrainian
+- **Theme:** Soldiers from different armies (Sergeant Bryan, Sergeant Al-Hassan, Sergeant Grishchenko) each refusing orders independently. Peace as an act of disobedience.
+- **Languages in track:** English + Ukrainian + Russian — the final refusal delivered in all three simultaneously
+- **Visual concept:** White clothing throughout. Four-quadrant Vogue editorial cover — one woman per quadrant: Ukrainian (Kremlin), Russian (Kyiv ruins), Palestinian in white hijab (Gaza), Israeli in white tichel (Jerusalem). All in white.
+- **Title treatment:** НЕБО • سماء • שָׁמַיִם • НЕБО — same word in Ukrainian, Arabic, Hebrew, Russian
+- **Band reels:** All five members filmed in white clothing for all Nebo content
+- **Press angle:** "A rock song where the soldiers disobey" — do not over-explain
+- **Files:** `releases/nebo_lyrics.md`, `releases/nebo_rollout.md`, `releases/cover_brief_nebo.md`
+
 ---
 
-## 3. UPCOMING SHOWS
+## 4. UPCOMING SHOWS
 
 | Date | Venue | City | Status |
 |------|-------|------|--------|
@@ -42,16 +66,17 @@
 
 ---
 
-## 4. CURRENT PRIORITIES (ranked)
+## 5. CURRENT PRIORITIES (ranked)
 
 1. **Book summer 2026 festivals** — Rome, Florence, Bologna, North Italy
-2. **Prepare September single releases** — one by one, with full rollout plan per single
-3. **Grow Instagram / TikTok / Spotify**
-4. **Build a professional booking one-sheet (EPK)**
+2. **Finish and release "Nebo"** — September 2026, full rollout plan in `releases/nebo_rollout.md`
+3. **Prepare remaining September singles** — one by one after Nebo
+4. **Grow Instagram / TikTok / Spotify**
+5. **Build a professional booking one-sheet (EPK)**
 
 ---
 
-## 5. FESTIVAL BOOKING PIPELINE
+## 6. FESTIVAL BOOKING PIPELINE
 
 These festivals have been identified. Status = TO CONTACT unless otherwise noted.
 
@@ -75,7 +100,7 @@ These festivals have been identified. Status = TO CONTACT unless otherwise noted
 
 ---
 
-## 6. SOCIAL MEDIA STRATEGY
+## 7. SOCIAL MEDIA STRATEGY
 
 ### Current output
 - 1 video every 2 days
@@ -87,7 +112,8 @@ These festivals have been identified. Status = TO CONTACT unless otherwise noted
 - 1,500 followers — needs to grow
 - Reels > static posts for reach
 - "Track of the week" campaign: 1 track from *Off We Go* per week (not Running), with a 15–30s clip, story, and caption telling the story of that song
-- Behind-the-scenes studio content for the September singles — start teasing NOW, even if release is September
+- Behind-the-scenes studio content for the September singles — start teasing NOW
+- Nebo teasers: band in white clothing, no context, caption only "nebo." — start 3 weeks before release
 
 **TikTok (@noblesin_official)**
 - Same "track of the week" angle but adapted for TikTok format
@@ -107,7 +133,7 @@ These festivals have been identified. Status = TO CONTACT unless otherwise noted
 
 ---
 
-## 7. ONE-SHEET / EPK REQUIREMENTS
+## 8. ONE-SHEET / EPK REQUIREMENTS
 
 A booking one-sheet should contain:
 - Band name + genre + city
@@ -124,7 +150,7 @@ Language: Italian version + English version (for international festivals).
 
 ---
 
-## 8. SPOTIFY STRATEGY
+## 9. SPOTIFY STRATEGY
 
 1. **Pitch window:** Submit each new single in Spotify for Artists dashboard exactly 4 weeks before release date. Miss this = no editorial consideration.
 2. **Curator outreach:** Manually find and contact 20–30 playlist curators running alt-rock / indie rock / Italian rock playlists. Pitch via SubmitHub, Groover, or direct Instagram DM.
@@ -133,17 +159,19 @@ Language: Italian version + English version (for international festivals).
 
 ---
 
-## 9. WHAT NOT TO DO
+## 10. WHAT NOT TO DO
 
 - ❌ Don't push "Running" as the main promo track anymore
 - ❌ Don't release the new material as an EP — singles only
 - ❌ Don't send copy-paste booking emails
 - ❌ Don't post only static images — video is king right now
 - ❌ Don't wait until August to contact summer festivals — most deadlines are March–April (some are already past — act fast)
+- ❌ Don't retype "NOBLE SIN" in a substitute font — always use the logo file
+- ❌ Don't over-explain the Nebo concept in press — "a rock song where the soldiers disobey" is enough
 
 ---
 
-## 10. TONE & COMMUNICATION STYLE
+## 11. TONE & COMMUNICATION STYLE
 
 The manager (Nikolai) is:
 - Direct, no-fluff
@@ -159,14 +187,22 @@ When producing anything for Noble Sin:
 
 ---
 
-## 11. FILES NEEDED (not yet created — to build)
+## 12. FILES IN THIS REPO
 
-- [x] Booking one-sheet PDF (EN + IT) → `booking/onesheet_EN.md`, `booking/onesheet_IT.md`
-- [x] Booking email template (festival version) → `booking/email_festival_EN.md`, `booking/email_festival_IT.md`
-- [x] Booking email template (club/venue version) → `booking/email_venue_IT.md`
-- [x] Spotify curator pitch template → `spotify/curator_pitch_EN.md`
-- [x] Single rollout plan template (for September releases) → `releases/single_rollout_template.md`
-- [x] Social content calendar (weekly template) → `social/content_calendar_template.md`
+| File | Description |
+|------|-------------|
+| `brand/brand_guide.md` | Full visual identity — colors, type, photography, logo rules |
+| `booking/onesheet_EN.md` | Booking one-sheet in English |
+| `booking/onesheet_IT.md` | Booking one-sheet in Italian |
+| `booking/email_festival_EN.md` | Festival booking email template (EN) |
+| `booking/email_festival_IT.md` | Festival booking email template (IT) |
+| `booking/email_venue_IT.md` | Club/venue booking email template (IT) |
+| `spotify/curator_pitch_EN.md` | Spotify curator pitch template |
+| `releases/single_rollout_template.md` | Generic single rollout plan template |
+| `releases/nebo_lyrics.md` | Nebo — full lyrics + notes |
+| `releases/nebo_rollout.md` | Nebo — complete release plan and timeline |
+| `releases/cover_brief_nebo.md` | Nebo — cover art brief, final concept, Gemini prompt |
+| `social/content_calendar_template.md` | Weekly social content calendar template |
 
 ---
 

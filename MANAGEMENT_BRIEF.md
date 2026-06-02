@@ -30,6 +30,13 @@
 - Pitch each single to Spotify editorial **4 weeks before release** via Spotify for Artists dashboard
 - Also pitch to **independent alternative rock playlist curators** (not just editorial)
 
+#### Single: *NEBO*
+- **Status:** Cover art finalized ✅
+- **Concept:** Four-panel grid — Russian (brown hair), Ukrainian (blonde), Arab, and Jewish women in white, each in their war-affected landscape (Red Square / Ukrainian ruins / Middle Eastern rubble / Western Wall). Word "sky/heaven" in four languages (НЕБО / NEBO / سماء / שמיים) in red serif text per corner. NOBLE SIN logo bottom-center.
+- **Mood:** Cinematic, dramatic, hopeful — grunge meets political weight
+- **Cover art:** AI-generated, Spotify-ready 1:1 square format ✅
+- **Next step:** Set release date → pitch Spotify editorial 4 weeks prior
+
 ---
 
 ## 3. UPCOMING SHOWS

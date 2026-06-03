@@ -1,135 +1,126 @@
 # NOBLE SIN — "NEBO" Cover Art Brief v2
-> Concept: Una donna, quattro capitali in rovina
+> Grid 2×2 — 4 donne, 4 capitali in rovina
 
 ---
 
 ## RIFERIMENTO v1
 
-La versione 1 (già prodotta) era un **grid 2×2** con:
-- 4 donne diverse, una per cultura/lingua, in abito bianco, ripresa di profilo
-- Ognuna davanti alla sua città (Mosca intatta, Gerusalemme intatta, macerie generiche)
-- Testo rosso in alto: НЕБО / NEBO / سماء / שָׁמַיִם
+Grid 2×2 già prodotto:
+- Donna russa → Mosca (Cremlino **intatto**)
+- Donna occidentale → macerie generiche
+- Donna persiana → macerie generiche
+- Donna israeliana → Muro del Pianto (**intatto**)
 
 ---
 
-## NUOVO CONCEPT v2 — Cosa cambia
+## CONCEPT v2 — Cosa cambia
 
-### STESSO STILE
-- Abito bianco, ripresa di profilo (o ¾), luce cinematografica, testo rosso
+**Stesso stile esatto della v1:** abito bianco, profilo, luce cinematografica warm, testo rosso in alto.
 
-### COSA CAMBIA
-
-| Elemento | v1 | v2 |
-|---------|----|----|
-| Donne | 4 donne diverse | **1 sola donna** |
-| Etnia | Russa / Occidentale / Persiana / Israeliana | **Mista — tutti e quattro insieme** |
-| Mosca | Intatta (Cremlino) | **In rovina** |
-| Gerusalemme | Intatta (Muro del Pianto) | **In rovina** |
-| Washington D.C. | Assente | **Presente, in rovina** |
-| Tehran | Assente | **Presente, in rovina** |
-| Layout | Grid 2×2 (4 pannelli) | **Immagine unica** (o mantiene grid ma stessa donna × 4 sfondi) |
+**Unica differenza:** tutte e 4 le città sono **in rovina**. Washington D.C. sostituisce le macerie generiche per la donna americana.
 
 ---
 
-## LA DONNA
+## I 4 PANNELLI
 
-- Tratti misti: slavi (russa) + nordamericani + semitici (ebrea/persiana)
-- Ambiguità etnica deliberata — non identificabile con una sola nazionalità
-- Abito bianco, lungo, semplice — stesso stile v1
-- Profilo o ¾, sguardo lontano, espressione composta, non aggressiva
-- Capelli scuri o castani (punto di mediazione tra le 4 etnie)
+### Pannello 1 — RUSSA / MOSCA
+- Donna: tratti slavi, capelli scuri/castani, abito bianco lungo, profilo sinistro
+- Sfondo: **Cremlino e San Basilio in rovina** — cupole collassate, mura screpolate, fumo
+- Cielo: grigio-rosso, inverno, cenere
+- Testo rosso: **НЕБО** (in alto a sinistra)
 
----
+### Pannello 2 — AMERICANA / WASHINGTON D.C.
+- Donna: tratti nordamericani, capelli biondi o castani chiari, abito bianco lungo, profilo
+- Sfondo: **Campidoglio e/o Casa Bianca in rovina** — cupola collassata, colonne spezzate
+- Cielo: arancione caldo, tramonto, fumo
+- Testo rosso: **NEBO** (in alto a destra)
 
-## LO SFONDO — Le 4 capitali in rovina
+### Pannello 3 — PERSIANA / TEHRAN
+- Donna: tratti persiani, hijab o capelli scuri mossi, abito bianco lungo, profilo
+- Sfondo: **Torre Milad e/o Torre Azadi in rovina** — strutture collassate, polvere
+- Cielo: ocra/arancio, polvere, caldo
+- Testo rosso: **آسمان** (in alto a sinistra)
 
-Panorama composito che include elementi riconoscibili di tutte e 4, tutti distrutti:
-
-| Città | Elemento iconico | Stato |
-|-------|----------------|-------|
-| **Mosca** | Cremlino, cupole di San Basilio, Torre Spasskaya | In rovina, parzialmente collassato |
-| **Washington D.C.** | Campidoglio, Casa Bianca | In rovina, struttura scheletrica |
-| **Tel Aviv / Gerusalemme** | Muro del Pianto, cupola dorata (Moschea della Roccia) | In rovina |
-| **Tehran** | Torre Milad, Torre Azadi | In rovina, parzialmente collassata |
-
-- Cielo: rosso-arancio, fumo, cenere — tramonto post-apocalittico
-- Luce: stessa dell'immagine v1 (golden hour, calda)
-- Atmosfera: cinematografica, non cartoonesca
-
----
-
-## TESTO IN ROSSO — Le 4 lingue
-
-Il titolo **"NEBO"** nelle rispettive lingue e scritture, in rosso:
-
-| Lingua | Parola | Script |
-|--------|--------|--------|
-| Russo | **НЕБО** | Cirillico |
-| Inglese | **NEBO** (o SKY) | Latino |
-| Ebraico | **שָׁמַיִם** | Ebraico (destra→sinistra) |
-| Persiano/Farsi | **آسمان** | Arabo-Persiano (destra→sinistra) |
-
-- Colore: rosso vivo, stesso font della v1
-- Posizione: uno per angolo (come in v1) o disposti verticalmente
+### Pannello 4 — ISRAELIANA / TEL AVIV
+- Donna: tratti semitici/mediterranei, copricapo bianco o capelli scuri, abito bianco lungo, profilo
+- Sfondo: **skyline di Tel Aviv in rovina** — torri Azrieli collassate, o Muro del Pianto diroccato
+- Cielo: dorato/ambrato, fumo
+- Testo rosso: **שָׁמַיִם** (in alto a destra)
 
 ---
 
-## OPZIONI DI LAYOUT
+## STILE — Costanti su tutti i pannelli
 
-### Opzione A — Immagine unica
-Una sola composizione: donna al centro, sfondo panoramico con le 4 capitali in rovina, 4 scritte rosse negli angoli.
-
-### Opzione B — Grid 2×2 (come v1)
-Stessa donna × 4 pannelli, ogni pannello con una capitale diversa in rovina e la scritta nella lingua corrispondente. Più coerente con la v1.
+| Elemento | Specifiche |
+|---------|-----------|
+| Abbigliamento | Abito/camicia bianca lunga, lino o cotone |
+| Posa | Profilo (come v1) — sguardo lontano, composta |
+| Luce | Golden hour, warm, cinematografica |
+| Sfondo | Rovine riconoscibili della capitale specifica |
+| Cielo | Rosso/arancio/ambrato — mai sereno |
+| Testo | Rosso vivo, stesso font della v1, angolo in alto |
+| Formato | Quadrato, fotorealistico |
 
 ---
 
-## PROMPT per AI image generator (Opzione A)
+## PROMPT per AI generator — un pannello alla volta
 
+### Pannello 1 — Russa / Mosca
 ```
-A single woman of mixed Slavic, American, Semitic, and Persian heritage, 
-wearing a long white linen shirt, standing in profile or three-quarter view, 
-calm and composed expression, looking into the distance. 
-Behind her, a dramatic composite skyline shows Moscow's Kremlin and St. Basil's Cathedral, 
-Washington D.C.'s Capitol dome, Jerusalem's Western Wall, and Tehran's Milad Tower — 
-all partially destroyed, crumbling, burning, 
-under a dark crimson and amber sky filled with smoke. 
-Cinematic warm golden-hour lighting. 
-Text in deep red in four scripts in the corners: НЕБО (Cyrillic top-left), 
-NEBO (Latin top-right), آسمان (Farsi bottom-left), שָׁמַיִם (Hebrew bottom-right). 
-Photorealistic, dramatic composition, 1:1 square format.
+A Russian woman with Slavic features, long dark brown hair, wearing a long white linen shirt, 
+standing in left profile, calm expression, looking into the distance. 
+Background: Moscow's Kremlin and Saint Basil's Cathedral in ruins — 
+collapsed domes, crumbling walls, smoke rising. 
+Overcast red-grey winter sky, ash falling. 
+Cinematic warm lighting, photorealistic, dramatic. 
+Red bold Cyrillic text top-left corner: НЕБО. Square format 1:1.
 ```
 
-### Prompt Opzione B — Grid (4 pannelli, stessa donna)
-
+### Pannello 2 — Americana / Washington D.C.
 ```
-Panel [1/4]: Same woman, white shirt, profile view, left-facing. 
-Background: Moscow's Kremlin and Red Square in ruins, snow, burning. 
-Top-left red text: НЕБО
+An American woman with Northern European features, long blonde or light brown hair, 
+wearing a long white linen shirt, standing in left profile, calm expression. 
+Background: Washington D.C. — the Capitol building and White House in ruins, 
+collapsed dome, broken columns, rubble. 
+Warm orange sunset sky, smoke. 
+Cinematic lighting, photorealistic, dramatic. 
+Red bold Latin text top-right corner: NEBO. Square format 1:1.
+```
 
-Panel [2/4]: Same woman, same outfit. 
-Background: Washington D.C. Capitol and White House in ruins, warm light. 
-Top-right red text: NEBO
+### Pannello 3 — Persiana / Tehran
+```
+A Persian woman with Middle Eastern features, dark hair or white hijab, 
+wearing a long white linen shirt or white chador, standing in left profile, calm expression. 
+Background: Tehran in ruins — Milad Tower and Azadi Tower collapsed, 
+rubble-filled streets, dust clouds. 
+Ochre and orange dusty sky. 
+Cinematic warm lighting, photorealistic, dramatic. 
+Red bold Farsi text top-left corner: آسمان. Square format 1:1.
+```
 
-Panel [3/4]: Same woman. 
-Background: Tehran Milad Tower and Azadi Tower in ruins, dusty orange sky. 
-Bottom-left red text: آسمان
-
-Panel [4/4]: Same woman. 
-Background: Jerusalem Western Wall in ruins, golden dusk. 
-Bottom-right red text: שָׁמַיִם
-
-All panels: same photographic style, cinematic, warm tones, same character.
+### Pannello 4 — Israeliana / Tel Aviv
+```
+An Israeli woman with Semitic-Mediterranean features, dark hair with white head covering, 
+wearing a long white linen shirt, standing in left profile, calm expression. 
+Background: Tel Aviv skyline in ruins — Azrieli towers collapsed, 
+or Jerusalem's Western Wall crumbling, golden amber sky, smoke. 
+Cinematic warm lighting, photorealistic, dramatic. 
+Red bold Hebrew text top-right corner: שָׁמַיִם. Square format 1:1.
 ```
 
 ---
 
-## NOTE TECNICHE
+## ASSEMBLAGGIO FINALE
 
-- Formato: 1:1 (Spotify / streaming) + 2:3 (poster/fisico)
-- Risoluzione: min 3000×3000px a 300dpi
-- Deliverable: PNG + JPEG
+Unire i 4 pannelli in un grid 2×2 identico alla v1:
+
+```
+[ НЕБО — Russa/Mosca ]      [ NEBO — Americana/Washington ]
+[ آسمان — Persiana/Tehran ] [ שָׁמַיִם — Israeliana/TelAviv ]
+```
+
+Formato finale: 3000×3000px, 300dpi, JPEG + PNG.
 
 ---
 
-*Brief v2 — basato su copertina v1 "NEBO" esistente. Nikolai Fissenko, giugno 2026*
+*Brief v2 — Nikolai Fissenko, giugno 2026*

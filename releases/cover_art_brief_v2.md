@@ -1,105 +1,135 @@
-# NOBLE SIN — Cover Art Brief v2
-> Concept: "Four Capitals in Ruin"
+# NOBLE SIN — "NEBO" Cover Art Brief v2
+> Concept: Una donna, quattro capitali in rovina
 
 ---
 
-## CONCEPT SUMMARY
+## RIFERIMENTO v1
 
-A single powerful woman — mixed Russian / American / Israeli / Persian heritage — stands in the foreground, facing the viewer, against a panoramic backdrop of four destroyed capitals: Tehran, Moscow, Washington D.C., Tel Aviv.
-
-The title of the single appears in red, written simultaneously in the four corresponding languages and scripts.
-
----
-
-## FOREGROUND — THE WOMAN
-
-- Ethnically ambiguous: features that read as simultaneously Russian, American, Israeli, and Persian
-- Strong, composed, not aggressive — she is the survivor, not the destroyer
-- Dress/aesthetic: dark, minimal — not military, not glamorous — somewhere between elegance and ruins
-- Expression: cold, direct, unafraid
-- Lighting: dramatic chiaroscuro — lit from front, cities burning behind her
+La versione 1 (già prodotta) era un **grid 2×2** con:
+- 4 donne diverse, una per cultura/lingua, in abito bianco, ripresa di profilo
+- Ognuna davanti alla sua città (Mosca intatta, Gerusalemme intatta, macerie generiche)
+- Testo rosso in alto: НЕБО / NEBO / سماء / שָׁמַיִם
 
 ---
 
-## BACKGROUND — THE FOUR CITIES IN RUIN
+## NUOVO CONCEPT v2 — Cosa cambia
 
-The skyline is a composite panorama of all four capitals, each partially visible, all in various states of destruction:
+### STESSO STILE
+- Abito bianco, ripresa di profilo (o ¾), luce cinematografica, testo rosso
 
-| City | Distinctive Element | Country |
-|------|-------------------|---------|
-| **Moscow** | Kremlin domes, Red Square | Russia |
-| **Washington D.C.** | Capitol dome, White House | USA |
-| **Tel Aviv / Jerusalem** | Old City walls, Azrieli towers | Israel |
-| **Tehran** | Milad Tower, Azadi Tower | Iran |
+### COSA CAMBIA
 
-- All structures partially collapsed or burning
-- Sky: dark red/orange — fire, ash, dusk
-- Atmosphere: post-apocalyptic but cinematic, not cartoonish
-- No explicit gore or human casualties visible — the destruction is architectural, geopolitical
-
----
-
-## TYPOGRAPHY — TEXT IN RED
-
-The single/album title appears four times, once in each language, integrated into the composition:
-
-| Language | Script | Example (placeholder) |
-|----------|--------|----------------------|
-| Russian | Кириллица | **NOBLE SIN** → **БЛАГОРОДНЫЙ ГРЕХ** |
-| English | Latin | **NOBLE SIN** |
-| Hebrew | עברית | **חטא אצילי** |
-| Persian/Farsi | فارسی | **گناه اشرافی** |
-
-- Color: **deep red (#8B0000 or blood red)**
-- Style: bold, serif or stencil — commanding, not decorative
-- Placement: distributed across the image, one language per quadrant or layered vertically
-- Font should feel authoritative — no grunge/metal clichés
+| Elemento | v1 | v2 |
+|---------|----|----|
+| Donne | 4 donne diverse | **1 sola donna** |
+| Etnia | Russa / Occidentale / Persiana / Israeliana | **Mista — tutti e quattro insieme** |
+| Mosca | Intatta (Cremlino) | **In rovina** |
+| Gerusalemme | Intatta (Muro del Pianto) | **In rovina** |
+| Washington D.C. | Assente | **Presente, in rovina** |
+| Tehran | Assente | **Presente, in rovina** |
+| Layout | Grid 2×2 (4 pannelli) | **Immagine unica** (o mantiene grid ma stessa donna × 4 sfondi) |
 
 ---
 
-## COLOR PALETTE
+## LA DONNA
 
-| Element | Color |
-|---------|-------|
-| Sky/background | Deep crimson, charcoal, ash grey |
-| Fire/ruins | Orange, amber, dark red |
-| Woman's clothing | Black, dark charcoal |
-| Typography | Blood red (#8B0000) or bright red (#CC0000) |
-| Skin/lighting | Warm amber, golden hour |
+- Tratti misti: slavi (russa) + nordamericani + semitici (ebrea/persiana)
+- Ambiguità etnica deliberata — non identificabile con una sola nazionalità
+- Abito bianco, lungo, semplice — stesso stile v1
+- Profilo o ¾, sguardo lontano, espressione composta, non aggressiva
+- Capelli scuri o castani (punto di mediazione tra le 4 etnie)
 
 ---
 
-## MOOD REFERENCES
+## LO SFONDO — Le 4 capitali in rovina
 
-- Cinematic: *Children of Men*, *1984* (2024 adaptation), Cold War propaganda aesthetics inverted
-- NOT: comic-book dystopia, heavy metal excess, war propaganda
-- Tone: **elegiac, political, female gaze on geopolitical collapse**
+Panorama composito che include elementi riconoscibili di tutte e 4, tutti distrutti:
+
+| Città | Elemento iconico | Stato |
+|-------|----------------|-------|
+| **Mosca** | Cremlino, cupole di San Basilio, Torre Spasskaya | In rovina, parzialmente collassato |
+| **Washington D.C.** | Campidoglio, Casa Bianca | In rovina, struttura scheletrica |
+| **Tel Aviv / Gerusalemme** | Muro del Pianto, cupola dorata (Moschea della Roccia) | In rovina |
+| **Tehran** | Torre Milad, Torre Azadi | In rovina, parzialmente collassata |
+
+- Cielo: rosso-arancio, fumo, cenere — tramonto post-apocalittico
+- Luce: stessa dell'immagine v1 (golden hour, calda)
+- Atmosfera: cinematografica, non cartoonesca
 
 ---
 
-## TECHNICAL SPECS (for designer/AI generator)
+## TESTO IN ROSSO — Le 4 lingue
 
-- Format: square (1:1) for Spotify/streaming + portrait (2:3) for physical/poster
-- Resolution: minimum 3000×3000px at 300dpi
-- Deliverables: PNG (transparent bg version) + JPEG (full comp)
+Il titolo **"NEBO"** nelle rispettive lingue e scritture, in rosso:
+
+| Lingua | Parola | Script |
+|--------|--------|--------|
+| Russo | **НЕБО** | Cirillico |
+| Inglese | **NEBO** (o SKY) | Latino |
+| Ebraico | **שָׁמַיִם** | Ebraico (destra→sinistra) |
+| Persiano/Farsi | **آسمان** | Arabo-Persiano (destra→sinistra) |
+
+- Colore: rosso vivo, stesso font della v1
+- Posizione: uno per angolo (come in v1) o disposti verticalmente
 
 ---
 
-## PROMPT (for AI image generation — Midjourney / Stable Diffusion)
+## OPZIONI DI LAYOUT
+
+### Opzione A — Immagine unica
+Una sola composizione: donna al centro, sfondo panoramico con le 4 capitali in rovina, 4 scritte rosse negli angoli.
+
+### Opzione B — Grid 2×2 (come v1)
+Stessa donna × 4 pannelli, ogni pannello con una capitale diversa in rovina e la scritta nella lingua corrispondente. Più coerente con la v1.
+
+---
+
+## PROMPT per AI image generator (Opzione A)
 
 ```
-A striking woman of mixed Russian, American, Israeli, and Persian heritage stands in the foreground, 
-facing the camera with a cold, composed expression. She wears dark minimal clothing. 
-Behind her, a dramatic composite skyline shows Moscow's Kremlin, Washington D.C.'s Capitol, 
-Tel Aviv's skyline, and Tehran's Milad Tower — all partially destroyed, burning, 
-under a dark crimson and ash-grey sky filled with smoke and embers. 
-The text "NOBLE SIN" appears in four scripts — Latin, Cyrillic, Hebrew, Farsi — 
-in deep blood red, distributed across the image. 
-Cinematic lighting, chiaroscuro, hyper-realistic, photographic quality, 
-dramatic composition, no cartoonish elements. 
-Aspect ratio 1:1.
+A single woman of mixed Slavic, American, Semitic, and Persian heritage, 
+wearing a long white linen shirt, standing in profile or three-quarter view, 
+calm and composed expression, looking into the distance. 
+Behind her, a dramatic composite skyline shows Moscow's Kremlin and St. Basil's Cathedral, 
+Washington D.C.'s Capitol dome, Jerusalem's Western Wall, and Tehran's Milad Tower — 
+all partially destroyed, crumbling, burning, 
+under a dark crimson and amber sky filled with smoke. 
+Cinematic warm golden-hour lighting. 
+Text in deep red in four scripts in the corners: НЕБО (Cyrillic top-left), 
+NEBO (Latin top-right), آسمان (Farsi bottom-left), שָׁמַיִם (Hebrew bottom-right). 
+Photorealistic, dramatic composition, 1:1 square format.
+```
+
+### Prompt Opzione B — Grid (4 pannelli, stessa donna)
+
+```
+Panel [1/4]: Same woman, white shirt, profile view, left-facing. 
+Background: Moscow's Kremlin and Red Square in ruins, snow, burning. 
+Top-left red text: НЕБО
+
+Panel [2/4]: Same woman, same outfit. 
+Background: Washington D.C. Capitol and White House in ruins, warm light. 
+Top-right red text: NEBO
+
+Panel [3/4]: Same woman. 
+Background: Tehran Milad Tower and Azadi Tower in ruins, dusty orange sky. 
+Bottom-left red text: آسمان
+
+Panel [4/4]: Same woman. 
+Background: Jerusalem Western Wall in ruins, golden dusk. 
+Bottom-right red text: שָׁמַיִם
+
+All panels: same photographic style, cinematic, warm tones, same character.
 ```
 
 ---
 
-*Brief version 2 — concept by Nikolai Fissenko, June 2026*
+## NOTE TECNICHE
+
+- Formato: 1:1 (Spotify / streaming) + 2:3 (poster/fisico)
+- Risoluzione: min 3000×3000px a 300dpi
+- Deliverable: PNG + JPEG
+
+---
+
+*Brief v2 — basato su copertina v1 "NEBO" esistente. Nikolai Fissenko, giugno 2026*

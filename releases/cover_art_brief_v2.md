@@ -1,5 +1,21 @@
 # NOBLE SIN — "NEBO" Cover Art Brief v2
-> Stato: APPROVATO DAL GRUPPO — giugno 2026
+> Stato: VERSIONE FINALE APPROVATA — giugno 2026
+
+---
+
+## VERSIONI FINALI APPROVATE
+
+Due versioni consegnate e approvate:
+
+**V2b — Con scritte** (versione con НЕБО / NEBO / آسمان / שָׁמַיִם in rosso)
+**V2a — Senza scritte** (stessa composizione, testo rimosso)
+
+Dettagli confermati dalle versioni finali:
+- Russa: capelli scuri lunghi, camicia bianca, Cremlino + San Basilio in rovina, cielo grigio
+- Americana: capelli biondi lunghi mossi, camicia bianca, Campidoglio in rovina parziale, luce fredda
+- Persiana: hijab bianco morbido, camicia bianca, Torre Azadi in rovina + Torre Milad sullo sfondo, cielo grigio
+- Israeliana: copricapo bianco avvolgente, camicia bianca, skyline Tel Aviv (torri Azrieli) in rovina, cielo grigio
+- Stile: documentaristico, freddo, desaturato, niente fuoco, niente fiamme ✅
 
 ---
 

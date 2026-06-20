@@ -170,4 +170,37 @@ When producing anything for Noble Sin:
 
 ---
 
+---
+
+## 12. REEL / VIDEO PRODUCTION — STATUS & LEARNINGS
+
+### Current project: "NEBO" music video reel
+- **Song:** NEBO — 145 BPM, anti-war theme, multilingual (EN/UA/RU)
+- **Concept:** 5 band members performing in a wheat field (Ukraine) + desert, dressed in all white
+- **Band in video:** woman (singer), long hair (guitar), tall buff (bass), tall skinny (guitar), curly hair (drums)
+- **Source material:** Studio photos of all 5 members
+
+### AI Video Tools — What was tried (June 2026)
+
+| Tool | What happened | Verdict |
+|------|--------------|---------|
+| Kling AI | No credits on free tier. Image-to-video only (doesn't generate group from one photo — must do 1 person per clip) | Best option for image-to-video BUT costs $5/mo |
+| HeyGen | Couldn't upload custom audio | Not suitable for music lip sync |
+| Hedra / DeevID | Couldn't upload audio, kept failing | Didn't work |
+
+### Key learnings
+- **Kling works best as 1 photo → 1 video per member**, then edit together in CapCut
+- **Lip sync for singer** requires separate tool (Hedra if it works, otherwise skip — fast cuts hide it)
+- **CapCut** is where audio, cuts, and final assembly happen — not in the AI tool
+- **Budget:** $5 on Kling Pro is worth it vs hours wasted on free tools
+- **Prompt style for Kling Image-to-Video:** keep it simple, e.g. `This person performing in a golden wheat field, wearing white clothes, golden hour, wind blowing, cinematic, photorealistic, subtle natural motion, 4K`
+
+### TODO (next session)
+- [ ] Decide: buy Kling Pro ($5) or find working free alternative
+- [ ] Generate 5 individual clips (one per member) — wheat field scene
+- [ ] Generate 5 individual clips — desert scene
+- [ ] Lip sync clip for singer (Hedra or skip)
+- [ ] Assemble on CapCut: cuts at 145 BPM, add NEBO audio, title card
+- [ ] Export and post reel
+
 *End of brief. If anything is missing or outdated, ask Nikolai directly.*

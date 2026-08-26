@@ -83,4 +83,6 @@
 ---
 
 ## NOTES
-[Anything specific to this single — vibe, target audience, press angle, etc.]
+- Distributor: **DistroKid, Musician Plus plan** — see `releases/rights_and_distribution.md` for full reasoning + Splits setup.
+- SIAE: 5-way split decided (20% each, 4 musicians = Autore musica, vocalist = Autore testo, no editore). Deposit not yet filed — see rights_and_distribution.md TODO list.
+

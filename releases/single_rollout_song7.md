@@ -84,3 +84,5 @@
 
 ## NOTES
 Working title "Song 7" — rename this file and the title above once the track has a real name.
+- Distributor: **DistroKid, Musician Plus plan** — same as Nebo, see `releases/rights_and_distribution.md`.
+- SIAE: same 5-way split policy as Nebo (20% each) applies once qualifica (who wrote music/text on this track) is confirmed.

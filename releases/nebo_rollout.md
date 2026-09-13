@@ -72,6 +72,27 @@
 
 ---
 
+## REELS SHOT LIST (min. 6, from 14/09/2026 photoshoot)
+
+Minimum distinct Reels needed to cover the full campaign — not extra shoots, cut from 3 setups:
+
+| # | Reel | When it posts | Notes |
+|---|------|---------------|-------|
+| 1 | Teaser 1 | T-3 (~25/09/2026) | Mystery, no title, 15–30s. From the moody/ambiguous setup. |
+| 2 | Teaser 2 | T-2 (~02/10/2026) | Hook or instrumental snippet. From the performance/energy setup. |
+| 3 | Announcement | T-2 (~02/10/2026) | Title "Nebo" + release date reveal. |
+| 4 | Release-day Reel | 16/10/2026 | Full teaser/lyric snippet. From the performance/energy setup. |
+| 5 | BTS / making-of | Release week Day 2 | Someone films the shoot process itself — no extra session needed. |
+| 6 | Live/acoustic clip | Release week Day 5 | Only if an actual performance is captured — separate from photoshoot if not. |
+
+**TikTok versions are re-edits of the same footage** (trim to hook, first 3s must grab) — not separate shoots.
+
+Shoot day target: 3 setups (moody/ambiguous, performance/energy, process B-roll) with enough takes/angles to cut all 6+ deliverables above, so nothing needs a reshoot for a missing cutaway.
+
+This runs on top of the regular Mon/Wed/Fri cadence in `social/content_calendar_template.md` — Nebo content layers on, doesn't replace track-of-the-week.
+
+---
+
 ## ASSETS CHECKLIST
 
 | Asset | Status | Notes |

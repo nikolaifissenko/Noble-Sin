@@ -102,7 +102,7 @@
 - SIAE deposit screen currently shows "quote mancanti" (missing quota) = 20% for both DEM and DRM — blocked on Andrea's registration.
 - **BLOCKED (13/09/2026):** confirmed the self-service SIAE portal will not let Andrea be added/won't advance — it only accepts co-authors who already have a SIAE position/IPI. This isn't fixable from the form itself.
 - Next step: contact SIAE directly (portal "Contatti" tab, or phone) and ask whether the deposit can be filed now with the 20% held in reserve for a not-yet-registered co-author, to be reassigned once he's registered. Not confirmed either way — don't assume.
-- Real fix: Andrea needs to complete SIAE membership registration to get his IPI — push this as top priority, independent of everything else. Once he has it, the deposit form unblocks on its own.
+- **Update:** Andrea IS already a SIAE member (joined ~mid-August 2026) — the IPI code just hasn't been assigned yet (processing delay, not a missing action on his part). When contacting SIAE, ask them to check the status of his membership file and, if he's an active member with pending IPI, whether the 20% can be reserved and deposited now pending code assignment (different/easier case than an unregistered third party).
 - **Not a blocker for the Nebo release timeline** (DistroKid/Spotify track is independent) — don't hold Oct 16 for this.
 
 ---

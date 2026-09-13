@@ -5,7 +5,7 @@
 
 ## SINGLE: "Nebo"
 **Release date:** 16/10/2026 (Friday)
-**Spotify pre-save link:** [pending — grab from DistroKid once processing completes]
+**Spotify pre-save link (HyperFollow):** https://distrokid.com/hyperfollow/noblesin1/nebo
 **Distributor submission deadline:** Submitted to DistroKid on 13/09/2026
 
 ---
@@ -76,7 +76,7 @@
 | Teaser clip (15–30s) | [ ] | |
 | Release-day Reel | [ ] | |
 | TikTok version | [ ] | |
-| Pre-save link | [ ] | Pull from DistroKid once processed |
+| Pre-save link | [x] | https://distrokid.com/hyperfollow/noblesin1/nebo |
 | Press photo (band) | [ ] | From 14/09/2026 photoshoot |
 | Pitch text (EN) | [ ] | |
 | Pitch text (IT) | [ ] | |

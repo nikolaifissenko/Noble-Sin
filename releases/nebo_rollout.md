@@ -98,6 +98,8 @@
 
 - [ ] SIAE registration filed for "Nebo" — real legal names, authorship split (music/lyrics) agreed between band members
 - [ ] Authorship names in DistroKid match SIAE filing exactly
+- **Split:** Nikolai 20% / Andrea 80%
+- **Andrea has no IPI code yet** (not yet a SIAE member). Plan: deposit the work now with both authors + real split declared (Nikolai's 20% + Andrea's 80%, Andrea marked "non socio"/pending). Andrea's share is reserved but not collectible until he completes SIAE membership and gets his IPI — push his membership application forward in parallel, don't let it drift, since royalties on his share stay stuck until then.
 
 ---
 

@@ -24,11 +24,12 @@
 - **Flagship track: "Running"** — heavily promoted already. DO NOT push "Running" as the main promo track anymore. It has served its role. Move on.
 - Strategy: relaunch *Off We Go* via "track of the week" social campaign — rotate through the other 10 tracks, not Running
 
-### Upcoming Singles (studio, target: September 2026)
-- New singles being recorded NOW
+### Upcoming Singles
 - Release strategy: **singles one by one**, NOT as an EP
 - Pitch each single to Spotify editorial **4 weeks before release** via Spotify for Artists dashboard
 - Also pitch to **independent alternative rock playlist curators** (not just editorial)
+
+**Active: "Nebo"** — release date **16/10/2026**. DistroKid submission DONE (13/09/2026). Full live status, timeline, assets, and SIAE rights tracking in `releases/nebo_rollout.md` — read that file for current state, don't assume anything below is up to date.
 
 ---
 

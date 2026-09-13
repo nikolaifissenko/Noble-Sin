@@ -98,8 +98,12 @@
 
 - [ ] SIAE registration filed for "Nebo" — real legal names, authorship split (music/lyrics) agreed between band members
 - [ ] Authorship names in DistroKid match SIAE filing exactly
-- **Split:** Nikolai 20% / Andrea 80%
-- **Andrea has no IPI code yet** (not yet a SIAE member). Plan: deposit the work now with both authors + real split declared (Nikolai's 20% + Andrea's 80%, Andrea marked "non socio"/pending). Andrea's share is reserved but not collectible until he completes SIAE membership and gets his IPI — push his membership application forward in parallel, don't let it drift, since royalties on his share stay stuck until then.
+- **Split (corrected, confirmed on SIAE deposit screen 13/09/2026):** 5 co-authors at 20% each — Nikolai Fissenko (IPI 1056979414), Antonio Serra (IPI 1225977235), Alina Lykholat (IPI 379607024), Valerio Oriente (IPI 1225980056), and Andrea (5th author, 20%, **no IPI code yet**).
+- SIAE deposit screen currently shows "quote mancanti" (missing quota) = 20% for both DEM and DRM — blocked on Andrea's registration.
+- **BLOCKED (13/09/2026):** confirmed the self-service SIAE portal will not let Andrea be added/won't advance — it only accepts co-authors who already have a SIAE position/IPI. This isn't fixable from the form itself.
+- Next step: contact SIAE directly (portal "Contatti" tab, or phone) and ask whether the deposit can be filed now with the 20% held in reserve for a not-yet-registered co-author, to be reassigned once he's registered. Not confirmed either way — don't assume.
+- Real fix: Andrea needs to complete SIAE membership registration to get his IPI — push this as top priority, independent of everything else. Once he has it, the deposit form unblocks on its own.
+- **Not a blocker for the Nebo release timeline** (DistroKid/Spotify track is independent) — don't hold Oct 16 for this.
 
 ---
 

@@ -18,7 +18,8 @@
 - [x] Uploaded to DistroKid (13/09/2026) with release date set to 16/10/2026
 - [x] DistroKid extras selected: Social Media Package (Content ID/Meta Rights Manager monetization), Discovery Package, Store Maximizer
 - [x] HyperFollow pre-save page auto-generated: https://distrokid.com/hyperfollow/noblesin1/nebo
-- [ ] **OPEN QUESTION — unresolved:** artwork submitted is a monochrome band photo (5 members walking away, industrial background). Not confirmed whether this is final art or a placeholder to be swapped after the 14/09 photoshoot. Ask Nikolai directly before assuming either way. Swap is free/instant pre-release, slow/unreliable once live — so resolve this before 16/10.
+- [x] **Photoshoot completed (14/09/2026).** Raw photos/footage in hand, not yet culled.
+- [ ] **OPEN — cull + pick:** go through the shoot, select final artwork candidate (3000x3000 crop) and confirm whether the monochrome band photo already on DistroKid stays or gets replaced. Also pull raw footage for the 3 setups (moody/ambiguous, performance/energy, process B-roll) into the shot list below. Swap on DistroKid is free/instant pre-release, slow/unreliable once live — resolve before 16/10.
 - [ ] DistroKid dashboard still needs: "Aggiungi credits e note di copertina" (band/producer credits — Apple Music will reject without this) and "Aggiungi il tuo testo" (lyrics) — flagged during upload as incomplete, not yet confirmed done.
 - [ ] SIAE registration — **blocked**, see Legal/Rights section below. Not a release blocker.
 - [ ] Spotify for Artists editorial pitch — submit the moment DistroKid syncs the release (usually ~1 day). **T-4-week deadline is 18/09/2026 — do not miss this.**

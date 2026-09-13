@@ -14,7 +14,9 @@
 - [x] Master finished
 - [x] Uploaded to DistroKid (13/09/2026) with release date set to 16/10/2026
 - [x] DistroKid extras selected: Social Media Package (Content ID/Meta Rights Manager monetization), Discovery Package, Store Maximizer
-- [ ] Artwork: placeholder submitted at upload — **must be swapped for final art before 16/10** (free/instant pre-release, slow/unreliable post-release)
+- [x] HyperFollow pre-save page auto-generated: https://distrokid.com/hyperfollow/noblesin1/nebo
+- [ ] **OPEN QUESTION — unresolved:** artwork submitted is a monochrome band photo (5 members walking away, industrial background). Not confirmed whether this is final art or a placeholder to be swapped after the 14/09 photoshoot. Ask Nikolai directly before assuming either way. Swap is free/instant pre-release, slow/unreliable once live — so resolve this before 16/10.
+- [ ] DistroKid dashboard still needs: "Aggiungi credits e note di copertina" (band/producer credits — Apple Music will reject without this) and "Aggiungi il tuo testo" (lyrics) — flagged during upload as incomplete, not yet confirmed done.
 - [ ] SIAE registration — not yet done, in progress in parallel. Lock real legal names + authorship/music-lyrics splits between band members before or alongside this filing, and make sure they match what's entered in DistroKid's author field.
 - [ ] Spotify for Artists editorial pitch — submit the moment DistroKid syncs the release (usually ~1 day). **T-4-week deadline is 18/09/2026 — do not miss this.**
 
@@ -72,7 +74,7 @@
 | Asset | Status | Notes |
 |-------|--------|-------|
 | Final master (WAV) | [x] | Uploaded to DistroKid |
-| Artwork (3000x3000px) | [ ] | Placeholder live — swap once photoshoot art is picked |
+| Artwork (3000x3000px) | [?] | Monochrome band photo submitted — final-or-placeholder status unconfirmed, see Open Question above |
 | Teaser clip (15–30s) | [ ] | |
 | Release-day Reel | [ ] | |
 | TikTok version | [ ] | |

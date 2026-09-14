@@ -17,8 +17,8 @@ The DistroKid submission on 13/09 actually went out as **"Al più presto" (ASAP)
 No streams/saves accrued yet, so Nikolai is taking the release down rather than trying to salvage the early release.
 
 **Steps:**
-1. [ ] DistroKid dashboard → "La mia musica" → Nebo → Take Down. Confirm the takedown email/confirmation.
-2. [ ] Wait for it to clear all stores (can lag a few days, especially Spotify).
+1. [x] DistroKid dashboard → "La mia musica" → Nebo → Take Down. Confirmed 14/09/2026 — DistroKid quoted **~2 days to clear all stores**, expected clear by ~16/09/2026.
+2. [ ] Wait for confirmation it's actually gone from Spotify (check ~16/09, don't assume — verify before resubmitting).
 3. [ ] Resubmit from scratch — same master + finished 3000x3000 artwork (see below, still valid) — but this time **screenshot the final preview screen's release-date line before confirming**, and get it checked before hitting submit. Must show an actual calendar date, not "Oggi"/"Al più presto".
 4. [ ] Once resubmitted with a real date: HyperFollow link will be new (old one is dead), Spotify pitch deadline resets to T-4 weeks from whatever the new date is, credits/lyrics need reconfirming on the new submission.
 

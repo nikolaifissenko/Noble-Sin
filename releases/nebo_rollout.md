@@ -4,30 +4,43 @@
 ---
 
 ## SINGLE: "Nebo"
-**Release date:** 16/10/2026 (Friday)
-**Spotify pre-save link (HyperFollow):** https://distrokid.com/hyperfollow/noblesin1/nebo
-**Distributor submission deadline:** Submitted to DistroKid on 13/09/2026
+**Release date:** TAKEDOWN IN PROGRESS (14/09/2026) — see incident below. All prior dates/links VOID until resubmitted.
+**Spotify pre-save link (HyperFollow):** ~~https://distrokid.com/hyperfollow/noblesin1/nebo~~ — DEAD, will change on resubmit
+**Distributor submission deadline:** N/A — resubmission not yet started
 
 ---
 
-## STATUS SNAPSHOT (13/09/2026)
+## ⚠️ INCIDENT (14/09/2026): released early by mistake, taking it down
 
-**DISTROKID: DONE.** Fully submitted and confirmed — release date 16/10/2026, extras selected, HyperFollow pre-save page live. Nothing left to do on DistroKid itself; remaining items below are dashboard add-ons and separate (SIAE) legal track.
+The DistroKid submission on 13/09 actually went out as **"Al più presto" (ASAP)**, not the intended 16/10/2026 — this was visible on the final DistroKid preview screen but wasn't caught at the time. Result: "Nebo" went live on Spotify same-day instead of following the planned 4-week rollout.
 
-- [x] Master finished
-- [x] Uploaded to DistroKid (13/09/2026) with release date set to 16/10/2026
-- [x] DistroKid extras selected: Social Media Package (Content ID/Meta Rights Manager monetization), Discovery Package, Store Maximizer
-- [x] HyperFollow pre-save page auto-generated: https://distrokid.com/hyperfollow/noblesin1/nebo
-- [x] **Photoshoot completed (14/09/2026).** Raw photos/footage in hand, not yet culled.
-- [x] **FINAL artwork chosen and cropped (13-14/09/2026):** riverbank/rocks photo (IMG_5825.HEIC), full band spread across the river rocks, direct-to-camera gaze, industrial crane visible in background. Superseded the earlier under-bridge candidate — Nikolai preferred this one once he saw it. Converted HEIC→JPEG and cropped to 3000x3000 (centered on the group, trimmed excess treetop/sky and foreground water) — final file ready to upload.
-- [ ] **OPEN — still needed:** upload the finished 3000x3000 JPEG to DistroKid to replace the current monochrome placeholder (free/instant pre-release, slow/unreliable once live) — resolve before 16/10.
-- [ ] DistroKid dashboard still needs: "Aggiungi credits e note di copertina" (band/producer credits — Apple Music will reject without this) and "Aggiungi il tuo testo" (lyrics) — flagged during upload as incomplete, not yet confirmed done.
-- [ ] SIAE registration — **blocked**, see Legal/Rights section below. Not a release blocker.
-- [ ] Spotify for Artists editorial pitch — submit the moment DistroKid syncs the release (usually ~1 day). **T-4-week deadline is 18/09/2026 — do not miss this.**
+No streams/saves accrued yet, so Nikolai is taking the release down rather than trying to salvage the early release.
+
+**Steps:**
+1. [ ] DistroKid dashboard → "La mia musica" → Nebo → Take Down. Confirm the takedown email/confirmation.
+2. [ ] Wait for it to clear all stores (can lag a few days, especially Spotify).
+3. [ ] Resubmit from scratch — same master + finished 3000x3000 artwork (see below, still valid) — but this time **screenshot the final preview screen's release-date line before confirming**, and get it checked before hitting submit. Must show an actual calendar date, not "Oggi"/"Al più presto".
+4. [ ] Once resubmitted with a real date: HyperFollow link will be new (old one is dead), Spotify pitch deadline resets to T-4 weeks from whatever the new date is, credits/lyrics need reconfirming on the new submission.
 
 ---
 
-## TIMELINE (anchored to 16/10/2026 release)
+## STATUS SNAPSHOT (13/09/2026) — PRE-INCIDENT, PARTIALLY STALE
+
+Items below were true before the takedown. Master and artwork are still valid and reusable on resubmit. Everything DistroKid-specific (links, submission status, pitch deadline) is void until resubmission.
+
+- [x] Master finished — reusable
+- [x] **FINAL artwork chosen and cropped:** riverbank/rocks photo (IMG_5825.HEIC), full band spread across the river rocks, direct-to-camera gaze, industrial crane visible in background — reusable, re-upload on resubmit
+- [x] **Photoshoot completed (14/09/2026).** Raw photos/footage in hand, not yet culled — still relevant for ongoing social content regardless of release date.
+- [ ] DistroKid extras (Social Media Package, Discovery Package, Store Maximizer) — need reselecting on resubmit
+- [ ] Credits/lyrics — need reconfirming on resubmit
+- [ ] SIAE registration — **blocked**, see Legal/Rights section below. Independent of this incident, still in progress.
+- [ ] Spotify for Artists editorial pitch — **not submitted**, moot until resubmission has a real future date
+
+---
+
+## TIMELINE — STALE, dates below assumed 16/10/2026 which is void, recalculate all T-minus dates from whatever date gets set on resubmission
+
+## TIMELINE (anchored to 16/10/2026 release — VOID, see incident above)
 
 ### T-4 weeks — by 18/09/2026
 - [ ] Submit to **Spotify editorial** via Spotify for Artists dashboard

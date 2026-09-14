@@ -123,6 +123,10 @@ A booking one-sheet should contain:
 Format: 1-page PDF, clean layout, no clutter.  
 Language: Italian version + English version (for international festivals).
 
+### Logo
+- [x] Wordmark (white on black, JPEG) — saved at `brand/logo_wordmark_white_on_black.jpg`. "NOBLE" + "BLE" ligature O containing small "SIN", elegant display serif.
+- [ ] Still missing per proper EPK requirements: vector version (SVG/AI/EPS), black-on-white variant, full-color variant if one exists. Raster white-on-black only covers dark-background use cases (social, dark web pages) — ask whoever designed it for the source file if it needs to scale cleanly (print, light-background placements).
+
 ---
 
 ## 8. SPOTIFY STRATEGY

@@ -1,6 +1,6 @@
 # NOBLE SIN — FULL MANAGEMENT BRIEF
 > For Claude Code / any AI agent taking over band management tasks
-> Last updated: June 2026
+> Last updated: September 2026
 
 ---
 
@@ -26,6 +26,7 @@
 
 ### Upcoming Singles (studio, target: September 2026)
 - New singles being recorded NOW
+- **First single confirmed titled "Nebo"** (Russian/Slavic for "sky") — cover art in progress, see Section 12
 - Release strategy: **singles one by one**, NOT as an EP
 - Pitch each single to Spotify editorial **4 weeks before release** via Spotify for Artists dashboard
 - Also pitch to **independent alternative rock playlist curators** (not just editorial)
@@ -167,6 +168,34 @@ When producing anything for Noble Sin:
 - [x] Spotify curator pitch template → `spotify/curator_pitch_EN.md`
 - [x] Single rollout plan template (for September releases) → `releases/single_rollout_template.md`
 - [x] Social content calendar (weekly template) → `social/content_calendar_template.md`
+
+---
+
+## 12. "NEBO" COVER ART — SESSION LOG (Sept 2026)
+
+**Status: unresolved, pick up here next session.**
+
+- Currently committed cover: `releases/nebo/artwork/NEBO_cover_FINAL_3000.jpg` (+ matching `.png`), on branch `claude/nebo-cover-art-design-jt4eq9`. 3000×3000, RGB, Spotify-ready.
+  - Source: band standing arms-crossed on the Ponte dei Congressi bridge deck, EUR gasometer in background, golden hour. (Original upload was a phone-gallery screenshot with UI chrome — cropped out.)
+  - Treatment: film-emulation grade (matte lifted blacks, cool/warm split-tone, fine grain, gentle vignette), square-cropped top-aligned to keep the gasometer + all 5 faces, tiny "NOBLE SIN – NEBO" credit top-left corner (Cormorant Garamond, deliberately small/unobtrusive).
+  - **This file is provisional, not locked** — right after committing it, the band asked for a "shot in the 60s or 40s" reimagining, so more grading passes followed.
+
+- **Four alternate grades were built on that same arms-crossed photo and sent to Nikolai as mockups, but never committed to git** (they only existed in that session's scratchpad, which does not persist):
+  1. Vintage B&W — high-contrast, deliberately blown sky, heavy grain, "old press photo" read, no text.
+  2. 60s Kodachrome-style color — subtle warm/punchy color, sky kept blue (first pass blew the sky white — had to pull contrast back).
+  3. 90s consumer-print-film look — soft contrast, muted/desaturated color, coarser grain.
+  4. Aged sepia album-photo look — soft/faded sepia, heavy grain + thin crease lines, white deckled border with rounded corners mounted on a dark olive card, matched to a real 1940s/60s family-photo reference the user supplied. Last edit on this one was "remove the blur, sharpen it" — done, but the sharpened version was never re-committed as final.
+  - **Next session: ask Nikolai which of these four (or the original film-grade FINAL) the band actually chose, then rebuild that exact look from the source photo at full 3000×3000 and overwrite `NEBO_cover_FINAL_3000.jpg`/`.png`.** None of the four alternates exist as files anywhere right now — they'll need to be regenerated from scratch using the notes below.
+
+- **Hard-won lessons from this round — don't repeat these:**
+  - Novelty/meme display fonts read as amateurish regardless of how well they match the "mood." Stalinist One + Black Ops One were rejected specifically because they're recognizable gaming/meme fonts, not because the war-mood concept was wrong.
+  - A big centered poster title with a drop shadow reads as template-y no matter the font. What actually landed better: no title at all, a tiny unobtrusive corner credit, or the title implied by an authentic print-frame treatment (the sepia mount) rather than typography overlaid on the photo.
+  - Several source photos the band sends are **phone-gallery screenshots with UI chrome baked in** (status bar text, ".HEIC" labels, slivers of neighboring photos in a grid view). Always check for this and crop it out before grading — crop bounds differ slightly per screenshot, so don't reuse a previous screenshot's exact crop pixel numbers blind; re-measure each time.
+  - Any contrast/curve push on this particular bridge photo blows the sky to white fast — it's already near-white near the horizon. Keep highlight shifts near zero and lean on saturation/vignette/grain for a "vintage" feel instead of pushing contrast.
+  - OpenArt image generation (`mcp__open_art__*`) was out of credits this session — all "sky mockup" and grading work was done procedurally with PIL instead of AI-generated imagery. Check credit balance before assuming it's available.
+  - The band members are underexposed/backlit in some frames from the river/gasometer shoot — apply a shadow-lift curve before grading when using those source photos.
+
+- The grading pipeline (crop/vignette/grain/text helpers, plus per-look scripts) was written this session but lives only in that session's own scratchpad (`nebo_cover/lib.py`, `film_grade.py`, `vintage_grade.py`, `era_grades2.py`, `old_photo.py`) — **not persisted, not in this repo.** A future session will need to rebuild these from the descriptions above rather than expecting to find the code. If this iteration continues across many more sessions, consider committing a `releases/nebo/artwork/scripts/` folder with the pipeline so it doesn't get rewritten from zero each time.
 
 ---
 

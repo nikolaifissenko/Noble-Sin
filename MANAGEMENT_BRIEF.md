@@ -1,6 +1,6 @@
 # NOBLE SIN — FULL MANAGEMENT BRIEF
 > For Claude Code / any AI agent taking over band management tasks
-> Last updated: June 2026
+> Last updated: September 2026
 
 ---
 
@@ -25,10 +25,16 @@
 - Strategy: relaunch *Off We Go* via "track of the week" social campaign — rotate through the other 10 tracks, not Running
 
 ### Upcoming Singles (studio, target: September 2026)
-- New singles being recorded NOW
+- New singles being recorded NOW — minimum 3 planned, first one titled **"Nebo"**
 - Release strategy: **singles one by one**, NOT as an EP
 - Pitch each single to Spotify editorial **4 weeks before release** via Spotify for Artists dashboard
 - Also pitch to **independent alternative rock playlist curators** (not just editorial)
+
+### Distribution — DistroKid plan
+- **Paid the €50 "all-in-one" DistroKid upgrade** (one-time, covers the account, not per-song). Unlocks: custom future release date (base plan only allows "ASAP"), custom ISRC, custom label name, iTunes preorder, custom pricing.
+- Decision rationale: the base "ASAP-only" plan makes the mandatory 4-week Spotify editorial pitch window (see Spotify Strategy below) impossible — Spotify for Artists needs the release date fixed and visible in advance to submit a pitch. Without the upgrade, no single could ever be pitched to editorial.
+- Cost amortizes across all 3+ planned singles (~€17/release), so treat it as sunk infrastructure — don't re-litigate this per release.
+- **Always set a real release date on DistroKid now**, at least 4-5 weeks out, to leave room for the Spotify pitch + full rollout timeline in `releases/single_rollout_template.md`.
 
 ---
 

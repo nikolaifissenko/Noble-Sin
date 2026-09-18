@@ -1,6 +1,6 @@
 # NOBLE SIN — FULL MANAGEMENT BRIEF
 > For Claude Code / any AI agent taking over band management tasks
-> Last updated: June 2026
+> Last updated: September 2026
 
 ---
 
@@ -29,6 +29,7 @@
 - Release strategy: **singles one by one**, NOT as an EP
 - Pitch each single to Spotify editorial **4 weeks before release** via Spotify for Artists dashboard
 - Also pitch to **independent alternative rock playlist curators** (not just editorial)
+- **"Nebo"** — war song, soldiers refusing orders / laying down weapons, heavy. Artwork done (see `releases/single_nebo.md` for full rollout + asset status).
 
 ---
 

@@ -31,9 +31,10 @@
 - Also pitch to **independent alternative rock playlist curators** (not just editorial)
 
 ### Distribution — DistroKid plan
-- **Paid the €50 "all-in-one" DistroKid upgrade** (one-time, covers the account, not per-song). Unlocks: custom future release date (base plan only allows "ASAP"), custom ISRC, custom label name, iTunes preorder, custom pricing.
+- **Upgraded to DistroKid "Musician Plus"** (~€50/year, **recurring annual subscription**, account-wide — not per-song). Unlocks: custom future release date (base "Musician" plan only allows "ASAP"), custom ISRC, custom label name, iTunes preorder, custom pricing.
 - Decision rationale: the base "ASAP-only" plan makes the mandatory 4-week Spotify editorial pitch window (see Spotify Strategy below) impossible — Spotify for Artists needs the release date fixed and visible in advance to submit a pitch. Without the upgrade, no single could ever be pitched to editorial.
-- Cost amortizes across all 3+ planned singles (~€17/release), so treat it as sunk infrastructure — don't re-litigate this per release.
+- Cost amortizes across all 3+ planned singles this cycle (~€17/release), so treat it as settled — don't re-litigate this per release.
+- **Renewal risk**: like all DistroKid plans, this is a subscription. If it lapses (not renewed), DistroKid takes the ENTIRE catalog down from every store — not just new singles, but *Off We Go* too. Downgrading to base Musician next year (if not actively releasing) is fine and safe as long as *some* renewal keeps happening; only a full non-renewal triggers takedown. If Noble Sin ever fully stops releasing and won't keep paying anything, buy "Leave a Legacy" (€25.99 one-time/song) on tracks worth preserving before cancelling.
 - **Always set a real release date on DistroKid now**, at least 4-5 weeks out, to leave room for the Spotify pitch + full rollout timeline in `releases/single_rollout_template.md`.
 
 ---

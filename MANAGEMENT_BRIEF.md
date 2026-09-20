@@ -167,6 +167,7 @@ When producing anything for Noble Sin:
 - [x] Spotify curator pitch template → `spotify/curator_pitch_EN.md`
 - [x] Single rollout plan template (for September releases) → `releases/single_rollout_template.md`
 - [x] Social content calendar (weekly template) → `social/content_calendar_template.md`
+- [x] Nebo-era visual identity + logo background treatment → `social/visual_identity.md`, assets in `social/assets/logo/`
 
 ---
 

@@ -4,6 +4,17 @@
 
 ---
 
+## 0. STANDING PRIORITY — THE BAND'S STORY ANGLE (read first)
+
+**Lead with it everywhere: Ukrainian singer + Russian guitarist in the same band.**
+- Alina Lykholat (vocals, lyrics) is Ukrainian. Nikolai Fissenko (guitar, also manager) is Russian, from Paris. The other three members are Italian. The band is based in Rome.
+- "Nebo" (Ukrainian for "sky") is an anti-war song. Alina wrote the lyrics in 2022, and the band built the song in 2026. The premise: what if soldiers in every army stopped obeying? There are more soldiers than officers, hence "We are an ocean against a drop of evil." The song ends in English, Ukrainian and Russian.
+- Push this angle as hard as possible across the Nebo campaign: curator pitches, press releases, interviews, captions, EPK/one-sheet bio, reels (e.g. Alina + Nikolai on camera together), and booking emails.
+- Keep it universal ("every army"). Don't name specific conflicts in pitches. Israel–Palestine (Sergeant Al-Hassan) and Russia–Ukraine are in the song, but naming them belongs in interviews, where there's room to explain.
+- Spotify editorial pitch was submitted 22/09/2026 using this angle, see `spotify/nebo_editorial_pitch.md`.
+
+---
+
 ## 1. THE BAND
 
 **Name:** Noble Sin  

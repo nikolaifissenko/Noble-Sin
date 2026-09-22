@@ -5,9 +5,9 @@
 ---
 
 ## SINGLE: "[Title]"
-**Release date:** [DD/MM/YYYY]  
+**Release date:** [DD/MM/YYYY] — set this as a real future date on DistroKid ("Musician Plus" plan unlocks custom dates; base "Musician" plan is ASAP-only)  
 **Spotify pre-save link:** [link — set up via Distrokid/distributor]  
-**Distributor submission deadline:** [date — typically 2–3 weeks before release]
+**Distributor submission deadline:** [date — typically 2–3 weeks before release, but submit the release itself early enough that the T-4-weeks Spotify pitch below is still possible]
 
 ---
 

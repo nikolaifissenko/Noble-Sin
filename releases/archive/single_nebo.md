@@ -1,13 +1,14 @@
-# Single Rollout Plan Template
-> Duplicate this file for each new single. Fill in [brackets].
+# Single Rollout Plan: "Nebo"
+> Duplicated from `single_rollout_template.md`.
 > Target: September 2026 releases — one single at a time.
 
 ---
 
-## SINGLE: "[Title]"
-**Release date:** [DD/MM/YYYY] — set this as a real future date on DistroKid ("Musician Plus" plan unlocks custom dates; base "Musician" plan is ASAP-only)  
-**Spotify pre-save link:** [link — set up via Distrokid/distributor]  
-**Distributor submission deadline:** [date — typically 2–3 weeks before release, but submit the release itself early enough that the T-4-weeks Spotify pitch below is still possible]
+## SINGLE: "Nebo"
+**Theme:** War song — soldiers refusing orders, laying down their weapons. Heavy, alternative rock.
+**Release date:** [DD/MM/YYYY]
+**Spotify pre-save link:** [link — set up via Distrokid/distributor]
+**Distributor submission deadline:** [date — typically 2–3 weeks before release]
 
 ---
 
@@ -62,7 +63,7 @@
 | Asset | Status | Notes |
 |-------|--------|-------|
 | Final master (WAV) | [ ] | |
-| Artwork (3000x3000px) | [ ] | |
+| Artwork (3000x3000px) | [x] | Graded from a real band photo (bridge/gasometer shoot), not AI-generated — desaturated, cinematic color grade, no text. Nikolai went with **v4** (4284x4284, ~10.4MB JPEG). |
 | Teaser clip (15–30s) | [ ] | |
 | Release-day Reel | [ ] | |
 | TikTok version | [ ] | |
@@ -70,6 +71,8 @@
 | Press photo (band) | [ ] | |
 | Pitch text (EN) | [ ] | |
 | Pitch text (IT) | [ ] | |
+
+**Artwork flag:** v4 is 10.4MB — over Spotify's 4MB cover art cap (confirmed via Spotify's 2026 spec: sRGB, 3000–10000px square, JPG/PNG/TIFF, **max 4MB**). It also predates a face-brightness fix (later versions corrected underexposed faces from the backlit shoot). Fine for Instagram/social use as-is; if it's going to a distributor (DistroKid/etc.) for the actual Spotify/Apple Music upload, it needs to be re-exported under 4MB first — ask Claude to regenerate a compliant version from the same grade if/when that's needed.
 
 ---
 
@@ -83,4 +86,4 @@
 ---
 
 ## NOTES
-[Anything specific to this single — vibe, target audience, press angle, etc.]
+War song — soldiers not following orders, laying down their weapons. Heavy despite the anti-war/refusal angle. Cover art built from an actual Noble Sin band photo (5-piece, camo pants, mud-stained white shirts, industrial gasometer backdrop in Rome) rather than AI-generated, per Nikolai's direction — real faces preserved, only color grading/mood changed.

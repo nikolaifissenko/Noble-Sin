@@ -4,10 +4,10 @@
 
 ---
 
-## SINGLE: "[Title]"
-**Release date:** [DD/MM/YYYY] — set this as a real future date on DistroKid ("Musician Plus" plan unlocks custom dates; base "Musician" plan is ASAP-only)  
-**Spotify pre-save link:** [link — set up via Distrokid/distributor]  
-**Distributor submission deadline:** [date — typically 2–3 weeks before release, but submit the release itself early enough that the T-4-weeks Spotify pitch below is still possible]
+## SINGLE: "Nebo"
+**Release date:** [DD/MM/YYYY — must be on/after 22/09/2026 to keep the 4-week Spotify editorial pitch window, since master finalized 25/08/2026]
+**Spotify pre-save link:** [link — set up via Distrokid/distributor]
+**Distributor submission deadline:** [date — typically 2–3 weeks before release]
 
 ---
 
@@ -15,7 +15,7 @@
 
 ### T-4 weeks (Release date minus 28 days)
 - [ ] Submit to **Spotify editorial** via Spotify for Artists dashboard
-- [ ] Finalize track master + artwork
+- [x] Finalize track master + artwork *(master done 25/08/2026 — artwork still pending)*
 - [ ] Set up pre-save link
 - [ ] Brief distributor on release date
 
@@ -61,7 +61,7 @@
 
 | Asset | Status | Notes |
 |-------|--------|-------|
-| Final master (WAV) | [ ] | |
+| Final master (WAV) | [x] | Done 25/08/2026 |
 | Artwork (3000x3000px) | [ ] | |
 | Teaser clip (15–30s) | [ ] | |
 | Release-day Reel | [ ] | |
@@ -83,4 +83,6 @@
 ---
 
 ## NOTES
-[Anything specific to this single — vibe, target audience, press angle, etc.]
+- Distributor: **DistroKid, Musician Plus plan** — see `releases/rights_and_distribution.md` for full reasoning + Splits setup.
+- SIAE: 5-way split decided (20% each, 4 musicians = Autore musica, vocalist = Autore testo, no editore). Deposit not yet filed — see rights_and_distribution.md TODO list.
+

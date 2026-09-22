@@ -64,6 +64,12 @@
 - **Band reels:** All five members filmed in white clothing for all Nebo content
 - **Press angle:** "A rock song where the soldiers disobey" — do not over-explain
 - **Files:** `releases/nebo_lyrics.md`, `releases/nebo_rollout.md`, `releases/cover_brief_nebo.md`
+#### Single: *NEBO*
+- **Status:** Cover art finalized ✅
+- **Concept:** Four-panel grid — Russian (brown hair), Ukrainian (blonde), Arab, and Jewish women in white, each in their war-affected landscape (Red Square / Ukrainian ruins / Middle Eastern rubble / Western Wall). Word "sky/heaven" in four languages (НЕБО / NEBO / سماء / שמיים) in red serif text per corner. NOBLE SIN logo bottom-center.
+- **Mood:** Cinematic, dramatic, hopeful — grunge meets political weight
+- **Cover art:** AI-generated, Spotify-ready 1:1 square format ✅
+- **Next step:** Set release date → pitch Spotify editorial 4 weeks prior
 
 ---
 

@@ -59,6 +59,7 @@
 - Release strategy: **singles one by one**, NOT as an EP
 - Pitch each single to Spotify editorial **4 weeks before release** via Spotify for Artists dashboard
 - Also pitch to **independent alternative rock playlist curators** (not just editorial)
+- **"Nebo"** — war song, soldiers refusing orders / laying down weapons, heavy. Artwork done (see `releases/single_nebo.md` for full rollout + asset status).
 
 #### First single: "NEBO" (небо)
 - **Nebo** = sky in Ukrainian

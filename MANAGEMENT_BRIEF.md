@@ -49,8 +49,10 @@
 - **Flagship track: "Running"** — DO NOT push "Running" as the main promo track anymore. It has served its role. Move on.
 - Strategy: relaunch *Off We Go* via "track of the week" social campaign — rotate through the other 10 tracks, not Running
 
-### Upcoming Singles (studio, target: September 2026)
-- New singles being recorded NOW
+### Upcoming Singles
+- **"Nebo"** — ready, cover art done, AI video in progress. Target: **mid-September 2026**. Spotify pitch deadline: **mid-August 2026**.
+- **Song 2 (Alina vocal recorded)** — Target: **November 2026**
+- **Indian-style demo** — in pipeline, TBD
 - Release strategy: **singles one by one**, NOT as an EP
 - Pitch each single to Spotify editorial **4 weeks before release** via Spotify for Artists dashboard
 - Also pitch to **independent alternative rock playlist curators** (not just editorial)
@@ -79,7 +81,7 @@
 |------|-------|------|--------|
 | 24/04/2026 | Let It Beer Club | Rome | Confirmed (past) |
 
-> Next show TBD. Booking festivals is priority #1 right now.
+> Next show TBD. Festival emails sent, no responses. Focus shifted to new material.
 
 ---
 
@@ -90,6 +92,10 @@
 3. **Prepare remaining September singles** — one by one after Nebo
 4. **Grow Instagram / TikTok / Spotify**
 5. **Build a professional booking one-sheet (EPK)**
+1. **Release "Nebo" — mid-September 2026** — AI video, rollout plan, Spotify pitch by mid-August
+2. **Prepare November single release** — Song 2 (Alina vocal recorded)
+3. **Grow Instagram / TikTok / Spotify**
+4. **Build a professional booking one-sheet (EPK)**
 
 ---
 

@@ -1,9 +1,9 @@
 # Nebo — Spotify for Artists Editorial Pitch
 > Release: Fri 23/10/2026 (DistroKid, resubmitted after the 13/09 early-release takedown). Pitch deadline T-4 weeks = 25/09/2026. One shot — no resubmitting.
 
-## Description (480/500 chars)
+## Description (468/500 chars)
 
-"Nebo" means "sky" in Ukrainian and Russian. An anti-war song: the order is "fire!", and Sergeants Bryan, Al-Hassan and Grishchenko refuse. Lyrics by our singer Alina, music by the whole band in Rome. It ends in English, Ukrainian and Russian: "We are an ocean against a drop of evil." First single since our debut Off We Go, from a Rome five-piece with roots in Paris. Promo: IG/TikTok teasers from 2 Oct, title reveal 9 Oct, Italian press, curator outreach in UK, France, Italy.
+"Nebo" means "sky" in Ukrainian. An anti-war song: the order is "fire!", and Sergeants Bryan, Al-Hassan and Grishchenko refuse. Lyrics by our singer Alina, music by the whole band in Rome. It ends in English, Ukrainian and Russian: "We are an ocean against a drop of evil." First single since our debut Off We Go, from a Rome five-piece with roots in Paris. Promo: IG/TikTok teasers from 2 Oct, title reveal 9 Oct, Italian press, curator outreach in UK, France, Italy.
 
 ## Form fields
 - Hometown: Rome, Italy (matches profile/EPK — Paris angle lives in the description and Groover outreach, not this field)

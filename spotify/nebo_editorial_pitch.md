@@ -1,5 +1,6 @@
 # Nebo — Spotify for Artists Editorial Pitch
 > Release: Fri 23/10/2026 (DistroKid, resubmitted after the 13/09 early-release takedown). Pitch deadline T-4 weeks = 25/09/2026. One shot — no resubmitting.
+> **STATUS: SUBMITTED 22/09/2026** via Spotify for Artists (3 days before the 25/09 deadline). Result lands as a placement (or not) on release day, 23/10 — Spotify sends no rejection notice.
 
 ## Description (489/500 chars)
 

@@ -303,6 +303,13 @@ When producing anything for Noble Sin:
   - The band members are underexposed/backlit in some frames from the river/gasometer shoot — apply a shadow-lift curve before grading when using those source photos.
 
 - The grading pipeline (crop/vignette/grain/text helpers, plus per-look scripts) was written this session but lives only in that session's own scratchpad (`nebo_cover/lib.py`, `film_grade.py`, `vintage_grade.py`, `era_grades2.py`, `old_photo.py`) — **not persisted, not in this repo.** A future session will need to rebuild these from the descriptions above rather than expecting to find the code. If this iteration continues across many more sessions, consider committing a `releases/nebo/artwork/scripts/` folder with the pipeline so it doesn't get rewritten from zero each time.
+- [x] Booking one-sheet PDF (EN + IT) → `booking/onesheet_EN.md`, `booking/onesheet_IT.md`
+- [x] Booking email template (festival version) → `booking/email_festival_EN.md`, `booking/email_festival_IT.md`
+- [x] Booking email template (club/venue version) → `booking/email_venue_IT.md`
+- [x] Spotify curator pitch template → `spotify/curator_pitch_EN.md`
+- [x] Single rollout plan template (for September releases) → `releases/single_rollout_template.md`
+- [x] Social content calendar (weekly template) → `social/content_calendar_template.md`
+- [x] Nebo-era visual identity + logo background treatment → `social/visual_identity.md`, assets in `social/assets/logo/`
 
 ---
 

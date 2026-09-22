@@ -1,11 +1,10 @@
 # Noble Sin — session instructions
 
-Read `MANAGEMENT_BRIEF.md` first. **Section 0 is the standing priority:** maximize the Ukrainian singer (Alina) + Russian guitarist (Nikolai) angle in everything produced for the band, starting with the "Nebo" campaign (release 23/10/2026).
+Noble Sin is Nikolai's band: alternative rock, Rome, five-piece. Nikolai is both a member (guitar) and the manager, handling booking, riders, EPK, socials and Spotify pitching. Use the `band-manager` skill for contracts, booking, riders or promotion.
 
-Before saying something isn't in the repo, check all remote branches (`git fetch origin && git grep <term> $(git for-each-ref --format='%(refname)' refs/remotes)`). Band history is spread across unmerged `claude/*` branches.
-# Repo notes for Claude
+**Read `MANAGEMENT_BRIEF.md` first. Section 0 is the standing priority:** maximize the Ukrainian singer (Alina) + Russian guitarist (Nikolai) angle in everything produced for the band, starting with the "Nebo" campaign (release 23/10/2026). The live Nebo plan is `releases/nebo_rollout.md`.
 
-Noble Sin: Nikolai's band (alternative rock, Rome, five-piece, female vocals). He's both a member and the manager, handling booking, riders, EPK, socials, Spotify pitching. See `MANAGEMENT_BRIEF.md` for the full management context. Also use the `band-manager` skill for anything related to contracts, booking, riders, or promotion.
+All earlier session branches were merged into the default branch on 22/09/2026. Commit new work back to the default branch so the next session sees it. Don't leave facts stranded on side branches.
 
 ## North Star
 

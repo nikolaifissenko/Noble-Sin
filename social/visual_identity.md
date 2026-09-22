@@ -1,4 +1,6 @@
-# Visual Identity — Reference: "Nebo" cover art
+# Noble Sin — Visual Identity (Nebo era)
+
+## Photo look — reference: "Nebo" cover art
 
 > Every photo edited for Instagram/social around this era must match this look. Don't post anything that breaks the grade or wardrobe rules below without a deliberate reason.
 
@@ -29,9 +31,10 @@
 - [ ] Grade has the cool-shadow/warm-midtone split, not neutral or oversaturated
 - [ ] No smiling/casual poses that break the serious tone
 - [ ] Background is industrial/urban Rome, not generic or busy
-# Noble Sin — Visual Identity
 
-## "Nebo" single era
+## Logo & backgrounds
+
+### Summary
 
 - Gritty, desaturated look. Cool-blue / warm-gold split grade (shadows cool, highlights warm).
 - Industrial Rome backdrop — Gazometro Ostiense specifically, not generic industrial.

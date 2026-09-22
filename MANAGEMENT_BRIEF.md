@@ -30,8 +30,7 @@
 
 ## 2. BRAND IDENTITY
 
-**Logo:** Distressed red serif typeface, all caps, "SIN" inside a circle sitting within the O of NOBLE. This is the official mark — never retype the band name in a substitute font on official materials. Always use the logo file.  
-**Logo color:** Red (`#CC0000` approx). Never recolor without approval.  
+**Logo:** "NOBLE SIN" wordmark with "SIN" nested in the O. Never retype the band name in a substitute font; always use the logo file. **Current version (settled 20/09/2026):** white on flat black, `brand/logo_wordmark_white_on_black.jpg`. Background/scrim rules and Nebo-era variants are in `social/visual_identity.md`. The June guide below described a red distressed version, so check with Nikolai before using red.  
 **Full brand guide:** `brand/brand_guide.md`
 
 **Visual identity in one line:** High contrast, stark, post-punk / art-rock graphic language. No warmth that wasn't earned.  
@@ -50,34 +49,20 @@
 - Strategy: relaunch *Off We Go* via "track of the week" social campaign — rotate through the other 10 tracks, not Running
 
 ### Upcoming Singles
-- **"Nebo"** — ready, cover art done, AI video in progress. Target: **mid-September 2026**. Spotify pitch deadline: **mid-August 2026**.
-- **Song 2 (Alina vocal recorded)** — Target: **November 2026**
-- **Indian-style demo** — in pipeline, TBD
-### Upcoming Singles (studio, target: September 2026)
-- New singles being recorded NOW
-- **First single confirmed titled "Nebo"** (Russian/Slavic for "sky") — cover art in progress, see Section 12
-- New singles being recorded NOW — minimum 3 planned, first one titled **"Nebo"**
 - Release strategy: **singles one by one**, NOT as an EP
-- Pitch each single to Spotify editorial **4 weeks before release** via Spotify for Artists dashboard
-- Also pitch to **independent alternative rock playlist curators** (not just editorial)
-- **"Nebo"** — war song, soldiers refusing orders / laying down weapons, heavy. Artwork done (see `releases/single_nebo.md` for full rollout + asset status).
+- Pitch each single to Spotify editorial **4 weeks before release** via Spotify for Artists, plus **independent alt-rock curators**
 
-#### First single: "NEBO" (небо)
-- **Nebo** = sky in Ukrainian
-- **Theme:** Soldiers from different armies (Sergeant Bryan, Sergeant Al-Hassan, Sergeant Grishchenko) each refusing orders independently. Peace as an act of disobedience.
-- **Languages in track:** English + Ukrainian + Russian — the final refusal delivered in all three simultaneously
-- **Visual concept:** White clothing throughout. Four-quadrant Vogue editorial cover — one woman per quadrant: Ukrainian (Kremlin), Russian (Kyiv ruins), Palestinian in white hijab (Gaza), Israeli in white tichel (Jerusalem). All in white.
-- **Title treatment:** НЕБО • سماء • שָׁמַיִם • НЕБО — same word in Ukrainian, Arabic, Hebrew, Russian
-- **Band reels:** All five members filmed in white clothing for all Nebo content
-- **Press angle:** "A rock song where the soldiers disobey" — do not over-explain
-- **Files:** `releases/nebo_lyrics.md`, `releases/nebo_rollout.md`, `releases/cover_brief_nebo.md`
-#### Single: *NEBO*
-- **Status:** Cover art finalized ✅
-- **Concept:** Four-panel grid — Russian (brown hair), Ukrainian (blonde), Arab, and Jewish women in white, each in their war-affected landscape (Red Square / Ukrainian ruins / Middle Eastern rubble / Western Wall). Word "sky/heaven" in four languages (НЕБО / NEBO / سماء / שמיים) in red serif text per corner. NOBLE SIN logo bottom-center.
-- **Mood:** Cinematic, dramatic, hopeful — grunge meets political weight
-- **Cover art:** AI-generated, Spotify-ready 1:1 square format ✅
-- **Next step:** Set release date → pitch Spotify editorial 4 weeks prior
-**Active: "Nebo"** — release date **16/10/2026**. DistroKid submission DONE (13/09/2026). Full live status, timeline, assets, and SIAE rights tracking in `releases/nebo_rollout.md` — read that file for current state, don't assume anything below is up to date.
+#### Active: "Nebo" (небо = "sky" in Ukrainian)
+- **Release: Fri 23/10/2026.** DistroKid submitted 20–21/09. Spotify editorial pitch submitted 22/09.
+- Anti-war song: Sergeants Bryan, Al-Hassan and Grishchenko refuse to fire. Lyrics by Alina (2022), music by the band (2026). 145 BPM. It ends in English, Ukrainian and Russian.
+- Visual era: gritty camo + white tops, Gazometro/industrial Rome, cool/warm split grade (`social/visual_identity.md`). The cover is a real band photo. The June AI four-panel concept was dropped (`releases/archive/`).
+- **Live status, timeline, assets, SIAE:** `releases/nebo_rollout.md`. Always read that file for current state.
+- Lyrics: `releases/nebo_lyrics.md`. Pitch: `spotify/nebo_editorial_pitch.md`.
+
+#### Next
+- **Single 2**, provisional date 20/11/2026: `releases/single_2_rollout.md` (possibly the "Alina vocal recorded" song, confirm with Nikolai)
+- **"Song 7"** (working title): `releases/single_rollout_song7.md`
+- **Indian-style demo:** in the pipeline, TBD
 
 ### Distribution — DistroKid plan
 - **Upgraded to DistroKid "Musician Plus"** (~€50/year, **recurring annual subscription**, account-wide — not per-song). Unlocks: custom future release date (base "Musician" plan only allows "ASAP"), custom ISRC, custom label name, iTunes preorder, custom pricing.
@@ -94,27 +79,24 @@
 |------|-------|------|--------|
 | 24/04/2026 | Let It Beer Club | Rome | Confirmed (past) |
 
-> Next show TBD. Festival emails sent, no responses. Focus shifted to new material.
+> Next show TBD. Summer 2026 festival emails were sent with no responses. Focus shifted to new material.
 
 ---
 
-## 5. CURRENT PRIORITIES (ranked)
+## 5. CURRENT PRIORITIES (ranked, as of 22/09/2026)
 
-1. **Book summer 2026 festivals** — Rome, Florence, Bologna, North Italy
-2. **Finish and release "Nebo"** — September 2026, full rollout plan in `releases/nebo_rollout.md`
-3. **Prepare remaining September singles** — one by one after Nebo
+1. **Nebo rollout to 23/10.** Pre-save link, teasers from 02/10, curator outreach, press (`releases/nebo_rollout.md`)
+2. **Maximize the Ukrainian singer + Russian guitarist angle** everywhere (§0)
+3. **Next single**, 20/11 provisional: the pitch deadline is T-4 weeks = ~23/10, the same day Nebo releases
 4. **Grow Instagram / TikTok / Spotify**
-5. **Build a professional booking one-sheet (EPK)**
-1. **Release "Nebo" — mid-September 2026** — AI video, rollout plan, Spotify pitch by mid-August
-2. **Prepare November single release** — Song 2 (Alina vocal recorded)
-3. **Grow Instagram / TikTok / Spotify**
-4. **Build a professional booking one-sheet (EPK)**
+5. **EPK / one-sheet**: update the bio with the §0 angle; the vector logo is still missing
+6. **Festivals 2027**: the summer 2026 round is over (emails sent, no replies). Most 2027 deadlines fall January to April, so prepare from November
 
 ---
 
 ## 6. FESTIVAL BOOKING PIPELINE
 
-These festivals have been identified. Status = TO CONTACT unless otherwise noted.
+Identified for summer 2026. That round is over (emails sent, no replies). Re-contact for 2027 from November, using the §0 angle and Nebo.
 
 | Festival | Organizer/Venue | City | Notes |
 |----------|----------------|------|-------|
@@ -132,7 +114,7 @@ These festivals have been identified. Status = TO CONTACT unless otherwise noted
 - Press photo (professional, not phone)
 - 2-3 live video links
 
-**Booking email tone:** Professional but not corporate. Alternative rock, Rome-based, female vocals, debut album out. Concise. No begging.
+**Booking email tone:** Professional but not corporate. Alternative rock, Rome-based, Ukrainian singer + Russian guitarist, debut album out, new single Nebo. Concise. No begging.
 
 ---
 
@@ -149,7 +131,7 @@ These festivals have been identified. Status = TO CONTACT unless otherwise noted
 - Reels > static posts for reach
 - "Track of the week" campaign: 1 track from *Off We Go* per week (not Running), with a 15–30s clip, story, and caption telling the story of that song
 - Behind-the-scenes studio content for the September singles — start teasing NOW
-- Nebo teasers: band in white clothing, no context, caption only "nebo." — start 3 weeks before release
+- Nebo teasers: from 02/10, camo/white-top look per `social/visual_identity.md` (first-post copy in `releases/nebo_rollout.md`)
 
 **TikTok (@noblesin_official)**
 - Same "track of the week" angle but adapted for TikTok format
@@ -207,7 +189,8 @@ Language: Italian version + English version (for international festivals).
 - ❌ Don't post only static images — video is king right now
 - ❌ Don't wait until August to contact summer festivals — most deadlines are March–April (some are already past — act fast)
 - ❌ Don't retype "NOBLE SIN" in a substitute font — always use the logo file
-- ❌ Don't over-explain the Nebo concept in press — "a rock song where the soldiers disobey" is enough
+- ❌ Don't name specific conflicts in pitches. Keep "every army" universal; save the detail for interviews (§0)
+- ❌ Never confirm a DistroKid upload without checking the release-date line (Nebo went out early by mistake on 13/09)
 
 ---
 
@@ -223,7 +206,7 @@ When producing anything for Noble Sin:
 - English for international-facing content (festival pitches, EPK)
 - Italian for local venue/festival contact
 - No corporate-speak, no cringe rock clichés ("explosive energy", "unforgettable experience")
-- The band's identity: alternative rock, Rome, female vocals, debut album — lean into that specificity
+- The band's identity: alternative rock, Rome, Ukrainian singer + Russian guitarist + three Italians, debut album. Lean into that specificity (§0)
 
 ---
 
@@ -231,85 +214,30 @@ When producing anything for Noble Sin:
 
 | File | Description |
 |------|-------------|
-| `brand/brand_guide.md` | Full visual identity — colors, type, photography, logo rules |
-| `booking/onesheet_EN.md` | Booking one-sheet in English |
-| `booking/onesheet_IT.md` | Booking one-sheet in Italian |
-| `booking/email_festival_EN.md` | Festival booking email template (EN) |
-| `booking/email_festival_IT.md` | Festival booking email template (IT) |
-| `booking/email_venue_IT.md` | Club/venue booking email template (IT) |
-| `spotify/curator_pitch_EN.md` | Spotify curator pitch template |
-| `releases/single_rollout_template.md` | Generic single rollout plan template |
-| `releases/nebo_lyrics.md` | Nebo — full lyrics + notes |
-| `releases/nebo_rollout.md` | Nebo — complete release plan and timeline |
-| `releases/cover_brief_nebo.md` | Nebo — cover art brief, final concept, Gemini prompt |
-| `social/content_calendar_template.md` | Weekly social content calendar template |
+| `CLAUDE.md` | Session instructions (loaded automatically) |
+| `brand/brand_guide.md`, `brand/logo_wordmark_white_on_black.jpg` | Brand guide + wordmark |
+| `social/visual_identity.md`, `social/assets/` | Nebo-era look, logo backgrounds, reel covers |
+| `social/content_calendar_template.md` | Weekly social calendar |
+| `booking/` | One-sheets (EN/IT) + festival/venue email templates |
+| `spotify/curator_pitch_EN.md` | Curator pitch template |
+| `spotify/nebo_editorial_pitch.md` | Nebo Spotify editorial pitch (submitted 22/09) |
+| `releases/nebo_rollout.md` | **Nebo, the live plan** |
+| `releases/nebo_lyrics.md` | Nebo lyrics |
+| `releases/nebo/artwork/` | Nebo cover files |
+| `releases/single_2_rollout.md`, `releases/single_rollout_song7.md` | Next singles |
+| `releases/single_rollout_template.md` | Generic rollout template |
+| `releases/rights_and_distribution.md`, `legal/siae_codice_ipi.md` | SIAE split policy, DistroKid choice, IPI help |
+| `releases/production_pipeline.md` | Preprod → studio → AI mix/master |
+| `nebo/ai_video_prompts.md` | AI video prompts (June) |
+| `releases/archive/` | Superseded Nebo plans + the June cover concept |
 
 ---
 
----
+## 13. REEL / VIDEO PRODUCTION — LEARNINGS (June 2026)
 
-## 12. REEL / VIDEO PRODUCTION — STATUS & LEARNINGS
-
-### Current project: "NEBO" music video reel
-- **Song:** NEBO — 145 BPM, anti-war theme, multilingual (EN/UA/RU)
-- **Concept:** 5 band members performing in a wheat field (Ukraine) + desert, dressed in all white
-- **Band in video:** woman (singer), long hair (guitar), tall buff (bass), tall skinny (guitar), curly hair (drums)
-- **Source material:** Studio photos of all 5 members
-
-### AI Video Tools — What was tried (June 2026)
-
-| Tool | What happened | Verdict |
-|------|--------------|---------|
-| Kling AI | No credits on free tier. Image-to-video only (doesn't generate group from one photo — must do 1 person per clip) | Best option for image-to-video BUT costs $5/mo |
-| HeyGen | Couldn't upload custom audio | Not suitable for music lip sync |
-| Hedra / DeevID | Couldn't upload audio, kept failing | Didn't work |
-
-### Key learnings
-- **Kling works best as 1 photo → 1 video per member**, then edit together in CapCut
-- **Lip sync for singer** requires separate tool (Hedra if it works, otherwise skip — fast cuts hide it)
-- **CapCut** is where audio, cuts, and final assembly happen — not in the AI tool
-- **Budget:** $5 on Kling Pro is worth it vs hours wasted on free tools
-- **Prompt style for Kling Image-to-Video:** keep it simple, e.g. `This person performing in a golden wheat field, wearing white clothes, golden hour, wind blowing, cinematic, photorealistic, subtle natural motion, 4K`
-
-### TODO (next session)
-- [ ] Decide: buy Kling Pro ($5) or find working free alternative
-- [ ] Generate 5 individual clips (one per member) — wheat field scene
-- [ ] Generate 5 individual clips — desert scene
-- [ ] Lip sync clip for singer (Hedra or skip)
-- [ ] Assemble on CapCut: cuts at 145 BPM, add NEBO audio, title card
-- [ ] Export and post reel
-## 12. "NEBO" COVER ART — SESSION LOG (Sept 2026)
-
-**Status: unresolved, pick up here next session.**
-
-- Currently committed cover: `releases/nebo/artwork/NEBO_cover_FINAL_3000.jpg` (+ matching `.png`), on branch `claude/nebo-cover-art-design-jt4eq9`. 3000×3000, RGB, Spotify-ready.
-  - Source: band standing arms-crossed on the Ponte dei Congressi bridge deck, EUR gasometer in background, golden hour. (Original upload was a phone-gallery screenshot with UI chrome — cropped out.)
-  - Treatment: film-emulation grade (matte lifted blacks, cool/warm split-tone, fine grain, gentle vignette), square-cropped top-aligned to keep the gasometer + all 5 faces, tiny "NOBLE SIN – NEBO" credit top-left corner (Cormorant Garamond, deliberately small/unobtrusive).
-  - **This file is provisional, not locked** — right after committing it, the band asked for a "shot in the 60s or 40s" reimagining, so more grading passes followed.
-
-- **Four alternate grades were built on that same arms-crossed photo and sent to Nikolai as mockups, but never committed to git** (they only existed in that session's scratchpad, which does not persist):
-  1. Vintage B&W — high-contrast, deliberately blown sky, heavy grain, "old press photo" read, no text.
-  2. 60s Kodachrome-style color — subtle warm/punchy color, sky kept blue (first pass blew the sky white — had to pull contrast back).
-  3. 90s consumer-print-film look — soft contrast, muted/desaturated color, coarser grain.
-  4. Aged sepia album-photo look — soft/faded sepia, heavy grain + thin crease lines, white deckled border with rounded corners mounted on a dark olive card, matched to a real 1940s/60s family-photo reference the user supplied. Last edit on this one was "remove the blur, sharpen it" — done, but the sharpened version was never re-committed as final.
-  - **Next session: ask Nikolai which of these four (or the original film-grade FINAL) the band actually chose, then rebuild that exact look from the source photo at full 3000×3000 and overwrite `NEBO_cover_FINAL_3000.jpg`/`.png`.** None of the four alternates exist as files anywhere right now — they'll need to be regenerated from scratch using the notes below.
-
-- **Hard-won lessons from this round — don't repeat these:**
-  - Novelty/meme display fonts read as amateurish regardless of how well they match the "mood." Stalinist One + Black Ops One were rejected specifically because they're recognizable gaming/meme fonts, not because the war-mood concept was wrong.
-  - A big centered poster title with a drop shadow reads as template-y no matter the font. What actually landed better: no title at all, a tiny unobtrusive corner credit, or the title implied by an authentic print-frame treatment (the sepia mount) rather than typography overlaid on the photo.
-  - Several source photos the band sends are **phone-gallery screenshots with UI chrome baked in** (status bar text, ".HEIC" labels, slivers of neighboring photos in a grid view). Always check for this and crop it out before grading — crop bounds differ slightly per screenshot, so don't reuse a previous screenshot's exact crop pixel numbers blind; re-measure each time.
-  - Any contrast/curve push on this particular bridge photo blows the sky to white fast — it's already near-white near the horizon. Keep highlight shifts near zero and lean on saturation/vignette/grain for a "vintage" feel instead of pushing contrast.
-  - OpenArt image generation (`mcp__open_art__*`) was out of credits this session — all "sky mockup" and grading work was done procedurally with PIL instead of AI-generated imagery. Check credit balance before assuming it's available.
-  - The band members are underexposed/backlit in some frames from the river/gasometer shoot — apply a shadow-lift curve before grading when using those source photos.
-
-- The grading pipeline (crop/vignette/grain/text helpers, plus per-look scripts) was written this session but lives only in that session's own scratchpad (`nebo_cover/lib.py`, `film_grade.py`, `vintage_grade.py`, `era_grades2.py`, `old_photo.py`) — **not persisted, not in this repo.** A future session will need to rebuild these from the descriptions above rather than expecting to find the code. If this iteration continues across many more sessions, consider committing a `releases/nebo/artwork/scripts/` folder with the pipeline so it doesn't get rewritten from zero each time.
-- [x] Booking one-sheet PDF (EN + IT) → `booking/onesheet_EN.md`, `booking/onesheet_IT.md`
-- [x] Booking email template (festival version) → `booking/email_festival_EN.md`, `booking/email_festival_IT.md`
-- [x] Booking email template (club/venue version) → `booking/email_venue_IT.md`
-- [x] Spotify curator pitch template → `spotify/curator_pitch_EN.md`
-- [x] Single rollout plan template (for September releases) → `releases/single_rollout_template.md`
-- [x] Social content calendar (weekly template) → `social/content_calendar_template.md`
-- [x] Nebo-era visual identity + logo background treatment → `social/visual_identity.md`, assets in `social/assets/logo/`
+The June AI music-video attempt (band in white in a wheat field/desert) is parked. The Nebo era now uses real footage from the 14/09 shoot. What's still useful:
+- Kling AI works best as 1 photo → 1 clip per member, edited together in CapCut. Kling Pro at ~$5/mo beats hours lost on free tools. HeyGen, Hedra and DeevID failed on custom audio.
+- CapCut is where audio, cuts and assembly happen. Nebo is 145 BPM, so cut on the beat.
 
 ---
 

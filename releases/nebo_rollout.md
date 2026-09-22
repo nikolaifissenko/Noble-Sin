@@ -22,6 +22,7 @@
 - [ ] Begin curator outreach (SubmitHub, Groover, direct DM) — 20–30 alt-rock/indie curators
 - [ ] Film/edit teaser content (15–30s, IG + TikTok)
 - [ ] **First teaser post — "something's coming," no title.** This is your actual "start posting" date.
+  - Cover: `social/assets/nebo/reel_cover_loading_camo.jpg` (1080×1920, "LOADING" bar treatment — see FIRST POST section below for caption/hashtags)
 
 ### T-2 weeks — Fri 09/10/2026
 - [ ] Announce track title "Nebo" + release date (23/10) on Instagram & TikTok
@@ -62,13 +63,17 @@
 |-------|--------|-------|
 | Final master (WAV) | [ ] | Bottleneck if not done — see T-4 |
 | Artwork (3000x3000px) | [ ] | |
+| IG profile pic (square) | [x] | `social/assets/nebo/profile_pic_square.jpg` (plain) + `profile_pic_square_camo.jpg` (camo/blood/dirt variant) |
 | Teaser clip (15–30s) | [ ] | No title in first teaser |
+| Reel/TikTok cover — teaser | [x] | `social/assets/nebo/reel_cover_loading_camo.jpg` — "LOADING" bar cover, 1080×1920, no title. Plain-bg version also saved as `reel_cover_loading_plain.jpg` |
 | Release-day Reel | [ ] | |
 | TikTok version | [ ] | Re-cut for hook in first 3s |
 | Pre-save link | [ ] | |
 | Press photo (band) | [ ] | |
 | Pitch text (EN) | [ ] | |
 | Pitch text (IT) | [ ] | |
+
+Other logo variants saved in `social/assets/nebo/` for later reels/posts: `reel_cover_vertical_plain.jpg`, `reel_cover_vertical_camo.jpg` (no loading bar, plain wordmark).
 
 ---
 
@@ -81,5 +86,24 @@
 
 ---
 
+## FIRST TEASER POST — ready to publish (T-3, Fri 02/10/2026)
+
+**Cover:** `social/assets/nebo/reel_cover_loading_camo.jpg` (1080×1920)
+
+**Caption (EN):**
+> Something's loading.
+> Not ready to say more yet — but the wait is almost over.
+
+**Caption (IT):**
+> Qualcosa si sta caricando.
+> Non è ancora il momento di dire di più — ma l'attesa sta per finire.
+
+**Hashtags:** `#noblesin #alternativerock #romarock #comingsoon #indierockband`
+(No title/date yet — that's the T-2 reveal. Save `#newmusic` for the reveal/release posts.)
+
+---
+
 ## NOTES
 Off We Go's "track of the week" rotation continues in parallel on the off-days — don't pause it, just don't let it compete with Nebo teaser posts in the same week's slot. Running stays excluded.
+
+Logo asset pipeline (profile pic, reel covers, camo/blood/dirt background variant, LOADING-bar teaser cover) was built this session — see `social/assets/nebo/` for all exports. Font used for "LOADING" treatment: Cinzel (tracked/letter-spaced caps), paired with the existing NOBLE SIN wordmark.

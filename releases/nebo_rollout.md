@@ -7,7 +7,7 @@
 **Release date:** Friday 23/10/2026 (DistroKid, Musician Plus, fixed future date)
 **Distributor:** submitted 20–21/09/2026 ✅
 **Spotify editorial pitch:** submitted 22/09/2026 ✅ (see `spotify/nebo_editorial_pitch.md`)
-**Spotify pre-save link (HyperFollow):** [ ] NOT set up. The old link `distrokid.com/hyperfollow/noblesin1/nebo` died with the takedown, so get the new one from DistroKid.
+**Spotify pre-save link (HyperFollow):** ✅ https://distrokid.com/hyperfollow/noblesin1/nebo-2 (live 24/09, shows "Nebo by Noble Sin", 23/10/2026). Share it without the `?utm_...` tail. The old `/nebo` link (no `-2`) died with the takedown, so never use it.
 **Lyrics:** `releases/nebo_lyrics.md`
 
 **Story angle (lead with it everywhere):** Ukrainian singer (Alina) + Russian guitarist (Nikolai) + three Italians, based in Rome. Lyrics written in 2022, song built in 2026. Premise: what if soldiers in every army stopped obeying? There are more soldiers than officers, hence "we are an ocean against a drop of evil". Full rules are in `MANAGEMENT_BRIEF.md` §0.
@@ -28,7 +28,7 @@
 - [x] Artwork submitted to DistroKid (see Cover below)
 - [x] DistroKid submission with the fixed 23/10 date
 - [x] Spotify editorial pitch (22/09)
-- [ ] **Set up the pre-save link**, needed from T-3 (HyperFollow only: Spotify Countdown Pages don't take singles)
+- [x] **Set up the pre-save link** (24/09) (HyperFollow only: Spotify Countdown Pages don't take singles)
 - [ ] Batch 20–30 vertical pieces from the 14/09 footage before 02/10
 - [ ] Request the YouTube Official Artist Channel through DistroKid
 
@@ -122,7 +122,7 @@ TikTok versions are re-edits of the same footage (hook in the first 3s). The Neb
 | Teaser reel cover | [x] | `social/assets/nebo/reel_cover_loading_camo.jpg` (+ `_plain`) |
 | Other reel covers | [x] | `social/assets/nebo/reel_cover_vertical_{plain,camo}.jpg` |
 | Logo backgrounds | [x] | `social/assets/logo/` (see `social/visual_identity.md`) |
-| Pre-save link | [ ] | |
+| Pre-save link | [x] | https://distrokid.com/hyperfollow/noblesin1/nebo-2 |
 | Teaser clips | [ ] | Cut from the 14/09 shoot |
 | Release-day Reel + TikTok | [ ] | |
 | Press photo (band) | [ ] | From the 14/09 shoot |

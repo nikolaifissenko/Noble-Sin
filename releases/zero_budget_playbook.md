@@ -89,7 +89,7 @@ The first 2 days set the save and repeat signals. Ask fans for one specific acti
 3. **The monthly-listener number is the unlock.** At 3,000+ monthly listeners, Countdown Pages become available for a future EP/album. Worth tracking as a milestone.
 
 ## 7. Applied to Nebo (23/10/2026), as of 24/09
-- [ ] HyperFollow link: still missing, and it's the #1 blocker for §3.3. Do it this week.
+- [x] HyperFollow link: live 24/09, https://distrokid.com/hyperfollow/noblesin1/nebo-2
 - [ ] Remove Groover from the curator plan. Use SubmitHub free + PlaylistPal free + direct email/DM.
 - [ ] Batch the 20–30 vertical pieces from the 14/09 footage before 02/10 (the current shot list has 6).
 - [ ] 3–4 Trial Reels between 02/10 and 09/10 to pick the announcement hook.

@@ -1,5 +1,5 @@
 # Single Rollout Plan — "Nebo"
-> **The only live plan for Nebo.** Status as of 22/09/2026. Consolidated from every earlier session branch. Superseded versions are in `releases/archive/`.
+> **The only live plan for Nebo.** Zero-budget tactics and sources: `releases/zero_budget_playbook.md`. Status as of 22/09/2026. Consolidated from every earlier session branch. Superseded versions are in `releases/archive/`.
 
 ---
 
@@ -28,10 +28,13 @@
 - [x] Artwork submitted to DistroKid (see Cover below)
 - [x] DistroKid submission with the fixed 23/10 date
 - [x] Spotify editorial pitch (22/09)
-- [ ] **Set up the pre-save link**, needed from T-3
+- [ ] **Set up the pre-save link**, needed from T-3 (HyperFollow only: Spotify Countdown Pages don't take singles)
+- [ ] Batch 20–30 vertical pieces from the 14/09 footage before 02/10
+- [ ] Request the YouTube Official Artist Channel through DistroKid
 
 ### T-3 weeks — Fri 02/10/2026
-- [ ] Curator outreach: 20–30 alt-rock/indie curators via SubmitHub, Groover (French curators, so use the Paris link) and direct DM. Lead with the Ukrainian + Russian angle.
+- [ ] Curator outreach: 20–30 alt-rock/indie + anti-war/protest-song curators via SubmitHub free credits, PlaylistPal free pitches and direct email/DM. Lead with the Ukrainian + Russian angle. No Groover: it's paid (~€2/curator), see `releases/zero_budget_playbook.md`.
+- [ ] 3–4 Instagram Trial Reels (02–09/10) to test hooks; the winner becomes the announcement Reel
 - [ ] Film/edit teaser content (15–30s, IG + TikTok)
 - [ ] **First teaser post**: "something's coming", no title (copy below)
 
@@ -40,6 +43,8 @@
 - [ ] Second teaser: hook or instrumental snippet
 - [ ] Press pitch (Italian blogs, local media, plus international), embargoed until 23/10
 - [ ] Draft release-day copy (EN + IT)
+- [ ] Spotify Canvas (3–8s loop) uploaded once Nebo shows in Spotify for Artists
+- [ ] Single 2: submit to DistroKid before 23/10 so it can be pitched on 23/10 (Spotify allows one pitched song at a time)
 
 ### T-1 week — Fri 16/10/2026
 - [ ] "One week to go" story/post

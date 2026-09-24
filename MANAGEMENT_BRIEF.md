@@ -175,7 +175,7 @@ Language: Italian version + English version (for international festivals).
 ## 9. SPOTIFY STRATEGY
 
 1. **Pitch window:** Submit each new single in Spotify for Artists dashboard exactly 4 weeks before release date. Miss this = no editorial consideration.
-2. **Curator outreach:** Manually find and contact 20–30 playlist curators running alt-rock / indie rock / Italian rock playlists. Pitch via SubmitHub, Groover, or direct Instagram DM.
+2. **Curator outreach:** Manually find and contact 20–30 playlist curators running alt-rock / indie rock / Italian rock playlists. Pitch via SubmitHub free credits, PlaylistPal, or direct email/Instagram DM. Groover is paid, so skip it on a zero budget.
 3. **Back-catalog campaign:** "Track of the week" for *Off We Go* — push a different track each week to reactivate Spotify listeners and feed the algorithm.
 4. **Bio + artist profile:** Keep Spotify artist bio updated, link Instagram, add upcoming shows.
 
@@ -226,6 +226,7 @@ When producing anything for Noble Sin:
 | `releases/nebo/artwork/` | Nebo cover files |
 | `releases/single_2_rollout.md`, `releases/single_rollout_song7.md` | Next singles |
 | `releases/single_rollout_template.md` | Generic rollout template |
+| `releases/zero_budget_playbook.md` | Zero-budget single rollout research (2026), what's free vs paid, applied to Nebo |
 | `releases/rights_and_distribution.md`, `legal/siae_codice_ipi.md` | SIAE split policy, DistroKid choice, IPI help |
 | `releases/production_pipeline.md` | Preprod → studio → AI mix/master |
 | `nebo/ai_video_prompts.md` | AI video prompts (June) |

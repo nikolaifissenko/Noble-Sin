@@ -35,7 +35,7 @@
 ### T-3 weeks — Fri 02/10/2026
 - [ ] Curator outreach: 20–30 alt-rock/indie + anti-war/protest-song curators via SubmitHub free credits, PlaylistPal free pitches and direct email/DM. Lead with the Ukrainian + Russian angle. No Groover: it's paid (~€2/curator), see `releases/zero_budget_playbook.md`.
 - [ ] 3–4 Instagram Trial Reels (02–09/10) to test hooks; the winner becomes the announcement Reel
-- [ ] Film/edit teaser content (15–30s, IG + TikTok)
+- [x] Film/edit teaser content (15–30s, IG + TikTok), done by 24/09
 - [ ] **First teaser post**: "something's coming", no title (copy below)
 
 ### T-2 weeks — Fri 09/10/2026
@@ -123,7 +123,7 @@ TikTok versions are re-edits of the same footage (hook in the first 3s). The Neb
 | Other reel covers | [x] | `social/assets/nebo/reel_cover_vertical_{plain,camo}.jpg` |
 | Logo backgrounds | [x] | `social/assets/logo/` (see `social/visual_identity.md`) |
 | Pre-save link | [x] | https://distrokid.com/hyperfollow/noblesin1/nebo-2 |
-| Teaser clips | [ ] | Cut from the 14/09 shoot |
+| Teaser clips | [x] | Cut from the 14/09 shoot, edited by 24/09 |
 | Release-day Reel + TikTok | [ ] | |
 | Press photo (band) | [ ] | From the 14/09 shoot |
 | Spotify editorial pitch | [x] | 22/09 |

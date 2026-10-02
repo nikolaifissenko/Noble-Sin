@@ -1,5 +1,5 @@
 # Single Rollout Plan — "Nebo"
-> **The only live plan for Nebo.** Zero-budget tactics and sources: `releases/zero_budget_playbook.md`. Status as of 22/09/2026; timeline re-cut 02/10/2026 (first teaser moved to 09/10, Nikolai's call). Consolidated from every earlier session branch. Superseded versions are in `releases/archive/`.
+> **The only live plan for Nebo.** Zero-budget tactics and sources: `releases/zero_budget_playbook.md`. Status as of 22/09/2026; timeline re-cut 02/10/2026 (Nikolai's call): **only 3 feed posts before release** (09/10, 12/10, 16/10), all other Nebo content goes out after 23/10. Consolidated from every earlier session branch. Superseded versions are in `releases/archive/`.
 
 ---
 
@@ -34,23 +34,20 @@
 
 ### T-3 weeks — Fri 02/10/2026
 - [ ] Curator outreach: 20–30 alt-rock/indie + anti-war/protest-song curators via SubmitHub free credits, PlaylistPal free pitches and direct email/DM. Lead with the Ukrainian + Russian angle. No Groover: it's paid (~€2/curator), see `releases/zero_budget_playbook.md`.
-- [ ] 3–4 Instagram Trial Reels (02–09/10) to test hooks; the winner becomes the announcement Reel
 - [x] Film/edit teaser content (15–30s, IG + TikTok), done by 24/09
 - Curator outreach doesn't depend on the teaser, so it still starts now (SubmitHub takes unreleased files).
-- The Trial Reels window (02–08/10) now exists to pick the hook for the 09/10 teaser.
 
 ### T-2 weeks — Fri 09/10/2026
-- [ ] **First teaser post (Fri 09/10)**: "something's loading", no title (copy below). Moved from 02/10 by Nikolai on 02/10.
-- [ ] **Announcement (Mon 12/10)**: title "Nebo" + 23/10 date + pre-save link on IG + TikTok. Use the Alina + Nikolai reel.
-- [ ] Second teaser (Wed 14/10): hook or instrumental snippet
+- [ ] **Pre-release post 1/3 (Fri 09/10)**: teaser, "something's loading", no title (copy below).
+- [ ] **Pre-release post 2/3 (Mon 12/10)**: announcement, title "Nebo" + 23/10 date + pre-save link on IG + TikTok. Use the Alina + Nikolai reel.
 - [ ] Press pitch (Italian blogs, local media, plus international), embargoed until 23/10
 - [ ] Draft release-day copy (EN + IT)
 - [ ] Spotify Canvas (3–8s loop) uploaded once Nebo shows in Spotify for Artists
 - [ ] Single 2: submit to DistroKid before 23/10 so it can be pitched on 23/10 (Spotify allows one pitched song at a time)
 
 ### T-1 week — Fri 16/10/2026
-- [ ] "One week to go" story/post
-- [ ] Push the pre-save link: Stories + bio link
+- [ ] **Pre-release post 3/3 (Fri 16/10)**: "one week to go" + pre-save link
+- [ ] Pre-save link in bio (Stories are optional, they don't count against the 3 posts)
 - [ ] Lock the release-week content schedule
 
 ### RELEASE DAY — Fri 23/10/2026
@@ -63,6 +60,7 @@
 ### RELEASE WEEK — 24–30/10/2026
 - [ ] Sat 24: behind-the-scenes / making-of
 - [ ] Sun 25: story poll, "what's your favorite line in Nebo?"
+- [ ] Mon 26: hook / instrumental snippet (was teaser 2, moved after release)
 - [ ] Tue 27: live/acoustic clip if available
 - [ ] Fri 30: stream-count update if the numbers are good
 
@@ -86,9 +84,10 @@
 
 | # | Reel | Posts | Notes |
 |---|------|-------|-------|
-| 1 | Teaser 1 | 09/10 | Mystery, no title, 15–30s |
-| 3 | Announcement | 12/10 | Title + date reveal + pre-save |
-| 2 | Teaser 2 | 14/10 | Hook or instrumental snippet |
+| 1 | Teaser | 09/10 | Pre-release 1/3. Mystery, no title, 15–30s |
+| 2 | Announcement | 12/10 | Pre-release 2/3. Title + date + pre-save |
+| 3 | One week to go | 16/10 | Pre-release 3/3. Pre-save push |
+| 7 | Hook snippet | 26/10 | Was teaser 2, moved after release |
 | 4 | Release-day Reel | 23/10 | Full teaser / lyric snippet |
 | 5 | BTS / making-of | 24/10 | Shoot process footage |
 | 6 | Live/acoustic | 27/10 | Only if a real performance is captured |

@@ -1,5 +1,5 @@
 # Single Rollout Plan — "Nebo"
-> **The only live plan for Nebo.** Zero-budget tactics and sources: `releases/zero_budget_playbook.md`. Status as of 22/09/2026. Consolidated from every earlier session branch. Superseded versions are in `releases/archive/`.
+> **The only live plan for Nebo.** Zero-budget tactics and sources: `releases/zero_budget_playbook.md`. Status as of 22/09/2026; timeline re-cut 02/10/2026 (first teaser moved to 09/10, Nikolai's call). Consolidated from every earlier session branch. Superseded versions are in `releases/archive/`.
 
 ---
 
@@ -36,11 +36,13 @@
 - [ ] Curator outreach: 20–30 alt-rock/indie + anti-war/protest-song curators via SubmitHub free credits, PlaylistPal free pitches and direct email/DM. Lead with the Ukrainian + Russian angle. No Groover: it's paid (~€2/curator), see `releases/zero_budget_playbook.md`.
 - [ ] 3–4 Instagram Trial Reels (02–09/10) to test hooks; the winner becomes the announcement Reel
 - [x] Film/edit teaser content (15–30s, IG + TikTok), done by 24/09
-- [ ] **First teaser post**: "something's coming", no title (copy below)
+- Curator outreach doesn't depend on the teaser, so it still starts now (SubmitHub takes unreleased files).
+- The Trial Reels window (02–08/10) now exists to pick the hook for the 09/10 teaser.
 
 ### T-2 weeks — Fri 09/10/2026
-- [ ] Announce the title "Nebo" and the 23/10 date on IG + TikTok
-- [ ] Second teaser: hook or instrumental snippet
+- [ ] **First teaser post (Fri 09/10)**: "something's loading", no title (copy below). Moved from 02/10 by Nikolai on 02/10.
+- [ ] **Announcement (Mon 12/10)**: title "Nebo" + 23/10 date + pre-save link on IG + TikTok. Use the Alina + Nikolai reel.
+- [ ] Second teaser (Wed 14/10): hook or instrumental snippet
 - [ ] Press pitch (Italian blogs, local media, plus international), embargoed until 23/10
 - [ ] Draft release-day copy (EN + IT)
 - [ ] Spotify Canvas (3–8s loop) uploaded once Nebo shows in Spotify for Artists
@@ -84,9 +86,9 @@
 
 | # | Reel | Posts | Notes |
 |---|------|-------|-------|
-| 1 | Teaser 1 | 02/10 | Mystery, no title, 15–30s |
-| 2 | Teaser 2 | 09/10 | Hook or instrumental snippet |
-| 3 | Announcement | 09/10 | Title + date reveal |
+| 1 | Teaser 1 | 09/10 | Mystery, no title, 15–30s |
+| 3 | Announcement | 12/10 | Title + date reveal + pre-save |
+| 2 | Teaser 2 | 14/10 | Hook or instrumental snippet |
 | 4 | Release-day Reel | 23/10 | Full teaser / lyric snippet |
 | 5 | BTS / making-of | 24/10 | Shoot process footage |
 | 6 | Live/acoustic | 27/10 | Only if a real performance is captured |
@@ -96,7 +98,7 @@ TikTok versions are re-edits of the same footage (hook in the first 3s). The Neb
 
 ---
 
-## FIRST TEASER POST — ready (Fri 02/10/2026)
+## FIRST TEASER POST — ready (Fri 09/10/2026)
 
 **Cover:** `social/assets/nebo/reel_cover_loading_camo.jpg` (1080×1920)
 

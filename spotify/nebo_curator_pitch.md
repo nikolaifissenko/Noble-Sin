@@ -59,7 +59,7 @@ nikolai.fissenko1@gmail.com · instagram.com/noblesin_official
 |---|--------|---------|-------|------|-----------------|
 | 1 | The Alternative (getalternative.com) | US | TheAltSubmissions@gmail.com | EN | Indie/alt blog, active (posted 02/10/2026) |
 | 2 | KALTBLUT (music editor Nicola Phillips) | DE | nphillips@kaltblut-magazine.com | EN | Berlin art/alt mag. Links only, no attachments (their rule) |
-| 3 | Punktastic (news desk) | UK | news@punktastic.com | EN | UK punk/alt. Note: they say unsolicited music often goes unanswered |
+| 3 | Punktastic (editor Penny Bennett; news@ is dead) | UK | penny@punktastic.com | EN | UK punk/alt. Note: they say unsolicited music often goes unanswered |
 | 4 | Bonded UK (press) | UK | Bondedukofficial@gmail.com | EN | Emerging/underground |
 | 5 | IDIOTEQ | PL/intl | www.idioteq.com@gmail.com | EN | DIY punk/hardcore; weaker sonic fit, strong DIY/protest fit |
 | 6 | ItaliaRock | IT | redazione@italiarock.it | IT | Reviews self-produced emerging rock |
@@ -77,9 +77,9 @@ nikolai.fissenko1@gmail.com · instagram.com/noblesin_official
 
 | Outlet | Sent | Reply | Result |
 |--------|------|-------|--------|
-| The Alternative (TheAltSubmissions@gmail.com) | 05/10/2026 | | |
+| The Alternative (TheAltSubmissions@gmail.com) | 05/10/2026 | Bounced: inbox full | Retry once on 12/10, drop if it bounces again |
 | KALTBLUT (Nicola Phillips) (nphillips@kaltblut-magazine.com) | 05/10/2026 | | |
-| Punktastic (news@punktastic.com) | 05/10/2026 | | |
+| Punktastic (news@punktastic.com) | 05/10/2026 | Bounced: address not found | Resent 05/10 to Penny Bennett (editor), penny@punktastic.com |
 | Bonded UK (Bondedukofficial@gmail.com) | 05/10/2026 | | |
 | IDIOTEQ (www.idioteq.com@gmail.com) | 05/10/2026 | | |
 | ItaliaRock (redazione@italiarock.it) | 05/10/2026 | | |
@@ -88,4 +88,4 @@ nikolai.fissenko1@gmail.com · instagram.com/noblesin_official
 | Rockon.it (staff@rockon.it) | 05/10/2026 | | |
 | OndaRock (vercingetorige60@libero.it) | 05/10/2026 | | |
 
-**Follow-up:** one short nudge on Mon 12/10 to anyone who hasn't replied. Release-day "it's out" note on 23/10 to anyone who replied.
+**Follow-up:** Claude sends one short nudge on Mon 12/10 (scheduled) to anyone who hasn't replied, as a reply in the same thread. Release-day "it's out" note on 23/10 to anyone who replied.

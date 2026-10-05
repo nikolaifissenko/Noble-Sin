@@ -1,6 +1,6 @@
 # Nebo — Curator & Press Pitch (email)
 > Written 02/10/2026. Sent from nikolai.fissenko1@gmail.com, one email per outlet (no BCC blasts).
-> **Blocked on:** a private listen link (SoundCloud private or Google Drive MP3). The song isn't public until 23/10 and DistroKid gives no private stream, so without the link the pitch can't be sent.
+> **Private listen link:** https://drive.google.com/file/d/1-tVLekYenQ3Tozn5WThdKplUW-ew85v9/view (Drive, anyone with the link can view; checked 05/10). Round 1 sent 05/10/2026.
 > Embargo: no coverage before Fri 23/10/2026.
 
 ---
@@ -77,4 +77,15 @@ nikolai.fissenko1@gmail.com · instagram.com/noblesin_official
 
 | Outlet | Sent | Reply | Result |
 |--------|------|-------|--------|
-| | | | |
+| The Alternative (TheAltSubmissions@gmail.com) | 05/10/2026 | | |
+| KALTBLUT (Nicola Phillips) (nphillips@kaltblut-magazine.com) | 05/10/2026 | | |
+| Punktastic (news@punktastic.com) | 05/10/2026 | | |
+| Bonded UK (Bondedukofficial@gmail.com) | 05/10/2026 | | |
+| IDIOTEQ (www.idioteq.com@gmail.com) | 05/10/2026 | | |
+| ItaliaRock (redazione@italiarock.it) | 05/10/2026 | | |
+| Extra! Music Magazine (redazione@xtm.it) | 05/10/2026 | | |
+| ImpattoSonoro (impattosonoro@gmail.com) | 05/10/2026 | | |
+| Rockon.it (staff@rockon.it) | 05/10/2026 | | |
+| OndaRock (vercingetorige60@libero.it) | 05/10/2026 | | |
+
+**Follow-up:** one short nudge on Mon 12/10 to anyone who hasn't replied. Release-day "it's out" note on 23/10 to anyone who replied.

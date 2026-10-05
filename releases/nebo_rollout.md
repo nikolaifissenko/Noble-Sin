@@ -128,7 +128,7 @@ TikTok versions are re-edits of the same footage (hook in the first 3s). The Neb
 | Release-day Reel + TikTok | [ ] | |
 | Press photo (band) | [ ] | From the 14/09 shoot |
 | Spotify editorial pitch | [x] | 22/09 |
-| Curator pitch (EN / IT) | [x] | `spotify/nebo_curator_pitch.md` (02/10), 10 verified emails. Blocked on a private listen link |
+| Curator pitch (EN / IT) | [x] | `spotify/nebo_curator_pitch.md` (02/10), 10 outlets emailed 05/10, private Drive listen link |
 
 ---
 

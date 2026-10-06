@@ -53,6 +53,30 @@ nikolai.fissenko1@gmail.com · instagram.com/noblesin_official
 
 ---
 
+## FR version
+
+**Objet :** Nebo : un single antiguerre d'une chanteuse ukrainienne et d'un guitariste russe (Noble Sin, 23/10)
+
+[Bonjour …,]
+
+Je suis Nikolai, guitariste et manager de Noble Sin, un groupe de rock alternatif basé à Rome. Notre chanteuse, Alina, est ukrainienne ; je suis russe, j'ai grandi à Paris ; les trois autres membres sont italiens.
+
+Notre nouveau single, « Nebo » (« ciel » en ukrainien), sort le 23 octobre. Alina en a écrit les paroles en 2022 autour d'une question : et si les soldats de toutes les armées cessaient simplement d'obéir ? Les soldats sont plus nombreux que les officiers : « nous sommes un océan contre une goutte de mal ». Dans la chanson, trois sergents refusent de tirer. Elle se termine en anglais, en ukrainien et en russe.
+
+[Une phrase sur pourquoi le média]
+
+Écoute privée (merci de ne pas la partager ni la publier avant le 23/10) : https://drive.google.com/file/d/1-tVLekYenQ3Tozn5WThdKplUW-ew85v9/view
+Pré-sauvegarde : https://distrokid.com/hyperfollow/noblesin1/nebo-2
+
+Si vous voulez la pochette, des photos presse ou une interview d'Alina et moi ensemble, n'hésitez pas.
+
+Merci pour l'écoute,
+Nikolai Fissenko
+Guitariste & manager, Noble Sin
+nikolai.fissenko1@gmail.com · instagram.com/noblesin_official
+
+---
+
 ## Round 1 list: emails checked on each outlet's own site (02/10/2026)
 
 | # | Outlet | Country | Email | Lang | Fit line / note |

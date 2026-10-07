@@ -132,11 +132,17 @@ TikTok versions are re-edits of the same footage (hook in the first 3s). The Neb
 
 ---
 
-## CURATOR OUTREACH LOG
+## STATUS 07/10/2026 (end of session)
+**Press/org outreach:** round 1 (10, 05/10) and round 2 batches 1–2 (26 on 06/10, 15 on 07/10) sent. Bounces 4/52 (~8%). Logs: `spotify/nebo_curator_pitch.md`, `spotify/nebo_outreach_round2.md`, `spotify/nebo_outreach_round3.md`. Rules: `spotify/outreach_rules.md`.
+**Replies:** Connection e.V. will share on IG from 23/10; Peace Pledge Union passed us to a colleague (answered 07/10); Punktastic OOO until 13/10; IDIOTEQ offers a paid $120 feature, **Nikolai to decide** (recommendation: skip, breaks zero budget). On 23/10 send the Spotify link to Connection e.V. and PPU.
+**Scheduled (routines):** batch 3 on 08/10, batch 4 on 09/10, batch 5 on 10/10; follow-ups on 12/10 (round 1), 14/10 (round 2), 16/10 (round 3); curator list built on 19/10; curator pitches and "it's out" notes on 23/10.
+**Social:** nothing posted yet. Post 1/3 (teaser) Fri 09/10 is ready to go. **Main risk: the Alina + Nikolai reel for the 12/10 announcement isn't filmed yet.** Shoot it by the weekend.
+**Still open before 23/10:** Single 2 to DistroKid, release-day copy (EN + IT), Spotify Canvas, press photo, add `nebo_cover_v4.jpg` to the repo, SIAE call about Andrea's IPI.
 
-| Curator / Playlist | Platform | Date Sent | Response | Result |
-|-------------------|----------|-----------|----------|--------|
-| | | | | |
+---
+
+## CURATOR OUTREACH LOG
+Press, blog, radio and org outreach is logged in the `spotify/` files above. Playlist curators start on 23/10 (`spotify/nebo_playlist_curators.md`, built 19/10).
 
 ---
 

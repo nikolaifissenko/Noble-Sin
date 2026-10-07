@@ -11,7 +11,7 @@
 - **Music blog or magazine:** the sound (alternative rock, 145 BPM, female vocals, ends in three languages), then the story.
 - **Radio:** a short, playable pitch, the length (3:12), and why their listeners in particular.
 - **Peace / anti-war / conscientious-objection organisation:** soldiers refusing to fire, "an ocean against a drop of evil". The song as something they can share.
-- **Ukrainian outlet:** Alina, Ukrainian, wrote the lyrics in 2022. The song ends in Ukrainian.
+- **Ukrainian outlet:** Alina, Ukrainian, wrote the lyrics in 2022. The song ends in Ukrainian. **Be careful:** for a country defending itself, "soldiers stop obeying" can read as "Ukrainians should lay down arms". Lead with Alina's voice and the "ocean against a drop of evil" image. Pitch culture desks, not hard-news or military desks. (Added 07/10.)
 - **Russian independent / exile outlet:** Nikolai, a Russian, playing an anti-war song alongside a Ukrainian singer. Nikolai approved this on 06/10/2026.
 - **Rome / Italian local:** a Rome band.
 

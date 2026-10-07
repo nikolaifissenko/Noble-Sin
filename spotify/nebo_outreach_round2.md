@@ -33,32 +33,32 @@
 | 1 (06/10) | Ukrainian Institute London | info@uil.org.uk | EN | Hello, | I'm writing because Alina, our singer, is Ukrainian and wrote the song in 2022, and we thought the Institute might like to hear it. | Sent 06/10 |
 | 1 (06/10) | Ukrainian Institute | press@ui.org.ua | EN | Hello, | I'm writing because Alina, our singer, is Ukrainian and wrote the song in 2022, and we thought the Institute might like to hear it. | Sent 06/10 |
 | 1 (06/10) | Radio Svoboda | radiosvoboda@rferl.org | EN | Hello, | I'm writing in case the story behind the song is of interest to Radio Svoboda's culture coverage. | Sent 06/10 |
-| 2 (07/10) | All Music Italia | redazione@allmusicitalia.it | IT | Ciao redazione, | Vi scrivo per segnalarvi l'uscita, nel caso possa interessare ad All Music Italia. | Scheduled |
-| 2 (07/10) | Mescalina | info@mescalina.it | IT | Ciao redazione, | Mescalina segue da anni il rock indipendente, ed è per questo che vi scrivo. | Scheduled |
-| 2 (07/10) | Il Cibicida | press@ilcibicida.com | IT | Ciao redazione, | Vi scrivo all'indirizzo che indicate per l'invio dei comunicati. | Scheduled |
-| 2 (07/10) | Rocklab | info@rocklab.it | IT | Ciao redazione, | Vi scrivo per segnalarvi l'uscita, nel caso possa interessare a Rocklab. | Scheduled |
-| 2 (07/10) | The New Noise | posta@thenewnoise.it | IT | Ciao redazione, | The New Noise dà spazio al rock alternativo, ed è per questo che vi scrivo. | Scheduled |
-| 2 (07/10) | Music Attitude | redazione@musicattitude.it | IT | Ciao redazione, | Vi scrivo per segnalarvi l'uscita, nel caso possa interessare a Music Attitude. | Scheduled |
-| 2 (07/10) | Newsic | redazione@newsic.it | IT | Ciao redazione, | Vi scrivo per segnalarvi l'uscita, nel caso possa interessare a Newsic. | Scheduled |
-| 2 (07/10) | Recensiamo Musica | ufficiostampa@recensiamomusica.com | IT | Ciao, | Vi scrivo all'indirizzo che indicate per gli artisti emergenti. | Scheduled |
-| 2 (07/10) | Radio Freccia | info@radiofreccia.it | IT | Ciao, | Vi scrivo per segnalarvi l'uscita, nel caso possa interessare a Radio Freccia. | Scheduled |
-| 2 (07/10) | MusicPaper | redazione@musicpaper.it | IT | Ciao redazione, | Vi scrivo per segnalarvi l'uscita, nel caso possa interessare a MusicPaper. | Scheduled |
-| 2 (07/10) | Exitwell | info@exitwell.com | IT | Ciao redazione, | Vi scrivo per segnalarvi l'uscita, nel caso possa interessare a Exitwell. | Scheduled |
-| 2 (07/10) | Radio Indie Sicilia | radioindiesicilia@gmail.com | IT | Ciao, | Vi scrivo perché Radio Indie dà spazio alle band indipendenti. | Scheduled |
-| 2 (07/10) | Radio Città Fujiko | info@radiocittafujiko.it | IT | Ciao, | Vi scrivo per segnalarvi l'uscita, nel caso possa trovare spazio su Radio Città Fujiko. | Scheduled |
-| 2 (07/10) | Esse Magazine | redazione@essemagazine.it | IT | Ciao redazione, | Vi scrivo per segnalarvi l'uscita, nel caso possa interessare a Esse Magazine. | Scheduled |
-| 2 (07/10) | Exhimusic | exhimusic@gmail.com | IT | Ciao, | Vi scrivo per segnalarvi l'uscita, nel caso possa interessare a Exhimusic. | Scheduled |
-| 2 (07/10) | Freakout Magazine | info@freakout-online.com | IT | Ciao redazione, | Vi scrivo per segnalarvi l'uscita, nel caso possa interessare a Freakout. | Scheduled |
-| 2 (07/10) | Kathodik | info@kathodik.it | IT | Ciao redazione, | Kathodik segue la musica indipendente, ed è per questo che vi scrivo. | Scheduled |
-| 2 (07/10) | Punkadeka | posta@punkadeka.it | IT | Ciao redazione, | Non è un pezzo punk in senso stretto, ma è un brano di protesta autoprodotto, ed è per questo che ho pensato a Punkadeka. | Scheduled |
-| 2 (07/10) | Long Live Rock'n'Roll | longliverocknroll.press@gmail.com | IT | Ciao redazione, | Vi scrivo all'indirizzo stampa che indicate sul sito. | Scheduled |
-| 2 (07/10) | Coolmag | redazione@coolmag.it | IT | Ciao redazione, | Vi scrivo per segnalarvi l'uscita, nel caso possa interessare a Coolmag. | Scheduled |
-| 2 (07/10) | Babel | en@babel.ua | EN | Hello, | I'm writing in case the story behind the song is of interest to Babel. | Scheduled |
-| 2 (07/10) | Hromadske | info@hromadske.ua | EN | Hello, | I'm writing in case the story behind the song is of interest to Hromadske's culture coverage. | Scheduled |
-| 2 (07/10) | The Village Ukraine | editor@the-village.com.ua | EN | Hello, | I'm writing in case the story behind the song is of interest to The Village. | Scheduled |
-| 2 (07/10) | Platfor.ma | hello@platfor.ma | EN | Hello, | I'm writing in case the story behind the song is of interest to Platfor.ma. | Scheduled |
-| 2 (07/10) | Wanted in Rome | info@wantedinrome.com | EN | Hello, | We're a Rome-based band, so I thought Wanted in Rome might like the story. | Scheduled |
-| 2 (07/10) | Romeing | info@romeing.it | EN | Hello, | We're a Rome-based band, so I thought Romeing might like the story. | Scheduled |
+| 2 (07/10) | All Music Italia | redazione@allmusicitalia.it | IT | Ciao redazione, | Vi scrivo per segnalarvi l'uscita, nel caso possa interessare ad All Music Italia. | Sent 07/10 (personal: Music for Change Award final 09/10) |
+| 2 (07/10) | Mescalina | info@mescalina.it | IT | Ciao redazione, | Mescalina segue da anni il rock indipendente, ed è per questo che vi scrivo. | Sent 07/10 (personal: Premio Cantacronache, Capossela/Capovilla, 20 years of Mescalina) |
+| 2 (07/10) | Il Cibicida | press@ilcibicida.com | IT | Ciao redazione, | Vi scrivo all'indirizzo che indicate per l'invio dei comunicati. | Sent 07/10 (personal: Gurriers/Protomartyr reviews, Liars live) |
+| 2 (07/10) | Rocklab | info@rocklab.it | IT | Ciao redazione, | Vi scrivo per segnalarvi l'uscita, nel caso possa interessare a Rocklab. | Skipped: site closed since 2017 |
+| 2 (07/10) | The New Noise | posta@thenewnoise.it | IT | Ciao redazione, | The New Noise dà spazio al rock alternativo, ed è per questo che vi scrivo. | Sent 07/10 (personal: honest: they lean Godflesh/Kevin Martin/Gigi Masin) |
+| 2 (07/10) | Music Attitude | redazione@musicattitude.it | IT | Ciao redazione, | Vi scrivo per segnalarvi l'uscita, nel caso possa interessare a Music Attitude. | Sent 07/10 (personal: Fontaines D.C. 'Tongue' review, DIIV; Under The Radar) |
+| 2 (07/10) | Newsic | redazione@newsic.it | IT | Ciao redazione, | Vi scrivo per segnalarvi l'uscita, nel caso possa interessare a Newsic. | Sent 07/10 (personal: Perturbazione interview quote about 'imparare a tradursi') |
+| 2 (07/10) | Recensiamo Musica | ufficiostampa@recensiamomusica.com | IT | Ciao, | Vi scrivo all'indirizzo che indicate per gli artisti emergenti. | Sent 07/10 (personal: Cristina Donà 'Possibili superstiti') |
+| 2 (07/10) | Radio Freccia | info@radiofreccia.it | IT | Ciao, | Vi scrivo per segnalarvi l'uscita, nel caso possa interessare a Radio Freccia. | Skipped: nothing specific to reference |
+| 2 (07/10) | MusicPaper | redazione@musicpaper.it | IT | Ciao redazione, | Vi scrivo per segnalarvi l'uscita, nel caso possa interessare a MusicPaper. | Skipped: classical/opera only |
+| 2 (07/10) | Exitwell | info@exitwell.com | IT | Ciao redazione, | Vi scrivo per segnalarvi l'uscita, nel caso possa interessare a Exitwell. | Sent 07/10 (personal: 'la maschera come atto politico' piece, España Circo Este interview) |
+| 2 (07/10) | Radio Indie Sicilia | radioindiesicilia@gmail.com | IT | Ciao, | Vi scrivo perché Radio Indie dà spazio alle band indipendenti. | Skipped: regional pop/piazza radio, poor fit |
+| 2 (07/10) | Radio Città Fujiko | info@radiocittafujiko.it | IT | Ciao, | Vi scrivo per segnalarvi l'uscita, nel caso possa trovare spazio su Radio Città Fujiko. | Sent 07/10 (personal: 'Be my voice', youth mobilisation coverage) |
+| 2 (07/10) | Esse Magazine | redazione@essemagazine.it | IT | Ciao redazione, | Vi scrivo per segnalarvi l'uscita, nel caso possa interessare a Esse Magazine. | Skipped: no editorial content visible |
+| 2 (07/10) | Exhimusic | exhimusic@gmail.com | IT | Ciao, | Vi scrivo per segnalarvi l'uscita, nel caso possa interessare a Exhimusic. | Sent 07/10 (personal: indie releases next to big names (Love Ghost, Joan As Police Woman)) |
+| 2 (07/10) | Freakout Magazine | info@freakout-online.com | IT | Ciao redazione, | Vi scrivo per segnalarvi l'uscita, nel caso possa interessare a Freakout. | Sent 07/10 (personal: Soccer Mommy single, Matt Berninger EP) |
+| 2 (07/10) | Kathodik | info@kathodik.it | IT | Ciao redazione, | Kathodik segue la musica indipendente, ed è per questo che vi scrivo. | Sent 07/10 (personal: Residuo review, Cloud Canyons interview) |
+| 2 (07/10) | Punkadeka | posta@punkadeka.it | IT | Ciao redazione, | Non è un pezzo punk in senso stretto, ma è un brano di protesta autoprodotto, ed è per questo che ho pensato a Punkadeka. | Sent 07/10 (personal: Jen Pop 'The Idiots Are Taking Over', L7, Magnolia festival) |
+| 2 (07/10) | Long Live Rock'n'Roll | longliverocknroll.press@gmail.com | IT | Ciao redazione, | Vi scrivo all'indirizzo stampa che indicate sul sito. | Sent 07/10 (personal: Capossela/Capovilla photos, Teatro Olimpico Roma 03/10) |
+| 2 (07/10) | Coolmag | redazione@coolmag.it | IT | Ciao redazione, | Vi scrivo per segnalarvi l'uscita, nel caso possa interessare a Coolmag. | Skipped: lifestyle/wine, poor fit |
+| 2 (07/10) | Babel | en@babel.ua | EN | Hello, | I'm writing in case the story behind the song is of interest to Babel. | Skipped: hard news only |
+| 2 (07/10) | Hromadske | info@hromadske.ua | EN | Hello, | I'm writing in case the story behind the song is of interest to Hromadske's culture coverage. | Skipped: hard war news; 'soldiers refuse to obey' could read badly to a Ukrainian outlet without a culture hook |
+| 2 (07/10) | The Village Ukraine | editor@the-village.com.ua | EN | Hello, | I'm writing in case the story behind the song is of interest to The Village. | Sent 07/10 (personal: Tember Blanche interview) |
+| 2 (07/10) | Platfor.ma | hello@platfor.ma | EN | Hello, | I'm writing in case the story behind the song is of interest to Platfor.ma. | Skipped: site unreadable |
+| 2 (07/10) | Wanted in Rome | info@wantedinrome.com | EN | Hello, | We're a Rome-based band, so I thought Wanted in Rome might like the story. | Skipped: event listings only, no gig to list yet |
+| 2 (07/10) | Romeing | info@romeing.it | EN | Hello, | We're a Rome-based band, so I thought Romeing might like the story. | Skipped: tourism guides |
 | 3 (08/10) | God Is In The TV | godisinthetvzine@gmail.com | EN | Hi there, | God Is In The TV has always championed independent guitar bands, which is why I'm sending Nebo your way. | Scheduled |
 | 3 (08/10) | Neon Music | marcus@neonmusic.co.uk | EN | Hi Marcus, | Your contact page lists you for editorial ideas, so I hope it's alright to send this to you. | Scheduled |
 | 3 (08/10) | Echoes and Dust | editor@echoesanddust.com | EN | Hi there, | Your site says to drop a line to this address about stuff to review, so here it is. | Scheduled |
@@ -85,3 +85,9 @@
 | 3 (08/10) | Discordance | info@discordance.fr | FR | Bonjour, | Je vous écris au cas où le titre intéresserait Discordance. | Scheduled |
 | 3 (08/10) | Radio Néo | programmation@radioneo.fr | FR | Bonjour, | Radio Néo fait découvrir des groupes émergents, c'est pour ça que je vous écris. | Scheduled |
 | 3 (08/10) | Radio Grenouille | prog@radiogrenouille.com | FR | Bonjour, | Je vous écris à l'adresse de la programmation, au cas où le titre trouverait sa place sur Radio Grenouille. | Scheduled |
+
+## Replies (as of 07/10)
+- **Peace Pledge Union** (Geoff Tibbs, 06/10): thanks, "solidarity and the best of luck". No action promised.
+- **Connection e.V.** (Sarah Ghebremariam, 06/10): will share Nebo on Instagram once released. Nikolai replied. **On 23/10, send them the Spotify link.**
+- **IDIOTEQ** (Karol Kaminski, 05/10, round 1): offers a feature for **$120 (paid)**. Conflicts with zero budget; not answered. Nikolai's call.
+- **Punktastic** (Penny): out of office until 13/10.

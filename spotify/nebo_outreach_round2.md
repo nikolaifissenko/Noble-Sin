@@ -40,10 +40,10 @@
 | 2 (07/10) | The New Noise | posta@thenewnoise.it | IT | Ciao redazione, | The New Noise dà spazio al rock alternativo, ed è per questo che vi scrivo. | Sent 07/10 (personal: honest: they lean Godflesh/Kevin Martin/Gigi Masin) |
 | 2 (07/10) | Music Attitude | redazione@musicattitude.it | IT | Ciao redazione, | Vi scrivo per segnalarvi l'uscita, nel caso possa interessare a Music Attitude. | Sent 07/10 (personal: Fontaines D.C. 'Tongue' review, DIIV; Under The Radar) |
 | 2 (07/10) | Newsic | redazione@newsic.it | IT | Ciao redazione, | Vi scrivo per segnalarvi l'uscita, nel caso possa interessare a Newsic. | Sent 07/10 (personal: Perturbazione interview quote about 'imparare a tradursi') |
-| 2 (07/10) | Recensiamo Musica | ufficiostampa@recensiamomusica.com | IT | Ciao, | Vi scrivo all'indirizzo che indicate per gli artisti emergenti. | Sent 07/10 (personal: Cristina Donà 'Possibili superstiti') |
+| 2 (07/10) | Recensiamo Musica | ufficiostampa@recensiamomusica.com | IT | Ciao, | Vi scrivo all'indirizzo che indicate per gli artisti emergenti. | Bounced 07/10: inbox full. Retry once 12/10, drop if it bounces again |
 | 2 (07/10) | Radio Freccia | info@radiofreccia.it | IT | Ciao, | Vi scrivo per segnalarvi l'uscita, nel caso possa interessare a Radio Freccia. | Skipped: nothing specific to reference |
 | 2 (07/10) | MusicPaper | redazione@musicpaper.it | IT | Ciao redazione, | Vi scrivo per segnalarvi l'uscita, nel caso possa interessare a MusicPaper. | Skipped: classical/opera only |
-| 2 (07/10) | Exitwell | info@exitwell.com | IT | Ciao redazione, | Vi scrivo per segnalarvi l'uscita, nel caso possa interessare a Exitwell. | Sent 07/10 (personal: 'la maschera come atto politico' piece, España Circo Este interview) |
+| 2 (07/10) | Exitwell | info@exitwell.com | IT | Ciao redazione, | Vi scrivo per segnalarvi l'uscita, nel caso possa interessare a Exitwell. | Bounced 07/10: undeliverable (Aruba). Find another contact or drop |
 | 2 (07/10) | Radio Indie Sicilia | radioindiesicilia@gmail.com | IT | Ciao, | Vi scrivo perché Radio Indie dà spazio alle band indipendenti. | Skipped: regional pop/piazza radio, poor fit |
 | 2 (07/10) | Radio Città Fujiko | info@radiocittafujiko.it | IT | Ciao, | Vi scrivo per segnalarvi l'uscita, nel caso possa trovare spazio su Radio Città Fujiko. | Sent 07/10 (personal: 'Be my voice', youth mobilisation coverage) |
 | 2 (07/10) | Esse Magazine | redazione@essemagazine.it | IT | Ciao redazione, | Vi scrivo per segnalarvi l'uscita, nel caso possa interessare a Esse Magazine. | Skipped: no editorial content visible |
@@ -86,8 +86,9 @@
 | 3 (08/10) | Radio Néo | programmation@radioneo.fr | FR | Bonjour, | Radio Néo fait découvrir des groupes émergents, c'est pour ça que je vous écris. | Scheduled |
 | 3 (08/10) | Radio Grenouille | prog@radiogrenouille.com | FR | Bonjour, | Je vous écris à l'adresse de la programmation, au cas où le titre trouverait sa place sur Radio Grenouille. | Scheduled |
 
-## Replies (as of 07/10)
-- **Peace Pledge Union** (Geoff Tibbs, 06/10): thanks, "solidarity and the best of luck". No action promised.
+## Replies (as of 07/10, 12:40)
+- **Peace Pledge Union** (Geoff Tibbs, 06/10): thanks, "solidarity and the best of luck". Then Anna (07/10): passed our details to a colleague who "might be in touch"; she leaves end of October, future contacts are Geoff or Amy. Replied 07/10. **On 23/10, send them the Spotify link.**
 - **Connection e.V.** (Sarah Ghebremariam, 06/10): will share Nebo on Instagram once released. Nikolai replied. **On 23/10, send them the Spotify link.**
 - **IDIOTEQ** (Karol Kaminski, 05/10, round 1): offers a feature for **$120 (paid)**. Conflicts with zero budget; not answered. Nikolai's call.
 - **Punktastic** (Penny): out of office until 13/10.
+- **Batch 2 bounces:** 2 of 15 (Recensiamo Musica inbox full, Exitwell dead). 13%, just over the 10% stop line, but neither is a bad-address pattern (one full inbox, one dead domain). Flagged to Nikolai before batch 3.

@@ -89,7 +89,7 @@
 ## Replies (as of 07/10, 12:40)
 - **Peace Pledge Union** (Geoff Tibbs, 06/10): thanks, "solidarity and the best of luck". Then Anna (07/10): passed our details to a colleague who "might be in touch"; she leaves end of October, future contacts are Geoff or Amy. Replied 07/10. **On 23/10, send them the Spotify link.**
 - **Connection e.V.** (Sarah Ghebremariam, 06/10): will share Nebo on Instagram once released. Nikolai replied. **On 23/10, send them the Spotify link.**
-- **IDIOTEQ** (Karol Kaminski, 05/10, round 1): offers a feature for **$120 (paid)**. Conflicts with zero budget; not answered. Nikolai's call.
+- **IDIOTEQ** (Karol Kaminski, 05/10, round 1): offers a feature for **$120 (paid)**. **Skipped: paid** (Nikolai 08/10). No reply, no follow-up.
 - **Punktastic** (Penny): out of office until 13/10.
 - **Long Live Rock'n'Roll** (Daniele, 07/10): send him **a press release plus a band photo of at least 1200x800** and he'll run it. **Nikolai: which band photo? Then I'll write the release and send it.**
 - **Peace Pledge Union** (Anna, 07/10): passed us to a colleague who may get in touch. Nikolai replied.

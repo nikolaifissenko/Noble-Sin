@@ -22,6 +22,9 @@
 - Always include: the private listen link before release (the Spotify link from 23/10), the pre-save link, 23/10, and an offer of an interview with Alina and Nikolai together.
 - Sign off: Nikolai Fissenko, Guitarist & manager, Noble Sin, nikolai.fissenko1@gmail.com, instagram.com/noblesin_official
 
+## Paid offers
+- **Skip anyone who asks for money** (paid features, "funded editorial", per-submission fees, guaranteed placements). Don't reply, don't follow up. Mark them "Skipped: paid" in the log. Nikolai, 08/10/2026: zero budget.
+
 ## Sending discipline
 - Send about 25 emails a day at most, from Nikolai's Gmail.
 - Check bounces before each batch. If more than ~10% bounce, stop and tell Nikolai.

@@ -105,7 +105,7 @@ nikolai.fissenko1@gmail.com · instagram.com/noblesin_official
 | KALTBLUT (Nicola Phillips) (nphillips@kaltblut-magazine.com) | 05/10/2026 | | |
 | Punktastic (news@punktastic.com) | 05/10/2026 | Bounced: address not found | Resent 05/10 to Penny Bennett (editor), penny@punktastic.com |
 | Bonded UK (Bondedukofficial@gmail.com) | 05/10/2026 | | |
-| IDIOTEQ (www.idioteq.com@gmail.com) | 05/10/2026 | | |
+| IDIOTEQ (www.idioteq.com@gmail.com) | 05/10/2026 | Offered a $120 paid feature | Skipped: paid. Don't follow up |
 | ItaliaRock (redazione@italiarock.it) | 05/10/2026 | | |
 | Extra! Music Magazine (redazione@xtm.it) | 05/10/2026 | | |
 | ImpattoSonoro (impattosonoro@gmail.com) | 05/10/2026 | | |

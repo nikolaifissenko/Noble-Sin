@@ -59,36 +59,39 @@
 | 2 (07/10) | Platfor.ma | hello@platfor.ma | EN | Hello, | I'm writing in case the story behind the song is of interest to Platfor.ma. | Skipped: site unreadable |
 | 2 (07/10) | Wanted in Rome | info@wantedinrome.com | EN | Hello, | We're a Rome-based band, so I thought Wanted in Rome might like the story. | Skipped: event listings only, no gig to list yet |
 | 2 (07/10) | Romeing | info@romeing.it | EN | Hello, | We're a Rome-based band, so I thought Romeing might like the story. | Skipped: tourism guides |
-| 3 (08/10) | God Is In The TV | godisinthetvzine@gmail.com | EN | Hi there, | God Is In The TV has always championed independent guitar bands, which is why I'm sending Nebo your way. | Scheduled |
-| 3 (08/10) | Neon Music | marcus@neonmusic.co.uk | EN | Hi Marcus, | Your contact page lists you for editorial ideas, so I hope it's alright to send this to you. | Scheduled |
-| 3 (08/10) | Echoes and Dust | editor@echoesanddust.com | EN | Hi there, | Your site says to drop a line to this address about stuff to review, so here it is. | Scheduled |
-| 3 (08/10) | Music Crowns | info@musiccrowns.org | EN | Hi there, | Music Crowns covers indie and alternative releases, which is where Nebo sits. | Scheduled |
-| 3 (08/10) | The Line of Best Fit | news@thelineofbestfit.com | EN | Hi there, | I'm sending this to your news desk in case the story behind it is of interest. | Scheduled |
-| 3 (08/10) | Joyzine | info@joyzine.org | EN | Hi there, | Your site says to send review and feature enquiries here, so here it is. | Scheduled |
-| 3 (08/10) | Audioxide | fred@audioxide.com | EN | Hi Fred, | Your site says to email you to bring music to your attention, so here goes. | Scheduled |
-| 3 (08/10) | XS Noize | admin@xsnoize.com | EN | Hi there, | XS Noize covers new alternative music, which is where Nebo sits. | Scheduled |
-| 3 (08/10) | We All Want Someone To Shout For | weallwantsomeone@gmail.com | EN | Hi there, | You cover independent alt and indie releases, which is where Nebo sits. | Scheduled |
-| 3 (08/10) | Overdrive.ie | info@overdrive.ie | EN | Hi there, | Overdrive covers rock with an edge, and Nebo is a 145 BPM protest song. | Scheduled |
-| 3 (08/10) | Nialler9 | newmusic@nialler9.com | EN | Hi there, | I'm sending this to your new music inbox in case it's of interest. | Scheduled |
-| 3 (08/10) | Rock Cellar Magazine | editors@rockcellarmagazine.com | EN | Hi editors, | I'm sending this as an editorial submission in case it's of interest. | Scheduled |
-| 3 (08/10) | Rock Sins | jemma.rocksins@gmail.com | EN | Hi Jemma, | Rock Sins covers rock with real energy behind it, and Nebo is a 145 BPM protest song. | Scheduled |
-| 3 (08/10) | PopMatters | editor@popmatters.com | EN | Hi there, | The story behind the song might suit PopMatters' features as much as its music coverage. | Scheduled |
-| 3 (08/10) | Rock and Roll Globe | editor@rockandrollglobe.com | EN | Hi there, | I'm sending this in case it's of interest for Rock and Roll Globe. | Scheduled |
-| 3 (08/10) | KEXP | md@kexp.org | EN | Hi there, | I'm sending this to the music director in case Nebo could find a place on KEXP. | Scheduled |
-| 3 (08/10) | Visions | redaktion@visions.de | EN | Hello, | I'm writing in case Nebo is of interest to Visions. | Scheduled |
-| 3 (08/10) | Hipersonica | prensa@hipersonica.com | EN | Hola, | I'm writing to your press address in case Nebo is of interest to Hipersonica. | Scheduled |
-| 3 (08/10) | Porcys | redakcja@porcys.com | EN | Hello, | I'm writing in case Nebo is of interest to Porcys. | Scheduled |
-| 3 (08/10) | Longueur d'Ondes | xavier.longueurdondes@gmail.com | FR | Bonjour Xavier, | Je vous écris en tant que rédacteur en chef, au cas où le titre intéresserait Longueur d'Ondes. | Scheduled |
-| 3 (08/10) | Hartzine | redac@hartzine.com | FR | Bonjour, | Je vous écris au cas où le titre intéresserait la rédaction d'Hartzine. | Scheduled |
-| 3 (08/10) | Benzine | benoit@benzinemag.net | FR | Bonjour Benoît, | Je vous écris au cas où le titre intéresserait Benzine. | Scheduled |
-| 3 (08/10) | Rock'n'Fool | sabine@rocknfool.net | FR | Bonjour Sabine, | Je vous écris en tant que rédactrice en chef, au cas où le titre intéresserait Rock'n'Fool. | Scheduled |
-| 3 (08/10) | Discordance | info@discordance.fr | FR | Bonjour, | Je vous écris au cas où le titre intéresserait Discordance. | Scheduled |
-| 3 (08/10) | Radio Néo | programmation@radioneo.fr | FR | Bonjour, | Radio Néo fait découvrir des groupes émergents, c'est pour ça que je vous écris. | Scheduled |
-| 3 (08/10) | Radio Grenouille | prog@radiogrenouille.com | FR | Bonjour, | Je vous écris à l'adresse de la programmation, au cas où le titre trouverait sa place sur Radio Grenouille. | Scheduled |
+| 3 (08/10) | God Is In The TV | godisinthetvzine@gmail.com | EN | Hi there, | God Is In The TV has always championed independent guitar bands, which is why I'm sending Nebo your way. | Sent 08/10 (personal: Tracks Of The Week, Lime Garden live review) |
+| 3 (08/10) | Neon Music | marcus@neonmusic.co.uk | EN | Hi Marcus, | Your contact page lists you for editorial ideas, so I hope it's alright to send this to you. | Sent 08/10 (personal: Turnstile SNL piece; pitched as story) |
+| 3 (08/10) | Echoes and Dust | editor@echoesanddust.com | EN | Hi there, | Your site says to drop a line to this address about stuff to review, so here it is. | Sent 08/10 (personal: ArcTanGent interviews (Arcane Roots, Pupil Slicer)) |
+| 3 (08/10) | Music Crowns | info@musiccrowns.org | EN | Hi there, | Music Crowns covers indie and alternative releases, which is where Nebo sits. | Sent 08/10 (personal: LUX 'Heed', Nick Shane 'Louder Than Now') |
+| 3 (08/10) | The Line of Best Fit | news@thelineofbestfit.com | EN | Hi there, | I'm sending this to your news desk in case the story behind it is of interest. | Sent 08/10 (personal: New Music Discovery playlist) |
+| 3 (08/10) | Joyzine | info@joyzine.org | EN | Hi there, | Your site says to send review and feature enquiries here, so here it is. | Sent 08/10 (personal: Decolonise Fest interview, Agrotoxico live review) |
+| 3 (08/10) | Audioxide | fred@audioxide.com | EN | Hi Fred, | Your site says to email you to bring music to your attention, so here goes. | Skipped: inactive since 2021 |
+| 3 (08/10) | XS Noize | admin@xsnoize.com | EN | Hi there, | XS Noize covers new alternative music, which is where Nebo sits. | Sent 08/10 (personal: Enter Shikari single) |
+| 3 (08/10) | We All Want Someone To Shout For | weallwantsomeone@gmail.com | EN | Hi there, | You cover independent alt and indie releases, which is where Nebo sits. | Sent 08/10 (personal: Interpol at Mercury Lounge, Cardinals review) |
+| 3 (08/10) | Overdrive.ie | info@overdrive.ie | EN | Hi there, | Overdrive covers rock with an edge, and Nebo is a 145 BPM protest song. | Skipped: site unreadable |
+| 3 (08/10) | Nialler9 | newmusic@nialler9.com | EN | Hi there, | I'm sending this to your new music inbox in case it's of interest. | Sent 08/10 (personal: Gurriers/Sprints Killarney; honest 'not Irish') |
+| 3 (08/10) | Rock Cellar Magazine | editors@rockcellarmagazine.com | EN | Hi editors, | I'm sending this as an editorial submission in case it's of interest. | Sent 08/10 (personal: Emerging Artist Corner, Winona Fighter Q&A) |
+| 3 (08/10) | Rock Sins | jemma.rocksins@gmail.com | EN | Hi Jemma, | Rock Sins covers rock with real energy behind it, and Nebo is a 145 BPM protest song. | Sent 08/10 (personal: Drug Church gallery, Xcerts review) |
+| 3 (08/10) | PopMatters | editor@popmatters.com | EN | Hi there, | The story behind the song might suit PopMatters' features as much as its music coverage. | Sent 08/10 (personal: 'Power to the People 2026' piece) |
+| 3 (08/10) | Rock and Roll Globe | editor@rockandrollglobe.com | EN | Hi there, | I'm sending this in case it's of interest for Rock and Roll Globe. | Skipped: classic/legacy rock only |
+| 3 (08/10) | KEXP | md@kexp.org | EN | Hi there, | I'm sending this to the music director in case Nebo could find a place on KEXP. | Sent 08/10 (personal: New Music Reviews 10/5; radio one-sheet (said 'clean', check lyrics have no explicit words)) |
+| 3 (08/10) | Visions | redaktion@visions.de | EN | Hello, | I'm writing in case Nebo is of interest to Visions. | Sent 08/10 (personal: Tramhaus 'Blister', Death Valley Girls reviews) |
+| 3 (08/10) | Hipersonica | prensa@hipersonica.com | EN | Hola, | I'm writing to your press address in case Nebo is of interest to Hipersonica. | Skipped: site unreadable |
+| 3 (08/10) | Porcys | redakcja@porcys.com | EN | Hello, | I'm writing in case Nebo is of interest to Porcys. | Skipped: no recent content |
+| 3 (08/10) | Longueur d'Ondes | xavier.longueurdondes@gmail.com | FR | Bonjour Xavier, | Je vous écris en tant que rédacteur en chef, au cas où le titre intéresserait Longueur d'Ondes. | Sent 08/10 (personal: summer festival reports, latest issue) |
+| 3 (08/10) | Hartzine | redac@hartzine.com | FR | Bonjour, | Je vous écris au cas où le titre intéresserait la rédaction d'Hartzine. | Skipped: electronic-leaning, nothing recent to hook |
+| 3 (08/10) | Benzine | benoit@benzinemag.net | FR | Bonjour Benoît, | Je vous écris au cas où le titre intéresserait Benzine. | Sent 08/10 (personal: mary in the junkyard live review, France Culture punk doc) |
+| 3 (08/10) | Rock'n'Fool | sabine@rocknfool.net | FR | Bonjour Sabine, | Je vous écris en tant que rédactrice en chef, au cas où le titre intéresserait Rock'n'Fool. | Sent 08/10 (personal: Fête de l'Humanité coverage) |
+| 3 (08/10) | Discordance | info@discordance.fr | FR | Bonjour, | Je vous écris au cas où le titre intéresserait Discordance. | Skipped: site is now a casino spam page |
+| 3 (08/10) | Radio Néo | programmation@radioneo.fr | FR | Bonjour, | Radio Néo fait découvrir des groupes émergents, c'est pour ça que je vous écris. | Sent 08/10 (personal: Tour Bus sessions, Nouveauté du jour) |
+| 3 (08/10) | Radio Grenouille | prog@radiogrenouille.com | FR | Bonjour, | Je vous écris à l'adresse de la programmation, au cas où le titre trouverait sa place sur Radio Grenouille. | Skipped: nothing specific |
 
 ## Replies (as of 07/10, 12:40)
 - **Peace Pledge Union** (Geoff Tibbs, 06/10): thanks, "solidarity and the best of luck". Then Anna (07/10): passed our details to a colleague who "might be in touch"; she leaves end of October, future contacts are Geoff or Amy. Replied 07/10. **On 23/10, send them the Spotify link.**
 - **Connection e.V.** (Sarah Ghebremariam, 06/10): will share Nebo on Instagram once released. Nikolai replied. **On 23/10, send them the Spotify link.**
 - **IDIOTEQ** (Karol Kaminski, 05/10, round 1): offers a feature for **$120 (paid)**. Conflicts with zero budget; not answered. Nikolai's call.
 - **Punktastic** (Penny): out of office until 13/10.
+- **Long Live Rock'n'Roll** (Daniele, 07/10): send him **a press release plus a band photo of at least 1200x800** and he'll run it. **Nikolai: which band photo? Then I'll write the release and send it.**
+- **Peace Pledge Union** (Anna, 07/10): passed us to a colleague who may get in touch. Nikolai replied.
+- **Bounces so far:** news@punktastic.com, TheAltSubmissions@gmail.com (inbox full), ufficiostampa@recensiamomusica.com. 3 of ~71 = ~4%.
 - **Batch 2 bounces:** 2 of 15 (Recensiamo Musica inbox full, Exitwell dead). 13%, just over the 10% stop line, but neither is a bad-address pattern (one full inbox, one dead domain). Flagged to Nikolai before batch 3.

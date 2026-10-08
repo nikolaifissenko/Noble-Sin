@@ -91,7 +91,7 @@
 - **Connection e.V.** (Sarah Ghebremariam, 06/10): will share Nebo on Instagram once released. Nikolai replied. **On 23/10, send them the Spotify link.**
 - **IDIOTEQ** (Karol Kaminski, 05/10, round 1): offers a feature for **$120 (paid)**. **Skipped: paid** (Nikolai 08/10). No reply, no follow-up.
 - **Punktastic** (Penny): out of office until 13/10.
-- **Long Live Rock'n'Roll** (Daniele, 07/10): send him **a press release plus a band photo of at least 1200x800** and he'll run it. **Nikolai: which band photo? Then I'll write the release and send it.**
+- **Long Live Rock'n'Roll** (Daniele, 07/10): send him **a press release plus a band photo of at least 1200x800** and he'll run it. **Done 08/10:** Italian press release plus graded photo links sent in-thread.
 - **Peace Pledge Union** (Anna, 07/10): passed us to a colleague who may get in touch. Nikolai replied.
 - **Bounces so far:** news@punktastic.com, TheAltSubmissions@gmail.com (inbox full), ufficiostampa@recensiamomusica.com. 3 of ~71 = ~4%.
 - **Batch 2 bounces:** 2 of 15 (Recensiamo Musica inbox full, Exitwell dead). 13%, just over the 10% stop line, but neither is a bad-address pattern (one full inbox, one dead domain). Flagged to Nikolai before batch 3.

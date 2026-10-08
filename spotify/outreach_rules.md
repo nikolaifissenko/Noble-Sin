@@ -17,6 +17,7 @@
 
 ## Make each email different
 - Write each email fresh. Change the opening, the order of the paragraphs and the subject line, so no two emails in a batch read the same.
+- **No dashes in the text** (no em dashes, en dashes or hyphen asides). Use commas, full stops or colons. Nikolai, 08/10/2026.
 - Under ~150 words. One ask. Never use BCC or send to several outlets at once.
 - Language: Italian for Italian outlets, French for French outlets, English for everyone else. For Ukrainian, Polish, Nordic or German outlets, writing in English is fine.
 - Always include: the private listen link before release (the Spotify link from 23/10), the pre-save link, 23/10, and an offer of an interview with Alina and Nikolai together.
@@ -35,3 +36,7 @@
 - Pre-save: https://distrokid.com/hyperfollow/noblesin1/nebo-2
 - "Nebo" means "sky" in Ukrainian. The single is out Fri 23/10/2026. Lyrics by Alina (2022), music by the band (2026). Three sergeants (Bryan, Al-Hassan, Grishchenko) refuse to fire. The song ends in English, Ukrainian and Russian. 145 BPM, 3:12.
 - Pitches stay universal ("every army"). Name specific conflicts only in interviews, where there's room to explain (MANAGEMENT_BRIEF §0).
+
+## Press assets
+- Press photo (Nebo-era grade): `press/noblesin_nebo_press_landscape.jpg` (1800x1200) and `press/noblesin_nebo_press_vertical.jpg` (1440x3117). Public links: https://raw.githubusercontent.com/nikolaifissenko/noble-sin/claude/exciting-goodall-FT79J/press/noblesin_nebo_press_landscape.jpg and .../press/noblesin_nebo_press_vertical.jpg
+- Italian press release: in the Long Live Rock'n'Roll thread (08/10). Reuse it, but rewrite the opening for each outlet.

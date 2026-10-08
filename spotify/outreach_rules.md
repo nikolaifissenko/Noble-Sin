@@ -2,6 +2,10 @@
 > Set by Nikolai on 06/10/2026: "emails need to be personalized, people can see when it's mechanised."
 > Applies to every email sent for Noble Sin: press, blogs, radio, organisations, playlist curators, follow-ups.
 
+## Story bank
+- **Read `press/band_story.md` before writing.** Use one or two of its real details per email, picked for that reader (the restaurant meeting, the Fissenko surname from Donbas, the real voice notes from friends, Valerio and the musicians' "Tinder", Andrea from Sanremo, Alina in Rome since 2011). Never use "civil war".
+- Credit photos: "Photo: Leonardo Gentili". Best horizontal: `press/noblesin_nebo_press_river.jpg`.
+
 ## Before writing each email
 1. **Open the outlet's site** (or the curator's playlist) and find **one specific, recent thing** that connects to Nebo: an article, review, interview, campaign, show or playlist they did, ideally from the last few months.
 2. **Mention it in the first one or two lines, in your own words and truthfully.** Only mention what you actually opened and read. Never invent a piece, a date or an opinion. If nothing relevant turns up, skip that outlet rather than fake it.
@@ -38,5 +42,5 @@
 - Pitches stay universal ("every army"). Name specific conflicts only in interviews, where there's room to explain (MANAGEMENT_BRIEF §0).
 
 ## Press assets
-- Press photo (Nebo-era grade): `press/noblesin_nebo_press_landscape.jpg` (1800x1200) and `press/noblesin_nebo_press_vertical.jpg` (1440x3117). Public links: https://raw.githubusercontent.com/nikolaifissenko/noble-sin/claude/exciting-goodall-FT79J/press/noblesin_nebo_press_landscape.jpg and .../press/noblesin_nebo_press_vertical.jpg
+- Press photo (Nebo-era grade): `press/noblesin_nebo_press_landscape.jpg` (1800x1200) and `press/noblesin_nebo_press_vertical.jpg` (1440x3117). Public links: https://raw.githubusercontent.com/nikolaifissenko/noble-sin/claude/exciting-goodall-FT79J/press/<file>. Files: noblesin_nebo_press_river.jpg (best), noblesin_nebo_press_bridge_gazometro.jpg, noblesin_nebo_press_landscape.jpg, noblesin_nebo_press_vertical.jpg. Credit: Leonardo Gentili.
 - Italian press release: in the Long Live Rock'n'Roll thread (08/10). Reuse it, but rewrite the opening for each outlet.

@@ -20,6 +20,11 @@
 - "Nebo" means "sky" in Ukrainian. Three sergeants in three armies refuse to fire. "We are an ocean against a drop of evil." Out Fri 23/10/2026, 145 BPM, 3:12.
 - **The sergeants are invented, but the voices in the song are real:** voice notes sent to the band by friends living in those countries.
 
+## Radio facts
+- Pronouns: Alina she/her; Nikolai, Valerio, Antonio, Andrea he/him.
+- "Nebo" is pronounced NEH-bo (stress on the first syllable).
+- Lyrics: no explicit words (checked 09/10).
+
 ## Photos
 - All Nebo-era photos are by **Leonardo Gentili**, a forest biologist and photographer who has known Nikolai since he was born. **Always credit: "Foto / Photo: Leonardo Gentili".**
 - Graded files in `press/`: `noblesin_nebo_press_river.jpg` (1600x1200, best horizontal), `noblesin_nebo_press_bridge_gazometro.jpg` (1200x1600), `noblesin_nebo_press_landscape.jpg` (1800x1200 crop), `noblesin_nebo_press_vertical.jpg` (1440x3117).

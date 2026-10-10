@@ -24,6 +24,8 @@
 - Pronouns: Alina she/her; Nikolai, Valerio, Antonio, Andrea he/him.
 - "Nebo" is pronounced NEH-bo (stress on the first syllable).
 - Lyrics: no explicit words (checked 09/10).
+- WAV master (Drive, anyone with link): https://drive.google.com/file/d/189mA0fG4XgdPTZuOt_j8dnRxNAy5d_6y/view
+- MP3 320 (Drive): https://drive.google.com/file/d/1-tVLekYenQ3Tozn5WThdKplUW-ew85v9/view
 
 ## Photos
 - All Nebo-era photos are by **Leonardo Gentili**, a forest biologist and photographer who has known Nikolai since he was born. **Always credit: "Foto / Photo: Leonardo Gentili".**

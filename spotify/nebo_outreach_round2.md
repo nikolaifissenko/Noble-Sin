@@ -97,3 +97,4 @@
 - **Batch 2 bounces:** 2 of 15 (Recensiamo Musica inbox full, Exitwell dead). 13%, just over the 10% stop line, but neither is a bad-address pattern (one full inbox, one dead domain). Flagged to Nikolai before batch 3.
 - **Joyzine** (Paul Maps, 08/10): listened, "not one for us". Closed, no follow-up.
 - **KEXP** (auto-reply, 08/10): for proper consideration they want **streaming + download links (WAV + 320 kbps MP3, no attachments), lyric sheet + any FCC issues (none found in the lyrics), clean edit if needed, pronouns, pronunciation, release date, press release/bio.** Needs Nikolai: a WAV on Drive, plus pronouns and pronunciation (Nebo = "NEH-bo"?).
+- **KEXP:** full package sent in-thread 10/10 (WAV + MP3 links, lyrics, no FCC issues, pronouns, pronunciation, bio, release date).

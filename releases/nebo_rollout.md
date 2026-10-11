@@ -1,5 +1,5 @@
 # Single Rollout Plan — "Nebo"
-> **The only live plan for Nebo.** Zero-budget tactics and sources: `releases/zero_budget_playbook.md`. Status as of 22/09/2026; timeline re-cut 02/10/2026 (Nikolai's call): **only 3 feed posts before release** (09/10, 12/10, 16/10), all other Nebo content goes out after 23/10. Consolidated from every earlier session branch. Superseded versions are in `releases/archive/`.
+> **The only live plan for Nebo.** Zero-budget tactics and sources: `releases/zero_budget_playbook.md`. Status as of 22/09/2026; timeline re-cut 02/10 and again 11/10 (Nikolai's call): **2 feed posts before release**, teaser Wed 14/10 and announcement Fri 16/10, all other Nebo content goes out after 23/10. Consolidated from every earlier session branch. Superseded versions are in `releases/archive/`.
 
 ---
 
@@ -38,15 +38,15 @@
 - Curator outreach doesn't depend on the teaser, so it still starts now (SubmitHub takes unreleased files).
 
 ### T-2 weeks — Fri 09/10/2026
-- [ ] **Pre-release post 1/3 (Fri 09/10)**: teaser, "something's loading", no title (copy below).
-- [ ] **Pre-release post 2/3 (Mon 12/10)**: announcement, title "Nebo" + 23/10 date + pre-save link on IG + TikTok. Use the Alina + Nikolai reel.
+- [ ] **Teaser (Wed 14/10)**: "something's loading", no title (copy below). Moved from 09/10 by Nikolai on 11/10.
+- Announcement moved to Fri 16/10 (see T-1 week).
 - [ ] Press pitch (Italian blogs, local media, plus international), embargoed until 23/10
 - [ ] Draft release-day copy (EN + IT)
 - [ ] Spotify Canvas (3–8s loop) uploaded once Nebo shows in Spotify for Artists
 - [ ] Single 2: submit to DistroKid before 23/10 so it can be pitched on 23/10 (Spotify allows one pitched song at a time)
 
 ### T-1 week — Fri 16/10/2026
-- [ ] **Pre-release post 3/3 (Fri 16/10)**: "one week to go" + pre-save link
+- [ ] **Announcement (Fri 16/10)**: title "Nebo" + "out in one week, 23/10" + pre-save link on IG + TikTok. Use the Alina + Nikolai reel. Merges the old announcement and "one week to go" posts (Nikolai, 11/10).
 - [ ] Pre-save link in bio (Stories are optional, they don't count against the 3 posts)
 - [ ] Lock the release-week content schedule
 

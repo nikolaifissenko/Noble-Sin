@@ -20,7 +20,7 @@
 | 12/10 | US | War Resisters League | wrl@warresisters.org | "Support GI Resistance" section | Sent |
 | 12/10 | US | Fellowship of Reconciliation USA | for@forusa.org | "Bearing Witness in Ohio" | Sent |
 | 12/10 | CA | Peace Magazine | office@peacemagazine.org | switch to worldwide digital edition | Sent |
-Skipped 12/10: Stop the War Coalition (UK). Its "Peace in Ukraine" line is read by many Ukrainians as pressure on Ukraine to concede; too risky for Alina, Nikolai to decide. KALX (site says don't email music submissions), WNYU (nothing to reference), RaBe (page unreadable), Holod (no culture coverage).
+Skipped 12/10: Stop the War Coalition (UK). Its "Peace in Ukraine" line is read by many Ukrainians as pressure on Ukraine to concede; too risky for Alina. Nikolai decided 12/10: do not pitch, ever. KALX (site says don't email music submissions), WNYU (nothing to reference), RaBe (page unreadable), Holod (no culture coverage).
 Dropped: TheAltSubmissions@gmail.com (bounced twice, inbox full).
 Replies 12/10: **Rauhanliitto** (Julia Jernvall) forwarded Nebo to the "Sana vs. Sota" event crew, "the subject is spot on".
 

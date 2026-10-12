@@ -113,3 +113,9 @@ nikolai.fissenko1@gmail.com · instagram.com/noblesin_official
 | OndaRock (vercingetorige60@libero.it) | 05/10/2026 | | |
 
 **Follow-up:** Claude sends one short nudge on Mon 12/10 (scheduled) to anyone who hasn't replied, as a reply in the same thread. Release-day "it's out" note on 23/10 to anyone who replied.
+
+### Follow-ups 12/10 (round 1)
+- Personal follow-up sent in-thread to KALTBLUT, Bonded UK, ItaliaRock, Extra! (XTM), ImpattoSonoro, Rockon, OndaRock. None had replied.
+- Punktastic (Penny): back 13/10, so the daily run follows up after that.
+- IDIOTEQ: skipped (paid offer).
+- The Alternative: retried with a fresh personal pitch (New Music Friday playlist 10/9, The Male Pattern review). Drop it if it bounces again.

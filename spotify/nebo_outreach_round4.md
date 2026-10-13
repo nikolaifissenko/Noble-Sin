@@ -38,6 +38,8 @@
 | 13/10 | CZ | Radio 1 Prague | info@radio1.cz | "30 let alternativy bez playlistu" | Sent |
 Skipped 12/10: Stop the War Coalition (UK). Its "Peace in Ukraine" line is read by many Ukrainians as pressure on Ukraine to concede; too risky for Alina. Nikolai decided 12/10: do not pitch, ever. KALX (site says don't email music submissions), WNYU (nothing to reference), RaBe (page unreadable), Holod (no culture coverage).
 Dropped: TheAltSubmissions@gmail.com (bounced twice, inbox full).
+Thank-you replies 13/10: Rauhanliitto (Julia, sent WAV for the matinee), Svenska Freds (Alex).
+**Release day 23/10, send the Spotify link in-thread to:** FOR USA (Susan + Ohio cc list), Svenska Freds (Alex), Rauhanliitto (Julia), Connection e.V. (Sarah), Peace Pledge Union (Geoff/Amy), Long Live Rock'n'Roll (Daniele), KEXP.
 Bounces/redirects 13/10: news@overblown.co.uk bounced (server misconfigured), resent to matt@overblown.co.uk (listed on site). Future Radio auto-reply says new music goes to music@futureradio.co.uk, resent there. Auto-replies: DIY (Emma, print deadline, slow on email), Punktastic (Penny's OOO still on).
 Follow-ups 13/10: Punktastic (Penny, back from OOO) nudged in thread.
 Replies 13/10: **FOR USA** (Susan H Smith, Director of Operations) asked for the lyrics and cc'd the Ohio team; Lorry Swain (Scioto Peace and Justice, Portsmouth OH) will share it at their meeting Thu 15/10. Lyrics sent 13/10, asked that public posts wait for 23/10. Send them the Spotify link on 23/10. **Svenska Freds** (Alex) passing it to colleagues, including the PAX team; no action needed, send Spotify link 23/10.

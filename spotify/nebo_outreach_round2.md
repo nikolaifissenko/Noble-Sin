@@ -98,3 +98,9 @@
 - **Joyzine** (Paul Maps, 08/10): listened, "not one for us". Closed, no follow-up.
 - **KEXP** (auto-reply, 08/10): for proper consideration they want **streaming + download links (WAV + 320 kbps MP3, no attachments), lyric sheet + any FCC issues (none found in the lyrics), clean edit if needed, pronouns, pronunciation, release date, press release/bio.** Needs Nikolai: a WAV on Drive, plus pronouns and pronunciation (Nebo = "NEH-bo"?).
 - **KEXP:** full package sent in-thread 10/10 (WAV + MP3 links, lyrics, no FCC issues, pronouns, pronunciation, bio, release date).
+
+## Follow-ups 14/10 (in-thread, personal, 2 to 3 lines)
+- **Sent 14/10 (25):** Onda Rossa, Radio Popolare, Radio Sapienza, Onda d'Urto, Rete Pace e Disarmo, Un Ponte Per, PeaceLink, Movimento Nonviolento Roma, Il Manifesto, Il Fatto Quotidiano, Il Cibicida, IFOR, Pressenza, Waging Nonviolence, IPB, CND, WRI, DFG-VK, Veterans For Peace, Kyiv Independent, Kyiv Post (both to culture, Alina-led), Ukrainian Institute London, Ukrainian Institute, Neformat, Radio Svoboda.
+- **Scheduled 15/10 (24):** Music Attitude, Newsic, Mescalina, Radio Città Fujiko, Punkadeka, Freakout, Kathodik, The New Noise, All Music Italia, Exhimusic, The Village Ukraine, Neon Music, Echoes and Dust, Music Crowns, The Line of Best Fit, We All Want Someone To Shout For, Nialler9 (only an auto-reply so far), Rock Cellar, Rock Sins, PopMatters, Visions, Longueur d'Ondes, Benzine, Radio Néo.
+- **Not followed up:** replied (PPU, Connection e.V., Joyzine, Long Live Rock'n'Roll, KEXP handled 10/10), bounced (XS Noize, Recensiamo Musica, Exitwell, **Rock'n'Fool sabine@rocknfool.net bounced 08/10, found 14/10**), God Is In The TV (pitched again via bill@ on 13/10).
+- PPU (Anna) closed the thread 07/10 with "Great, thank you!". Nothing more needed until 23/10.

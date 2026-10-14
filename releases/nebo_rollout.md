@@ -38,7 +38,7 @@
 - Curator outreach doesn't depend on the teaser, so it still starts now (SubmitHub takes unreleased files).
 
 ### T-2 weeks — Fri 09/10/2026
-- [ ] **Teaser (Wed 14/10)**: "something's loading", no title (copy below). Moved from 09/10 by Nikolai on 11/10.
+- [x] **Teaser (Wed 14/10)** posted IG + TikTok 14/10: "something's loading", no title (copy below). Moved from 09/10 by Nikolai on 11/10.
 - Announcement moved to Fri 16/10 (see T-1 week).
 - [ ] Press pitch (Italian blogs, local media, plus international), embargoed until 23/10
 - [ ] Draft release-day copy (EN + IT)
@@ -47,7 +47,7 @@
 
 ### T-1 week — Fri 16/10/2026
 - [ ] **Announcement (Fri 16/10)**: title "Nebo" + "out in one week, 23/10" + pre-save link on IG + TikTok. Use the Alina + Nikolai reel. Merges the old announcement and "one week to go" posts (Nikolai, 11/10).
-- [ ] Pre-save link in bio (Stories are optional, they don't count against the 3 posts)
+- [ ] Pre-save link in bio from Fri 16/10 with the announcement (bio copy: "NEBO • 23.10 🌌 Pre-save ↓" / IT "NEBO • 23.10 🌌 Pre-salva ↓"). Stories are optional, they don't count against the 3 posts)
 - [ ] Lock the release-week content schedule
 
 ### RELEASE DAY — Fri 23/10/2026

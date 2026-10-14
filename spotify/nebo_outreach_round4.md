@@ -38,6 +38,7 @@
 | 13/10 | CZ | Radio 1 Prague | info@radio1.cz | "30 let alternativy bez playlistu" | Sent |
 Skipped 12/10: Stop the War Coalition (UK). Its "Peace in Ukraine" line is read by many Ukrainians as pressure on Ukraine to concede; too risky for Alina. Nikolai decided 12/10: do not pitch, ever. KALX (site says don't email music submissions), WNYU (nothing to reference), RaBe (page unreadable), Holod (no culture coverage).
 Dropped: TheAltSubmissions@gmail.com (bounced twice, inbox full).
+14/10 daily run: no new outlets (round 2 follow-ups used the 25 cap). matt@overblown.co.uk also bounced (domain mail server broken): **Overblown dropped.** No new replies.
 Thank-you replies 13/10: Rauhanliitto (Julia, sent WAV for the matinee), Svenska Freds (Alex).
 **Release day 23/10, send the Spotify link in-thread to:** FOR USA (Susan + Ohio cc list), Svenska Freds (Alex), Rauhanliitto (Julia), Connection e.V. (Sarah), Peace Pledge Union (Geoff/Amy), Long Live Rock'n'Roll (Daniele), KEXP.
 Bounces/redirects 13/10: news@overblown.co.uk bounced (server misconfigured), resent to matt@overblown.co.uk (listed on site). Future Radio auto-reply says new music goes to music@futureradio.co.uk, resent there. Auto-replies: DIY (Emma, print deadline, slow on email), Punktastic (Penny's OOO still on).
@@ -97,7 +98,7 @@ Replies 12/10: **Rauhanliitto** (Julia Jernvall) forwarded Nebo to the "Sana vs.
 | 45 | UK | Circuit Sweet | naomi@circuitsweet.co.uk | Sent 12/10 |
 | 46 | UK | DIY (Emma Swann) | emma@diymag.com | Sent 13/10 |
 | 47 | UK | Loud and Quiet | info@loudandquiet.com | Skipped: site in transition, no recent posts |
-| 48 | UK | Overblown | news@overblown.co.uk | Sent 13/10 |
+| 48 | UK | Overblown | news@overblown.co.uk | Dropped: domain mail broken (news@ and matt@ bounced) |
 | 49 | UK | Rock Rebel Magazine | hello@rockrebelmagazine.com | Skipped: site blocks access |
 | 50 | UK | Pax Christi UK | info@paxchristi.org.uk | Queued |
 | 51 | UK | Quakers in Britain (media) | media@quaker.org.uk | Sent 12/10 |

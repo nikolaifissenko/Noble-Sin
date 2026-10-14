@@ -47,7 +47,7 @@
 
 ### T-1 week — Fri 16/10/2026
 - [ ] **Announcement (Fri 16/10)**: title "Nebo" + "out in one week, 23/10" + pre-save link on IG + TikTok. Use the Alina + Nikolai reel. Merges the old announcement and "one week to go" posts (Nikolai, 11/10).
-- [ ] Pre-save link in bio from Fri 16/10 with the announcement (bio copy: "NEBO • 23.10 🌌 Pre-save ↓" / IT "NEBO • 23.10 🌌 Pre-salva ↓"). Stories are optional, they don't count against the 3 posts)
+- [ ] Pre-save link in bio from Fri 16/10 with the announcement (bio copy: "NEBO • 23.10 🌌 Pre-save ↓" / IT "NEBO • 23.10 🌌 Pre-salva ↓"). Stories are optional and don't count against the 2 feed posts.
 - [ ] Lock the release-week content schedule
 
 ### RELEASE DAY — Fri 23/10/2026

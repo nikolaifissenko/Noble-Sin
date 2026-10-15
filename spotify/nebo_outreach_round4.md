@@ -36,8 +36,10 @@
 | 13/10 | UK | Movement for the Abolition of War | info@abolishwar.org.uk | Sept/Oct newsletter, Rowan Williams Remembrance lecture | Sent |
 | 13/10 | NL | KINK (plug) | plug@kink.nl | Rocktober, KINK Playlist additions | Sent |
 | 13/10 | CZ | Radio 1 Prague | info@radio1.cz | "30 let alternativy bez playlistu" | Sent |
+| 15/10 | US | WXYC Chapel Hill (music dept) | md@wxyc.org | blog piece on Fly Around Fest, Lansing after Helene | Sent |
 Skipped 12/10: Stop the War Coalition (UK). Its "Peace in Ukraine" line is read by many Ukrainians as pressure on Ukraine to concede; too risky for Alina. Nikolai decided 12/10: do not pitch, ever. KALX (site says don't email music submissions), WNYU (nothing to reference), RaBe (page unreadable), Holod (no culture coverage).
 Dropped: TheAltSubmissions@gmail.com (bounced twice, inbox full).
+15/10 daily run: 24 round 2 follow-ups + 1 new (WXYC) = 25. No bounces, no new replies.
 14/10 daily run: no new outlets (round 2 follow-ups used the 25 cap). matt@overblown.co.uk also bounced (domain mail server broken): **Overblown dropped.** No new replies.
 Thank-you replies 13/10: Rauhanliitto (Julia, sent WAV for the matinee), Svenska Freds (Alex).
 **Release day 23/10, send the Spotify link in-thread to:** FOR USA (Susan + Ohio cc list), Svenska Freds (Alex), Rauhanliitto (Julia), Connection e.V. (Sarah), Peace Pledge Union (Geoff/Amy), Long Live Rock'n'Roll (Daniele), KEXP.
@@ -51,7 +53,7 @@ Replies 12/10: **Rauhanliitto** (Julia Jernvall) forwarded Nebo to the "Sana vs.
 
 | # | Country | Outlet | Email | Status |
 |---|---|---|---|---|
-| 1 | US | WXYC Chapel Hill | md@wxyc.org | Queued |
+| 1 | US | WXYC Chapel Hill | md@wxyc.org | Sent 15/10 |
 | 2 | US | KDVS Davis | musicdept@kdvs.org | Queued |
 | 3 | US | KZSC Santa Cruz (loud rock) | loudrock@kzsc.org | Sent 13/10 |
 | 4 | US | WXDU Duke | music@wxdu.org | Sent 13/10 |

@@ -37,8 +37,14 @@
 | 13/10 | NL | KINK (plug) | plug@kink.nl | Rocktober, KINK Playlist additions | Sent |
 | 13/10 | CZ | Radio 1 Prague | info@radio1.cz | "30 let alternativy bez playlistu" | Sent |
 | 15/10 | US | WXYC Chapel Hill (music dept) | md@wxyc.org | blog piece on Fly Around Fest, Lansing after Helene | Sent |
+| 16/10 | US | WVUM Miami (MDs Laura, Luna) | md@wvum.org | Bella Armstrong's blog piece on Peter Parker's kindness | Sent |
+| 16/10 | US | WRCT Pittsburgh (Anika, Mark, Max) | music@wrct.org | Vinny Moore on Court's in Session | Sent |
+| 16/10 | US | WKDU Philadelphia | musicdirector@wkdu.org | Blacklisted + Ink & Dagger Halloween show | Sent |
+| 16/10 | US | KANM Texas A&M (Natalia, Paige, Zoe) | md@kanm.org | Live Sessions + Oscillations zine | Sent |
+| 16/10 | US | KZSU Stanford | music@kzsu.stanford.edu | DJ Aporia's Emma Ruth Rundle review | Sent |
 Skipped 12/10: Stop the War Coalition (UK). Its "Peace in Ukraine" line is read by many Ukrainians as pressure on Ukraine to concede; too risky for Alina. Nikolai decided 12/10: do not pitch, ever. KALX (site says don't email music submissions), WNYU (nothing to reference), RaBe (page unreadable), Holod (no culture coverage).
 Dropped: TheAltSubmissions@gmail.com (bounced twice, inbox full).
+16/10 daily run: 19 round 3 follow-ups + 5 new = 24. No bounces. Skipped KDVS, WQFS, KVRX (nothing current on their sites).
 16/10: **Radio Néo** (Paris) replied 15/10: "beau travail", but not right for their current programming. Polite pass, closed.
 15/10 daily run: 24 round 2 follow-ups + 1 new (WXYC) = 25. No bounces, no new replies.
 14/10 daily run: no new outlets (round 2 follow-ups used the 25 cap). matt@overblown.co.uk also bounced (domain mail server broken): **Overblown dropped.** No new replies.
@@ -55,17 +61,17 @@ Replies 12/10: **Rauhanliitto** (Julia Jernvall) forwarded Nebo to the "Sana vs.
 | # | Country | Outlet | Email | Status |
 |---|---|---|---|---|
 | 1 | US | WXYC Chapel Hill | md@wxyc.org | Sent 15/10 |
-| 2 | US | KDVS Davis | musicdept@kdvs.org | Queued |
+| 2 | US | KDVS Davis | musicdept@kdvs.org | Skipped: no hook |
 | 3 | US | KZSC Santa Cruz (loud rock) | loudrock@kzsc.org | Sent 13/10 |
 | 4 | US | WXDU Duke | music@wxdu.org | Sent 13/10 |
-| 5 | US | WVUM Miami | md@wvum.org | Queued |
-| 6 | US | WRCT Pittsburgh | music@wrct.org | Queued |
+| 5 | US | WVUM Miami | md@wvum.org | Sent 16/10 |
+| 6 | US | WRCT Pittsburgh | music@wrct.org | Sent 16/10 |
 | 7 | US | WHRB Harvard (artist relations) | artistrelations@whrb.org | Sent 13/10 |
-| 8 | US | WKDU Philadelphia | musicdirector@wkdu.org | Queued |
-| 9 | US | WQFS Guilford | wqfsmusic@guilford.edu | Queued |
-| 10 | US | KVRX Austin | music@kvrx.org | Queued |
-| 11 | US | KANM Texas A&M | md@kanm.org | Queued |
-| 12 | US | KZSU Stanford | music@kzsu.stanford.edu | Queued |
+| 8 | US | WKDU Philadelphia | musicdirector@wkdu.org | Sent 16/10 |
+| 9 | US | WQFS Guilford | wqfsmusic@guilford.edu | Skipped: no hook |
+| 10 | US | KVRX Austin | music@kvrx.org | Skipped: no hook |
+| 11 | US | KANM Texas A&M | md@kanm.org | Sent 16/10 |
+| 12 | US | KZSU Stanford | music@kzsu.stanford.edu | Sent 16/10 |
 | 13 | US | WZBC Boston College | wzbcmusic@gmail.com | Queued |
 | 14 | US | WMFO Tufts | md@wmfo.org | Queued |
 | 15 | US | WESU Middletown | wesumd@wesufm.org | Sent 13/10 |

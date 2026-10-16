@@ -97,6 +97,30 @@ TikTok versions are re-edits of the same footage (hook in the first 3s). The Neb
 
 ---
 
+## ANNOUNCEMENT POST — Fri 16/10/2026 (copy)
+**Visual:** `social/assets/nebo/reel_cover_nebo_2310_camo.jpg` (or the Alina + Nikolai reel with this as cover)
+
+**Instagram (EN + IT in one caption):**
+> NEBO. 23/10/2026.
+>
+> A Ukrainian singer. A Russian guitarist. Three Italians. One band in Rome.
+> Alina wrote it in 2022 with one question: what if soldiers in every army simply stopped obeying?
+> We are an ocean against a drop of evil.
+>
+> Pre-save now, link in bio.
+>
+> 🇮🇹 Una cantante ucraina, un chitarrista russo, tre italiani. Una band a Roma.
+> Alina l'ha scritta nel 2022 con una domanda: e se i soldati di ogni esercito smettessero di obbedire?
+> Siamo un oceano contro una goccia di male.
+> Pre-salva ora, link in bio.
+>
+> #noblesin #nebo #newmusic #alternativerock #romarock #femalefronted #antiwar #indierock #nuovamusica #rockitaliano
+
+**TikTok:**
+> A Ukrainian and a Russian in the same band. This is what we wrote. 🌌
+> NEBO, out 23/10. Pre-save in bio.
+> #noblesin #nebo #newmusic #alternativerock #femalefronted #antiwar #rockband #fyp
+
 ## FIRST TEASER POST — ready (Fri 09/10/2026)
 
 **Cover:** `social/assets/nebo/reel_cover_loading_camo.jpg` (1080×1920)

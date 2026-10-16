@@ -17,7 +17,7 @@
 **Format:** Performance / live footage / studio  
 **Content:** [Describe clip — e.g. "30s live clip from Let It Beer Club, guitar solo section"]  
 **Caption (EN/IT):** [Draft here]  
-**Hashtags:** #noblesin #alternativerock #romarock #[trackname] #newmusic  
+**Hashtags (max 5, always, Nikolai 16/10):** #noblesin #alternativerock #romarock #[trackname] #newmusic  
 **Status:** [ ] Drafted [ ] Filmed [ ] Edited [ ] Scheduled
 
 ---

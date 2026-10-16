@@ -97,6 +97,8 @@ TikTok versions are re-edits of the same footage (hook in the first 3s). The Neb
 
 ---
 
+> **Rule (Nikolai, 16/10): max 5 hashtags on every post, always.**
+
 ## ANNOUNCEMENT POST — Fri 16/10/2026 (copy)
 **Visual:** `social/assets/nebo/reel_cover_nebo_2310_camo.jpg` (or the Alina + Nikolai reel with this as cover)
 
@@ -114,12 +116,12 @@ TikTok versions are re-edits of the same footage (hook in the first 3s). The Neb
 > Siamo un oceano contro una goccia di male.
 > Pre-salva ora, link in bio.
 >
-> #noblesin #nebo #newmusic #alternativerock #romarock #femalefronted #antiwar #indierock #nuovamusica #rockitaliano
+> #noblesin #nebo #newmusic #alternativerock #romarock
 
 **TikTok:**
 > A Ukrainian and a Russian in the same band. This is what we wrote. 🌌
 > NEBO, out 23/10. Pre-save in bio.
-> #noblesin #nebo #newmusic #alternativerock #femalefronted #antiwar #rockband #fyp
+> #noblesin #nebo #newmusic #alternativerock #femalefronted
 
 ## FIRST TEASER POST — ready (Fri 09/10/2026)
 

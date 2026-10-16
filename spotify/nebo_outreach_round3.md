@@ -48,3 +48,8 @@
 Novaya Gazeta Europe, TV Rain, Echo, Holod, Kedr, The Ukrainians, nd.
 
 - Bounce: info@diffus.de (batch 4, 09/10).
+
+## Follow-ups 16/10 (in-thread, personal, 2 to 3 lines)
+- **Sent 16/10 (19, none had replied):** Meduza (EN), Mediazona (RU), Current Time (RU), LB.ua, Tyzhden (both Alina-led, culture), Radio Nowy Świat, IPPNW, Musikknyheter, Fredslaget, Sonic, Hymn, Festivalrykten, Rumba, Soundi, Grapevine, FM4 (WAV), OOR, Soho Radio (WAV), So Young.
+- **Not followed up:** replied (Svenska Freds, Rauhanliitto: both answered 13/10), bounced (Diffus).
+- Round 3 follow-ups complete.

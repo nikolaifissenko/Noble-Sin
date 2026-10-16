@@ -39,6 +39,7 @@
 | 15/10 | US | WXYC Chapel Hill (music dept) | md@wxyc.org | blog piece on Fly Around Fest, Lansing after Helene | Sent |
 Skipped 12/10: Stop the War Coalition (UK). Its "Peace in Ukraine" line is read by many Ukrainians as pressure on Ukraine to concede; too risky for Alina. Nikolai decided 12/10: do not pitch, ever. KALX (site says don't email music submissions), WNYU (nothing to reference), RaBe (page unreadable), Holod (no culture coverage).
 Dropped: TheAltSubmissions@gmail.com (bounced twice, inbox full).
+16/10: **Radio Néo** (Paris) replied 15/10: "beau travail", but not right for their current programming. Polite pass, closed.
 15/10 daily run: 24 round 2 follow-ups + 1 new (WXYC) = 25. No bounces, no new replies.
 14/10 daily run: no new outlets (round 2 follow-ups used the 25 cap). matt@overblown.co.uk also bounced (domain mail server broken): **Overblown dropped.** No new replies.
 Thank-you replies 13/10: Rauhanliitto (Julia, sent WAV for the matinee), Svenska Freds (Alex).
@@ -150,3 +151,109 @@ Replies 12/10: **Rauhanliitto** (Julia Jernvall) forwarded Nebo to the "Sana vs.
 | 95 | IT | Radio Rock Roma | info@radiorock.it | Queued |
 | 96 | IT | Radio Start (She Blues) | info@radiostart.it | Queued |
 | 97 | US | WBRS Brandeis | gm@wbrs.org | Queued |
+
+## Queue 2: 100 more outlets (built 16/10, addresses from each outlet's own site)
+> Goes after queue 1. Most of these will go out after release (from Mon 26/10) with the Spotify link instead of the private Drive link, since new press stops after Mon 19/10. Same rules: real hook checked at send time, skip if none, never paid.
+
+| # | Country | Outlet | Email | Status |
+|---|---|---|---|---|
+| 1 | US | KCOU Missouri | md@kcou.fm | Queued |
+| 2 | US | KCR San Diego State | kcr.music@sdsu.edu | Queued |
+| 3 | US | KUGS Western Washington | kugs.musicdirector@wwu.edu | Queued |
+| 4 | US | Radio K Minnesota | radiokmusic@umn.edu | Queued |
+| 5 | US | WNYU New York | music@wnyu.org | Queued |
+| 6 | US | KZUU Washington State | kzuu90.7fm@gmail.com | Queued |
+| 7 | US | KWVA Oregon (music blog) | musicblog@kwvaradio.org | Queued |
+| 8 | US | KAOS Evergreen | kaosmusicdirector@gmail.com | Queued |
+| 9 | US | KMNR Missouri S&T | music@kmnr.org | Queued |
+| 10 | US | KMUN Astoria | music@kmun.org | Queued |
+| 11 | US | WFUV New York | thefolks@wfuv.org | Queued |
+| 12 | US | WMSE Milwaukee | wmse@msoe.edu | Queued |
+| 13 | US | WPTS Pittsburgh | music@wptsradio.org | Queued |
+| 14 | US | WRFL Kentucky | contact@wrfl.fm | Queued |
+| 15 | US | WCWP Long Island | info@wcwp.org | Queued |
+| 16 | US | KSCU Santa Clara | music@kscu.org | Queued |
+| 17 | US | KVSC St Cloud | music@kvsc.org | Queued |
+| 18 | US | WBOR Bowdoin | wbor-submissions@bowdoin.edu | Queued |
+| 19 | US | WGRE DePauw | wgremusicdept@gmail.com | Queued |
+| 20 | US | WJCU Cleveland | wjcu.md@gmail.com | Queued |
+| 21 | US | WVCW Virginia Commonwealth | music@wvcw.org | Queued |
+| 22 | US | WVUA Alabama | music@wvuafm.ua.edu | Queued |
+| 23 | US | WERS Boston | info@wers.org | Queued |
+| 24 | US | KTUH Hawaii | office@ktuh.org | Queued |
+| 25 | US | KTSW Texas State | ktsw@txstate.edu | Queued |
+| 26 | US | KSCR USC | contact@kscr.org | Queued |
+| 27 | US | KPSU Portland State | programming@kpsu.org | Queued |
+| 28 | US | KXUA Arkansas | kxua@uark.edu | Queued |
+| 29 | US | WCWM William & Mary | wcwmxx@wm.edu | Queued |
+| 30 | US | WMHC Mount Holyoke | wmhc.collective@gmail.com | Queued |
+| 31 | US | Gorilla vs. Bear | chris@gorillavsbear.net | Queued |
+| 32 | US | American Songwriter | info@americansongwriter.com | Queued |
+| 33 | US | The Reviews Are In (Joshua) | joshua@thereviewsarein.com | Queued |
+| 34 | US | Ukrainian Institute of America | info@ukrainianinstitute.org | Queued |
+| 35 | UK | Insanity Radio (Royal Holloway) | music@insanityradio.com | Queued |
+| 36 | UK | URY York | music@ury.org.uk | Queued |
+| 37 | UK | Cam FM Cambridge | music@camfm.co.uk | Queued |
+| 38 | UK | Cambridge 105 (Amplify) | amplify@cambridge.radio | Queued |
+| 39 | UK | IC Radio Imperial | icradio@imperial.ac.uk | Queued |
+| 40 | UK | Subcity Glasgow | programmes@subcity.org | Queued |
+| 41 | UK | Sheffield Live | info@sheffieldlive.org | Queued |
+| 42 | UK | Radio Plus Coventry | studio@radioplus.org.uk | Queued |
+| 43 | UK | musicOMH | hello@musicomh.com | Queued |
+| 44 | UK | Loud Women | loudwomen@loudwomen.org | Queued |
+| 45 | UK | Fellowship of Reconciliation England | office@for.org.uk | Queued |
+| 46 | UK | WILPF UK | ukwilpf.peace@gmail.com | Queued |
+| 47 | UK | Scottish CND | scnd@banthebomb.org | Queued |
+| 48 | UK | Northern Friends Peace Board | nfpb@gn.apc.org | Queued |
+| 49 | IE | Hot Press | info@hotpress.ie | Queued |
+| 50 | IE | GoldenPlec (new music) | newmusic@goldenplec.com | Queued |
+| 51 | IE | District Magazine | info@district.ie | Queued |
+| 52 | AU | Mixdown Magazine | editorial@mixdownmag.com.au | Queued |
+| 53 | DE | Musikexpress | redaktion@musikexpress.de | Queued |
+| 54 | DE | musikblog.de | info@musikblog.de | Queued |
+| 55 | DE | Minutenmusik | info@minutenmusik.de | Queued |
+| 56 | DE | Whiskey Soda | kontakt@whiskey-soda.de | Queued |
+| 57 | DE | Plastic Bomb (Ronja) | ronja@plastic-bomb.de | Queued |
+| 58 | DE | egoFM Munich | info@egofm.de | Queued |
+| 59 | DE | Radio Hertz 87.9 Bielefeld | info@radiohertz.de | Queued |
+| 60 | DE | Radio 98eins Greifswald | musik@radio98eins.de | Queued |
+| 61 | DE | mephisto 97.6 Leipzig | chefredaktion@mephisto976.de | Queued |
+| 62 | DE | Ohne Rüstung Leben | orl@gaia.de | Queued |
+| 63 | DE | Bund für Soziale Verteidigung | info@soziale-verteidigung.de | Queued |
+| 64 | DE | Refuge Worldwide Berlin | hello@refugeworldwide.com | Queued |
+| 65 | AT | The Gap | info@the-gap.at | Queued |
+| 66 | CH | GSoA | gsoa@gsoa.ch | Queued |
+| 67 | BE | Urgent.fm Ghent | muziek@urgent.fm | Queued |
+| 68 | BE | Concertmonkey | info@concertmonkey.be | Queued |
+| 69 | BE | Enola | info@enola.be | Queued |
+| 70 | BE | Keys and Chords | info@keysandchords.com | Queued |
+| 71 | BE | Pax Christi Vlaanderen | paxchristi@paxchristi.be | Queued |
+| 72 | BE | Vrede vzw | vrede@vrede.be | Queued |
+| 73 | EU | Church and Peace | intloffice@church-and-peace.org | Queued |
+| 74 | FR | Radio Campus Paris | antenne@radiocampusparis.org | Queued |
+| 75 | SE | Radio AF Lund | musik@radioaf.se | Queued |
+| 76 | SE | K103 Gothenburg | info@k103.se | Queued |
+| 77 | PL | Radio Akadera Białystok | akadera@akadera.bialystok.pl | Queued |
+| 78 | PL | Radio Centrum Lublin | redakcja@radiocentrum.pl | Queued |
+| 79 | PL | Nowa Muzyka | info@nowamuzyka.pl | Queued |
+| 80 | CZ | Rock&Pop | redakce@rockandpop.cz | Queued |
+| 81 | ES | Jenesaispop | info@jenesaispop.com | Queued |
+| 82 | ES | Muzikalia | mzk@muzikalia.com | Queued |
+| 83 | ES | Indienauta | info@indienauta.com | Queued |
+| 84 | PT | Comunidade Cultura e Arte | geral@comunidadeculturaearte.com | Queued |
+| 85 | RU exile | Spektr | editor@spektr.press | Queued |
+| 86 | IT | Radio Popolare Roma | info@radiopopolareroma.it | Queued |
+| 87 | IT | Radio Blackout Torino | redazione@radioblackout.org | Queued |
+| 88 | IT | Radio Fragola Trieste | musica@radiofragola.com | Queued |
+| 89 | IT | Radio Tandem Bolzano | info@radiotandem.it | Queued |
+| 90 | IT | Radio Ciroma Cosenza | redazione.ciroma@gmail.com | Queued |
+| 91 | IT | OndAlternativa | spunk@ondalternativa.it | Queued |
+| 92 | IT | Rock Nation | redazione@rocknation.it | Queued |
+| 93 | IT | The Walk of Fame | segnalazioni@thewalkoffame.it | Queued |
+| 94 | IT | Sdangher | info@sdangher.com | Queued |
+| 95 | IT | Soundwall | music@sndwll.it | Queued |
+| 96 | UK | Our Culture Mag | info@ourculturemag.com | Queued |
+| 97 | IT | Tavola della Pace | stampa@perlapace.it | Queued |
+| 98 | IT | Archivio Disarmo | info@archiviodisarmo.it | Queued |
+| 99 | UK | BCB Radio Bradford | hello@bcbradio.co.uk | Queued |
+| 100 | IT | Radio Rogna | info@radiorogna.it | Queued |

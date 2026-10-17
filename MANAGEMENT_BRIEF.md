@@ -45,6 +45,7 @@
 
 ### Album: *Off We Go* (debut)
 - 11 tracks, already released
+- Produced by Gianni Errera. The band later parted ways with him (Nikolai, 17/10/2026). Do NOT credit or mention him in any Nebo or future material, and never name him in pitches.
 - **Flagship track: "Running"** — DO NOT push "Running" as the main promo track anymore. It has served its role. Move on.
 - Strategy: relaunch *Off We Go* via "track of the week" social campaign — rotate through the other 10 tracks, not Running
 

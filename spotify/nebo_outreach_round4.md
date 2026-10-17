@@ -263,3 +263,64 @@ Replies 12/10: **Rauhanliitto** (Julia Jernvall) forwarded Nebo to the "Sana vs.
 | 98 | IT | Archivio Disarmo | info@archiviodisarmo.it | Queued |
 | 99 | UK | BCB Radio Bradford | hello@bcbradio.co.uk | Queued |
 | 100 | IT | Radio Rogna | info@radiorogna.it | Queued |
+
+## Queue 3: 55 Italian outlets (built 17/10, addresses from each outlet's own site)
+> Nikolai 17/10: "find Italian outlets we could send the song to", then "ok send monday". Rows 1 to 25 go out Mon 19/10 (private Drive link, in Italian; English for Italian Insider). Rows 26 onward from Mon 26/10 with the Spotify link. Last five are low priority. Hooks below were read on the sites 16 to 17/10; recheck at send time. Not pitched: Iyezine's paid PR arm, Brainstorming's Ko-fi/Groover routes, anything paid. Gianni Errera is never mentioned.
+
+| # | Outlet | Email | Hook (read on site) | Status |
+|---|---|---|---|---|
+| 1 | MeltingPot (Radio Città Aperta Roma) | direttoreartistico@radiocittaperta.it | NODAY guests on MeltingPot, Riccardo Pure Ranking; also ALTERNITALIA (Gianluca Polverari) 16/10 | Queued |
+| 2 | Radio Elettrica (Roma) | webradioelettrica@gmail.com | Shows L'Alternativo Moderno (Antonio Masi) and Peace and Noise (Stefano Strina); 8th birthday party Sat 24/10 | Queued |
+| 3 | Sound36 (Roma) | info@sound36.com | Weekly issue SOund36 Anno 19 N. 858; partner of Link Campus University | Queued |
+| 4 | Zero Roma | infoweb@edizionizero.com | Listing Nubes w/ Able Noise at Esc Atelier 17/10 | Queued |
+| 5 | Radio Colonna | redazione@radiocolonna.it | Site asks for press releases at this address; Cultura e spettacolo | Queued |
+| 6 | Italian Insider (EN) | info@italianinsider.it | Odesa's maverick Italian editor piece | Queued |
+| 7 | Roma Sette | redazione@romasette.it | Cultura e Società; Festival della Divina Sapienza 16/10 | Queued |
+| 8 | Confronti (Roma) | info@confronti.net | Etiopia e Tigray piece 15/10 | Queued |
+| 9 | Comune-info (Roma) | info@comune-info.net | Della rivolta studentesca 15/10 | Queued |
+| 10 | Articolo21 | redazione@articolo21.info | Cultura > Musica section (Paolo Fresu Berchidda) | Queued |
+| 11 | NEV Notizie Evangeliche | nev@fcei.it | Giustizia e Pace section | Queued |
+| 12 | Radio Unitus (Viterbo) | webradio@unitus.it | Page invites music lovers to write; Santa Maria in Gradi studio, near Blera | Queued |
+| 13 | Gariwo | comunicazione@gariwo.net | Combatants for Peace in Milano 12-13/10; GariwoNetwork Rome 27-28/11 | Queued |
+| 14 | East Journal | redazione.eastjournal@gmail.com | Covers Ukraine and Russia; Polish right and Lviv piece 15/10 | Queued |
+| 15 | Kalporz | comunicati@kalporz.com | CSI book piece 16/10; wants streaming link, short text, one photo | Queued |
+| 16 | Infinite Jest | redazione.infinitejest@gmail.com | USCITE DISCOGRAFICHE della settimana column (23/10 roundup) | Queued |
+| 17 | Lost Highways | redazione@losthighways.it | Tommaso Cerasuolo (Perturbazione) interview 12/10 | Queued |
+| 18 | Classic Rock Italia | classicrock@sprea.it | John Lennon, Beatle e coscienza del rock 09/10 | Queued |
+| 19 | JAM | redazione@jamonline.it | World Peace Culture & Arts Festival 2026 piece | Queued |
+| 20 | Blow Up | contatti@blowupmagazine.com | Blow Up #341 ottobre 2026 | Queued |
+| 21 | SpazioRock | info@spaziorock.it | Nightwish and Floor Jansen news 15/10 | Queued |
+| 22 | Brainstorming Magazine | info@brainstormingmagazine.it | Donne e Musica section; subject must be "Richiesta recensione/intervista" | Queued |
+| 23 | EMergenti IN Adozione (podcast) | emergentinadozione@gmail.com | Free weekly interview episode for small radios | Queued |
+| 24 | RBE Radio Beckwith | promozione@rbe.it | Official music submission address; Date Night Radio Show #257 | Queued |
+| 25 | Atlante delle Guerre | atlantedelleguerre@gmail.com | Il Punto, La pace annunciata (Raffaele Crocco) 16/10 | Queued |
+| 26 | Iyezine | info@iyezine.com | Column ACUFENI: FASTIDI AURICOLARI CONTEMPORANEI #57 (editorial only, never their paid PR) | Queued |
+| 27 | OndaMusicale | info@ondamusicale.it | Proceno Musica Festival piece 16/10 | Queued |
+| 28 | Musica Intorno | info@musicaintorno.it | Stratocaster vs Les Paul piece 07/10 (guitar angle) | Queued |
+| 29 | RockShock | allmusiclover@gmail.com | Fontaines D.C. Dopamine Chamber review 16/10 | Queued |
+| 30 | Loudd | info@loudd.it | Big Big Train live report; Palomar review | Queued |
+| 31 | Musicultura Online | redazione@musiculturaonline.it | Zamboni and Ferretti interviews 13/10 | Queued |
+| 32 | Soundcontest | redazione@soundcontest.com | Takao Wazowsky Steam On Glass piece 16/10 | Queued |
+| 33 | System Failure | mondafelice1978@gmail.com | Luca & The Tautologists piece 16/10 | Queued |
+| 34 | Relics Controsuoni | dischi@relics-controsuoni.com | DRINK THE SEA una data a Roma 12/10 | Queued |
+| 35 | Indie-Roccia | indieroccia@gmail.com | Contact page says promo goes to this address | Queued |
+| 36 | TomTomRock | postmaster@tomtomrock.it | Afghan Whigs review 15/10; wants download link, not Spotify | Queued |
+| 37 | Nootempo | info@nootempo.net | Diego Figus Eternità lyric video piece | Queued |
+| 38 | HardSounds | promo@hardsounds.it | Corde Oblique new single news 09/10 | Queued |
+| 39 | L'isola che non c'era | redazione@lisolachenoncera.it | Canzoni senza click 12/10 | Queued |
+| 40 | VEZ Magazine | info@vezmagazine.it | In Poche Parole column (Lou Reed, Warren Zevon) | Queued |
+| 41 | Musicletter | musicletter@gmail.com | Il disco in evidenza column; Luca D'Ambrosio since 2005 | Queued |
+| 42 | RadioSonar.net | radiosonar@gmail.com | La Discoteca del Diavolo; Gemini Network of independent radios | Queued |
+| 43 | Radio Siani | redazione@radiosiani.com | La radio della legalità; Olivetti di Giancarlo Siani piece 23/09 | Queued |
+| 44 | Controradio (Firenze) | info@controradio.it | Rock Contest 2026; show Flux | Queued |
+| 45 | Riforma | redazione.torino@riforma.it | Marcia Gravina-Altamura per la pace e il disarmo 16/10 | Queued |
+| 46 | MIR Italia | redazioneweb@miritalia.org | Steadfast Noon 2026 statement 12/10 | Queued |
+| 47 | OBC Transeuropa | segreteria@balcanicaucaso.org | Daniel Schulz interview 16/10 | Queued |
+| 48 | Operazione Colomba | operazione.colomba@apg23.org | Unarmed civilian peace corps | Queued |
+| 49 | Voci per la Libertà | info@vociperlaliberta.it | Una canzone per Amnesty; Premio Amnesty Emergenti 2026 (Capabrò) | Queued |
+| 50 | Fondazione Alexander Langer | info@alexanderlanger.net | Langer's convivenza theme; Premio Langer 2026 | Queued |
+| 51 | Taxi-Driver | webmaster@taxi-driver.it | Grunge/alternative/post-hardcore stated genres (low activity) | Queued |
+| 52 | Indie-eye | cs@indie-eye.it | indie-eye diventa mensile (low priority) | Queued |
+| 53 | Fuori Aula Network (Verona) | fuoriaula.radio@ateneo.univr.it | FanDaSanremo series (quieter since March) | Queued |
+| 54 | Radio Zammù (Catania) | radio.zammu@unict.it | University radio (activity unclear) | Queued |
+| 55 | Nigrizia | redazione@nigrizia.it | Soccer Grannies piece (weak fit, low priority) | Queued |

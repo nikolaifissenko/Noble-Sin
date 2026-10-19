@@ -44,6 +44,7 @@
 | 16/10 | US | KZSU Stanford | music@kzsu.stanford.edu | DJ Aporia's Emma Ruth Rundle review | Sent |
 Skipped 12/10: Stop the War Coalition (UK). Its "Peace in Ukraine" line is read by many Ukrainians as pressure on Ukraine to concede; too risky for Alina. Nikolai decided 12/10: do not pitch, ever. KALX (site says don't email music submissions), WNYU (nothing to reference), RaBe (page unreadable), Holod (no culture coverage).
 Dropped: TheAltSubmissions@gmail.com (bounced twice, inbox full).
+19/10 daily run: 25 new Italian pitches (queue 3 rows 1 to 21, 24 to 27), in Italian except Italian Insider (English). Hooks rechecked live 19/10; several updated (Zero: Festa del Cinema guide; JAM: Vince May "Peacefare"; SpazioRock: Pretty Reckless + Dave Grohl, Nervi + Dente; RBE: Andrea Bracco's U2 minuteca; Radio Città Aperta: Whistling Heads at Alternitalia). Radio got the WAV link; Kalporz, Radio Colonna and OndaMusicale got the press photo link. No bounces, no new replies. Queue 1 and the rest of queues 2/3 resume Mon 26/10 with the Spotify link.
 16/10 daily run: 19 round 3 follow-ups + 5 new = 24. No bounces. Skipped KDVS, WQFS, KVRX (nothing current on their sites).
 16/10: **Radio Néo** (Paris) replied 15/10: "beau travail", but not right for their current programming. Polite pass, closed.
 15/10 daily run: 24 round 2 follow-ups + 1 new (WXYC) = 25. No bounces, no new replies.
@@ -269,33 +270,33 @@ Replies 12/10: **Rauhanliitto** (Julia Jernvall) forwarded Nebo to the "Sana vs.
 
 | # | Outlet | Email | Hook (read on site) | Status |
 |---|---|---|---|---|
-| 1 | MeltingPot (Radio Città Aperta Roma) | direttoreartistico@radiocittaperta.it | NODAY guests on MeltingPot, Riccardo Pure Ranking; also ALTERNITALIA (Gianluca Polverari) 16/10 | Queued |
-| 2 | Radio Elettrica (Roma) | webradioelettrica@gmail.com | Shows L'Alternativo Moderno (Antonio Masi) and Peace and Noise (Stefano Strina); 8th birthday party Sat 24/10 | Queued |
-| 3 | Sound36 (Roma) | info@sound36.com | Weekly issue SOund36 Anno 19 N. 858; partner of Link Campus University | Queued |
-| 4 | Zero Roma | infoweb@edizionizero.com | Listing Nubes w/ Able Noise at Esc Atelier 17/10 | Queued |
-| 5 | Radio Colonna | redazione@radiocolonna.it | Site asks for press releases at this address; Cultura e spettacolo | Queued |
-| 6 | Italian Insider (EN) | info@italianinsider.it | Odesa's maverick Italian editor piece | Queued |
-| 7 | Roma Sette | redazione@romasette.it | Cultura e Società; Festival della Divina Sapienza 16/10 | Queued |
-| 8 | Confronti (Roma) | info@confronti.net | Etiopia e Tigray piece 15/10 | Queued |
-| 9 | Comune-info (Roma) | info@comune-info.net | Della rivolta studentesca 15/10 | Queued |
-| 10 | Articolo21 | redazione@articolo21.info | Cultura > Musica section (Paolo Fresu Berchidda) | Queued |
-| 11 | NEV Notizie Evangeliche | nev@fcei.it | Giustizia e Pace section | Queued |
-| 12 | Radio Unitus (Viterbo) | webradio@unitus.it | Page invites music lovers to write; Santa Maria in Gradi studio, near Blera | Queued |
-| 13 | Gariwo | comunicazione@gariwo.net | Combatants for Peace in Milano 12-13/10; GariwoNetwork Rome 27-28/11 | Queued |
-| 14 | East Journal | redazione.eastjournal@gmail.com | Covers Ukraine and Russia; Polish right and Lviv piece 15/10 | Queued |
-| 15 | Kalporz | comunicati@kalporz.com | CSI book piece 16/10; wants streaming link, short text, one photo | Queued |
-| 16 | Infinite Jest | redazione.infinitejest@gmail.com | USCITE DISCOGRAFICHE della settimana column (23/10 roundup) | Queued |
-| 17 | Lost Highways | redazione@losthighways.it | Tommaso Cerasuolo (Perturbazione) interview 12/10 | Queued |
-| 18 | Classic Rock Italia | classicrock@sprea.it | John Lennon, Beatle e coscienza del rock 09/10 | Queued |
-| 19 | JAM | redazione@jamonline.it | World Peace Culture & Arts Festival 2026 piece | Queued |
-| 20 | Blow Up | contatti@blowupmagazine.com | Blow Up #341 ottobre 2026 | Queued |
-| 21 | SpazioRock | info@spaziorock.it | Nightwish and Floor Jansen news 15/10 | Queued |
-| 22 | Brainstorming Magazine | info@brainstormingmagazine.it | Donne e Musica section; subject must be "Richiesta recensione/intervista" | Queued |
-| 23 | EMergenti IN Adozione (podcast) | emergentinadozione@gmail.com | Free weekly interview episode for small radios | Queued |
-| 24 | RBE Radio Beckwith | promozione@rbe.it | Official music submission address; Date Night Radio Show #257 | Queued |
-| 25 | Atlante delle Guerre | atlantedelleguerre@gmail.com | Il Punto, La pace annunciata (Raffaele Crocco) 16/10 | Queued |
-| 26 | Iyezine | info@iyezine.com | Column ACUFENI: FASTIDI AURICOLARI CONTEMPORANEI #57 (editorial only, never their paid PR) | Queued |
-| 27 | OndaMusicale | info@ondamusicale.it | Proceno Musica Festival piece 16/10 | Queued |
+| 1 | MeltingPot (Radio Città Aperta Roma) | direttoreartistico@radiocittaperta.it | NODAY guests on MeltingPot, Riccardo Pure Ranking; also ALTERNITALIA (Gianluca Polverari) 16/10 | Sent 19/10 |
+| 2 | Radio Elettrica (Roma) | webradioelettrica@gmail.com | Shows L'Alternativo Moderno (Antonio Masi) and Peace and Noise (Stefano Strina); 8th birthday party Sat 24/10 | Sent 19/10 |
+| 3 | Sound36 (Roma) | info@sound36.com | Weekly issue SOund36 Anno 19 N. 858; partner of Link Campus University | Sent 19/10 |
+| 4 | Zero Roma | infoweb@edizionizero.com | Listing Nubes w/ Able Noise at Esc Atelier 17/10 | Sent 19/10 |
+| 5 | Radio Colonna | redazione@radiocolonna.it | Site asks for press releases at this address; Cultura e spettacolo | Sent 19/10 |
+| 6 | Italian Insider (EN) | info@italianinsider.it | Odesa's maverick Italian editor piece | Sent 19/10 |
+| 7 | Roma Sette | redazione@romasette.it | Cultura e Società; Festival della Divina Sapienza 16/10 | Sent 19/10 |
+| 8 | Confronti (Roma) | info@confronti.net | Etiopia e Tigray piece 15/10 | Sent 19/10 |
+| 9 | Comune-info (Roma) | info@comune-info.net | Della rivolta studentesca 15/10 | Sent 19/10 |
+| 10 | Articolo21 | redazione@articolo21.info | Cultura > Musica section (Paolo Fresu Berchidda) | Sent 19/10 |
+| 11 | NEV Notizie Evangeliche | nev@fcei.it | Giustizia e Pace section | Sent 19/10 |
+| 12 | Radio Unitus (Viterbo) | webradio@unitus.it | Page invites music lovers to write; Santa Maria in Gradi studio, near Blera | Sent 19/10 |
+| 13 | Gariwo | comunicazione@gariwo.net | Combatants for Peace in Milano 12-13/10; GariwoNetwork Rome 27-28/11 | Sent 19/10 |
+| 14 | East Journal | redazione.eastjournal@gmail.com | Covers Ukraine and Russia; Polish right and Lviv piece 15/10 | Sent 19/10 |
+| 15 | Kalporz | comunicati@kalporz.com | CSI book piece 16/10; wants streaming link, short text, one photo | Sent 19/10 |
+| 16 | Infinite Jest | redazione.infinitejest@gmail.com | USCITE DISCOGRAFICHE della settimana column (23/10 roundup) | Sent 19/10 |
+| 17 | Lost Highways | redazione@losthighways.it | Tommaso Cerasuolo (Perturbazione) interview 12/10 | Sent 19/10 |
+| 18 | Classic Rock Italia | classicrock@sprea.it | John Lennon, Beatle e coscienza del rock 09/10 | Sent 19/10 |
+| 19 | JAM | redazione@jamonline.it | World Peace Culture & Arts Festival 2026 piece | Sent 19/10 |
+| 20 | Blow Up | contatti@blowupmagazine.com | Blow Up #341 ottobre 2026 | Sent 19/10 |
+| 21 | SpazioRock | info@spaziorock.it | Nightwish and Floor Jansen news 15/10 | Sent 19/10 |
+| 22 | Brainstorming Magazine | info@brainstormingmagazine.it | Donne e Musica section; subject must be "Richiesta recensione/intervista" | Skipped: site now says pitches only via a press office (camillaortolani@), not direct |
+| 23 | EMergenti IN Adozione (podcast) | emergentinadozione@gmail.com | Free weekly interview episode for small radios | Deferred to 26/10: needs Nikolai's WhatsApp number, a photo, the Spotify link and ideally a short video intro; originals only, free |
+| 24 | RBE Radio Beckwith | promozione@rbe.it | Official music submission address; Date Night Radio Show #257 | Sent 19/10 |
+| 25 | Atlante delle Guerre | atlantedelleguerre@gmail.com | Il Punto, La pace annunciata (Raffaele Crocco) 16/10 | Sent 19/10 |
+| 26 | Iyezine | info@iyezine.com | Column ACUFENI: FASTIDI AURICOLARI CONTEMPORANEI #57 (editorial only, never their paid PR) | Sent 19/10 |
+| 27 | OndaMusicale | info@ondamusicale.it | Proceno Musica Festival piece 16/10 | Sent 19/10 |
 | 28 | Musica Intorno | info@musicaintorno.it | Stratocaster vs Les Paul piece 07/10 (guitar angle) | Queued |
 | 29 | RockShock | allmusiclover@gmail.com | Fontaines D.C. Dopamine Chamber review 16/10 | Queued |
 | 30 | Loudd | info@loudd.it | Big Big Train live report; Palomar review | Queued |

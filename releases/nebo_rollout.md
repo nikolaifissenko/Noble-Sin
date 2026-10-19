@@ -56,6 +56,7 @@
 - [ ] Update the Spotify bio to feature "Nebo"
 - [ ] Check Spotify for Artists for editorial placements
 - [ ] Notify curators who expressed interest
+- [ ] Playlist curators: 17 email pitches + Nikolai's DM/form list in `spotify/nebo_playlist_curators.md` (built 19/10)
 
 ### RELEASE WEEK — 24–30/10/2026
 - [ ] Sat 24: behind-the-scenes / making-of

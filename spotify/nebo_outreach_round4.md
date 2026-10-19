@@ -324,3 +324,7 @@ Replies 12/10: **Rauhanliitto** (Julia Jernvall) forwarded Nebo to the "Sana vs.
 | 53 | Fuori Aula Network (Verona) | fuoriaula.radio@ateneo.univr.it | FanDaSanremo series (quieter since March) | Queued |
 | 54 | Radio Zammù (Catania) | radio.zammu@unict.it | University radio (activity unclear) | Queued |
 | 55 | Nigrizia | redazione@nigrizia.it | Soccer Grannies piece (weak fit, low priority) | Queued |
+| 56 | Muzvar (UA music media, culture) | dostemenno@gmail.com | "Пошта для релізів" on their contacts page; lead with Alina | Queued |
+| 57 | Passive/Aggressive (DK) | redaktion@passiveaggressive.dk | Review submissions address on About page | Queued |
+| 58 | Warto Posłuchać (PL radio show, new singles) | wartoposluchac@gmail.com | Show for new singles | Queued |
+| 59 | Screenagers.pl (PL alternative) | redakcja@screenagers.pl | Polish alternative webzine | Queued |

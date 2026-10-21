@@ -184,3 +184,27 @@ Press, blog, radio and org outreach is logged in the `spotify/` files above. Pla
 ## NOTES
 - Musician Plus (~€50/yr, recurring) covers Nebo and the next singles. If it's ever left to lapse, DistroKid takes down the whole catalogue (see the brief).
 - Instagram grid: keep existing posts. Don't wipe the profile at 1,500 followers.
+
+## RELEASE DAY REEL: Fri 23/10/2026 (captions, max 5 hashtags each)
+Post only after checking Nebo is live on Spotify. Bio link = Spotify link. Reel cover: `social/assets/nebo/out_now_cover_plain_camo.jpg`.
+
+**Instagram (Reel):**
+> NEBO is out now 🌌
+> A Ukrainian voice, a Russian guitar, three Italians. One song for every soldier who refuses to fire.
+> We are an ocean against a drop of evil.
+> Listen now, link in bio.
+>
+> 🇮🇹 NEBO è fuori 🌌 Una voce ucraina, una chitarra russa, tre italiani. Una canzone per chi si rifiuta di sparare. Ascoltala ora, link in bio.
+>
+> #noblesin #nebo #newmusic #alternativerock #antiwar
+
+**TikTok:**
+> A Ukrainian and a Russian wrote a song together. It's out now 🌌 NEBO, link in bio
+> #nebo #noblesin #newmusic #femalefronted #altrock
+
+**YouTube Shorts:**
+- Title: `NEBO is out now 🌌 Noble Sin #Shorts`
+- Description:
+> A Ukrainian singer, a Russian guitarist and three Italians from Rome. "Nebo" means sky in Ukrainian: three sergeants in three armies refuse to fire. Out now everywhere.
+> Listen: [Spotify link]
+> #noblesin #nebo #alternativerock #antiwarsong #shorts

@@ -145,7 +145,7 @@ TikTok versions are re-edits of the same footage (hook in the first 3s). The Neb
 | Asset | Status | Notes |
 |-------|--------|-------|
 | Final master (WAV) | [x] | Uploaded to DistroKid |
-| Artwork | [x] | `nebo_cover_v4.jpg` on DistroKid, needs adding to the repo (see Cover) |
+| Artwork | [x] | Real DistroKid/Spotify cover: `releases/nebo/artwork/NEBO_cover_DISTROKID_3000.jpg` (pulled from HyperFollow 21/10). `NEBO_cover_FINAL_3000.jpg` is an older brighter grade that was NOT released; don't use it |
 | IG profile pic | [x] | `social/assets/nebo/profile_pic_square.jpg` / `_camo.jpg` |
 | Teaser reel cover | [x] | `social/assets/nebo/reel_cover_loading_camo.jpg` (+ `_plain`) |
 | Other reel covers | [x] | `social/assets/nebo/reel_cover_vertical_{plain,camo}.jpg` |

@@ -329,7 +329,138 @@ Replies 12/10: **Rauhanliitto** (Julia Jernvall) forwarded Nebo to the "Sana vs.
 | 53 | Fuori Aula Network (Verona) | fuoriaula.radio@ateneo.univr.it | FanDaSanremo series (quieter since March) | Queued |
 | 54 | Radio Zammù (Catania) | radio.zammu@unict.it | University radio (activity unclear) | Queued |
 | 55 | Nigrizia | redazione@nigrizia.it | Soccer Grannies piece (weak fit, low priority) | Queued |
-| 56 | Muzvar (UA music media, culture) | dostemenno@gmail.com | "Пошта для релізів" on their contacts page; lead with Alina | Queued |
+| 56 | Muzvar | dostemenno@gmail.com | | Skipped: rechecked 21/10, Muzvar turned out to be a studio, not Ukrainian music media |
 | 57 | Passive/Aggressive (DK) | redaktion@passiveaggressive.dk | Review submissions address on About page | Queued |
 | 58 | Warto Posłuchać (PL radio show, new singles) | wartoposluchac@gmail.com | Show for new singles | Queued |
 | 59 | Screenagers.pl (PL alternative) | redakcja@screenagers.pl | Polish alternative webzine | Queued |
+
+## Queue 4: Europe and Italy, 125 outlets (built 21/10, addresses from each outlet's own site)
+> Nikolai 21/10: NGOs, blogs, radios, podcasts in Europe and Italy, peace associations, activists, refugee associations, after the song is out. Send from Mon 26/10 with the Spotify link, ahead of queues 1 and 2. Groups: Peace (41), Refugee/UA culture/RU exile (38), Radio/Blog/Podcast (46). Hooks read on the sites 21/10: recheck at send time. UA culture rows: lead with Alina's voice and story, culture framing only. RU exile rows: lead with Nikolai (Paris, Russian). Rows marked 'word with care' or 'moderate risk': keep it universal (every army), no specific conflict. Festivals are separate: `booking/festivals_2027.md`.
+
+| # | Group | Outlet | Where | Email | Hook (read on site) | Lang | Notes | Status |
+|---|---|---|---|---|---|---|---|---|
+| 1 | Peace | Rondine Cittadella della Pace | IT Arezzo | ufficiostampa@rondine.org | Wine made by "enemies" who choose not to hate (8/10); return to Bosnia 19/10 | IT | Best fit | Queued |
+| 2 | Peace | EMERGENCY press | IT | sabina.galandrini@emergency.it | Husarivka (Kharkiv) clinic; "Cultura di pace", R1PUD1A | IT | Moderate risk | Queued |
+| 3 | Peace | Comunità di Sant'Egidio | IT Roma | info@santegidio.org | 30 yrs Guatemala peace accords (20/10); Kyiv humanitarian work | IT | Low-moderate risk | Queued |
+| 4 | Peace | Libera comunicazione | IT Roma | comunicazione@libera.it | "Contro la disumanizzazione" co-promotion (30/9) | IT | Weaker fit | Queued |
+| 5 | Peace | Senzatomica | IT | info@senzatomica.it | "Compact" exhibition Ostia 17-25/10 | IT |  | Queued |
+| 6 | Peace | Pro Civitate Christiana | IT Assisi | info@cittadella.org | "Francesco, otto secoli di domande" 12-15/11 | IT |  | Queued |
+| 7 | Peace | Casa per la Pace Milano | IT Milano | info@casaperlapacemilano.it | School programmes 2026/27 | IT |  | Queued |
+| 8 | Peace | Movimento Nonviolento Vicenza | IT Vicenza | casaperlapace@gmail.com | "Un'altra difesa è possibile" 57,136 signatures | IT |  | Queued |
+| 9 | Peace | MN Torino / Sereno Regis | IT Torino | mir-mn@serenoregis.org | Same campaign; ref. Piercarlo Racca | IT | Possible overlap with MIR Italia | Queued |
+| 10 | Peace | FundiPau | ES Barcelona | info@fundipau.org | "Desarmament, seguretat i pau" 22/10 | CA/ES |  | Queued |
+| 11 | Peace | Justícia i Pau | ES Barcelona | justiciaipau@justiciaipau.org | Trobada Catalano-Balear 17/10 | CA |  | Queued |
+| 12 | Peace | NOVACT | ES Barcelona | media@novact.org | Western Sahara report | ES/EN |  | Queued |
+| 13 | Peace | Gernika Gogoratuz | ES Gernika | info@gernikagogoratuz.org | AI, human rights and culture of peace conf 22-23/10 | ES | Strong symbol | Queued |
+| 14 | Peace | Escola de Cultura de Pau | ES Bellaterra | escolapau@uab.cat | "Escenarios de riesgo... Octubre 2026" | ES/CA |  | Queued |
+| 15 | Peace | Pax Christi Deutschland | DE Berlin | sekretariat@paxchristi.de | 3/10 action alliance demos; nonviolence study day | DE |  | Queued |
+| 16 | Peace | Pax Christi France | FR Paris | accueil@paxchristi.cef.fr | "Assise 1986-2026: 40 ans" | FR |  | Queued |
+| 17 | Peace | Pax Christi International | BE Brussels | hello@paxchristi.net | Message to Navi Pillay, Nobel 2026 (13/10) | EN |  | Queued |
+| 18 | Peace | Pax Christi Österreich | AT | office@paxchristi.at | Franz Jägerstätter commemoration (objector) | DE | Strong CO hook | Queued |
+| 19 | Peace | ICAN Deutschland press | DE Berlin | presse@ican.berlin | "verurteilt russische Atomdrohungen" (1/10) | DE |  | Queued |
+| 20 | Peace | IPPNW Austria | AT Wien | office@ippnw.at | European IPPNW meeting Vienna Feb 2027 | DE/EN |  | Queued |
+| 21 | Peace | PSR/IPPNW Schweiz | CH | sekretariat@ippnw.ch | Auressio retreat, Zumach talk | DE |  | Queued |
+| 22 | Peace | PBI Deutschland | DE Hamburg | info@pbi-deutschland.de | 45 years (15/10) | DE |  | Queued |
+| 23 | Peace | PBI International | BE Brussels | contact@peacebrigades.org | PBI Kenya update (21/10) | EN |  | Queued |
+| 24 | Peace | PBI France | FR Paris | info@pbi-france.org | "Transformer la perte en pouvoir populaire" | FR | Less active | Queued |
+| 25 | Peace | PBI UK | UK London | admin@peacebrigades.org.uk | "Overdue Diligence" report | EN |  | Queued |
+| 26 | Peace | WILPF Deutschland | DE Berlin | info@wilpf.de | "unzwingbar: Kein Bock auf Krieg und Wehrpflicht" | DE | Moderate risk | Queued |
+| 27 | Peace | Aktion Aufschrei | DE | info@aufschrei-waffenhandel.de | Arms export licences H1 2026 | DE | Moderate fit | Queued |
+| 28 | Peace | Schweizerischer Friedensrat | CH Zürich | info@friedensrat.ch | "Friedensfähig statt kriegsbereit" 23/10 (release day) | DE |  | Queued |
+| 29 | Peace | QCEA | BE Brussels | office@qcea.org | "Voices of Peace" CO stories incl. Russia | EN | Excellent CO fit | Queued |
+| 30 | Peace | CNAPD | BE Brussels | info@cnapd.be | 20/11 day against voluntary military service | FR | Moderate risk | Queued |
+| 31 | Peace | Vredesactie | BE Antwerpen | truike@vredesactie.be | Flemish arms decree article | NL | Moderate risk | Queued |
+| 32 | Peace | Afri | IE Dublin | admin@afri.ie | Tribute to Denis Halliday; "The Flame and the Seed" | EN | Works with music | Queued |
+| 33 | Peace | Corrymeela | UK Belfast | welcome@corrymeela.org | International Day of Peace at Belfast City Hall | EN |  | Queued |
+| 34 | Peace | Glencree Centre | IE Wicklow | info@glencree.ie | New CEO Dr Aisling Hearns | EN |  | Queued |
+| 35 | Peace | Musicians Without Borders | NL Amsterdam | media@musicianswithoutborders.org | Mitrovica Rock School | EN | Best music fit | Queued |
+| 36 | Peace | Kristna Fredsrörelsen | SE Stockholm | info@krf.se | Interview with Tetiana Kalenychenko (Ukrainian partner) | SV/EN | Safe, strong | Queued |
+| 37 | Peace | Swedish IPPNW | SE | info@slmk.org | Webinar "Kärnvapen – en fråga för sjukvården" | SV/EN |  | Queued |
+| 38 | Peace | Nei til Atomvåpen | NO Oslo | post@neitilatomvapen.org | Hiroshima Day with music in 7 cities | NO/EN |  | Queued |
+| 39 | Peace | Aldrig Mere Krig | DK | info@aldrigmerekrig.dk | 100th birthday; objectors in both countries | DA/EN | Word with care | Queued |
+| 40 | Peace | AKL (Finnish objectors) | FI Helsinki | toimisto@akl-web.fi | "Stop deporting Russian war resisters" campaign | FI/EN | Nikolai angle | Queued |
+| 41 | Peace | Sadankomitea | FI Helsinki | elina.niinimaki@sadankomitea.fi | Statement on 2027 budget | FI/EN |  | Queued |
+| 42 | Refugee | ARCI culture desk | IT Roma | cultura@arci.it | "Strati della Cultura 2026: abitare l'impossibile" Ferrara 22-24/10 | IT | cc immigrazione@arci.it | Queued |
+| 43 | Refugee | Baobab Experience | IT Roma | baobabexperience@gmail.com | "Uscita di emergenza" campaign | IT |  | Queued |
+| 44 | Refugee | Mediterranea Saving Humans | IT | stampa@mediterranearescue.org | "Torniamo in mare con due nuove barche a vela" (28/8) | IT |  | Queued |
+| 45 | Refugee | SOS Humanity Italia | IT/DE | stampa@sos-humanity.org | Film "WHERE THE WAVES TOOK HER" | IT |  | Queued |
+| 46 | Refugee | ASGI | IT | comunicazione@asgi.it | "Il Razzismo è una brutta storia" report (22/9) | IT |  | Queued |
+| 47 | Refugee | SOS MEDITERRANEE Italia | IT | italia@sosmediterranee.org | "Voci dal Sud Sudan" (20/10) | IT |  | Queued |
+| 48 | Refugee | Casa della Carità | IT Milano | eventi@casadellacarita.org | SOUQ Film Festival 23-25/10 | IT |  | Queued |
+| 49 | Refugee | Fondazione Migrantes | IT Roma | ufficiostampa@migrantes.it | Rapporto Immigrazione 2026 "confini e frontiere" | IT |  | Queued |
+| 50 | Refugee | Asinitas | IT Roma | contatti@asinitas.org | "L'albero delle storie" | IT | Arts-led school for migrants | Queued |
+| 51 | Refugee | Lunaria | IT Roma | comunicazione@lunaria.org | Bando delle Idee mentions a free music festival (12/10) | IT | Music angle | Queued |
+| 52 | Refugee | A Buon Diritto | IT Roma | abuondiritto@abuondiritto.it | "Renditi conto" campaign (16/10) | IT |  | Queued |
+| 53 | Refugee | Refugees Welcome Italia Roma | IT Roma | roma@refugees-welcome.it | "Arrivare vivi non basta" (8/10) | IT |  | Queued |
+| 54 | Refugee | Liberi Nantes | IT Roma | info@liberinantes.org | Street art call in Pietralata | IT |  | Queued |
+| 55 | Refugee | Open Arms | ES/IT | info@openarms.es | "10 years of Open Arms: an event against the current" | EN/ES |  | Queued |
+| 56 | Refugee | Choose Love | UK | media@choose.love | Choose Love x Jon Hopkins at Meltdown | EN | Music hook | Queued |
+| 57 | Refugee | Refugee Week (Counterpoints Arts) | UK | media@refugeeweek.org.uk | JR "Inside Out" for Refugee Week 2027 | EN | Refugee Week On Air | Queued |
+| 58 | Refugee | Refugee Festival Scotland | UK Glasgow | festival@scottishrefugeecouncil.org.uk | "Opening Shot" deadline 22/11 | EN |  | Queued |
+| 59 | Refugee | Migration Museum | UK London | events@migrationmuseum.org | New museum opening 2028 | EN |  | Queued |
+| 60 | Refugee | Good Chance Theatre | UK London | hello@goodchance.org.uk | Production "Donbas" | EN | Strong fit | Queued |
+| 61 | Refugee | Phosphoros Theatre | UK | hello@phosphorostheatre.com | 10-year celebration 10/10 | EN |  | Queued |
+| 62 | Refugee | Atelier des artistes en exil | FR Paris | contact@aa-e.org | "3 jours au 106" 29-31/10 | FR | Hosts Russian exiles too | Queued |
+| 63 | Refugee | Globe Aroma | BE Brussels | info@globearoma.be | "Open house, open studios" | EN/FR |  | Queued |
+| 64 | Refugee | PRO ASYL | DE | proasyl@proasyl.de | 40th anniversary, Menschenrechtspreis 2026 | DE |  | Queued |
+| 65 | Refugee | Flüchtlingsrat Berlin | DE Berlin | buero@fluechtlingsrat-berlin.de | Junge Geflüchtete demands for 2026 election | DE |  | Queued |
+| 66 | Refugee | Integrationshaus | AT Wien | info@integrationshaus.at | Kabarettgala "Lachen hilft!" 26/10 | DE |  | Queued |
+| 67 | Refugee | asylkoordination österreich | AT Wien | asylkoordination@asyl.at | "Minuszuwanderung" piece (24/9) | DE |  | Queued |
+| 68 | Refugee | VluchtelingenWerk Nederland | NL | persvoorlichting@vluchtelingenwerk.nl | Samen Leven poster, 100,000 requests | NL/EN |  | Queued |
+| 69 | Refugee | Fundacja Ocalenie | PL Warszawa | media@ocalenie.org.pl | "Razem lepiej" campaign (15/10) | PL/EN |  | Queued |
+| 70 | Refugee | OPU | CZ Praha | opu@opu.cz | VolEver project with Ukrainian refugees | CS/EN |  | Queued |
+| 71 | UA culture | Ukraiński Dom | PL Warszawa | media@ukrainskidom.pl | Cinema/literature year review (20/10) | UK/PL/EN | Alina writes | Queued |
+| 72 | UA culture | Fundacja Ukraina | PL Wrocław | press@fundacjaukraina.eu | SKOVORODA FEST 2026; Scena Ukraińska | UK/PL/EN | Alina writes | Queued |
+| 73 | UA culture | Fundacja Zustricz | PL Kraków | info@zustricz.pl | Art-Piknik 2026 | UK/PL/EN | Alina writes | Queued |
+| 74 | UA culture | Ukrajinská iniciativa v ČR | CZ Praha | uicr@centrum.cz | Dny ukrajinské kultury 2026 | UK/CS | Alina writes | Queued |
+| 75 | UA culture | Ukrainian Film Festival Berlin | DE Berlin | info@uffberlin.de | 7th ed. "Emergency Spaces" 14-18/10 | EN/UK | Alina writes | Queued |
+| 76 | UA culture | LUkraine / UA Days | LU | uadays@ukrainians.lu | UA Days 2026 | EN/UK | Alina writes | Queued |
+| 77 | RU exile | Russie-Libertés | FR Paris | presse@russie-libertes.org | Forum "Le monde d'après ?" (3/10) | FR | Nikolai writes | Queued |
+| 78 | RU exile | Russian Democratic Society | UK London | info@rusdemsociety.co.uk | Protest for Naoko and Stoptime | EN/RU | Nikolai writes, music hook | Queued |
+| 79 | RU exile | Reforum Space Berlin | DE Berlin | berlin@4freerussia.org | Anti-war cultural hub with recording studio | RU/EN | Nikolai writes | Queued |
+| 80 | Radio | Radio FRO 105.0 | AT Linz | musik@fro.at | "Kriegsverbrecher als Nationalhelden" post | DE | Musikanfragen | Queued |
+| 81 | Radio | Radiofabrik | AT Salzburg | musik@radiofabrik.at | "Teenage Kicks. Indie/Alternative" show | DE |  | Queued |
+| 82 | Radio | Campus & City Radio 94.4 | AT St. Pölten | office@cr944.at | "Demokratie braucht uns alle" 19/10 | DE | General address | Queued |
+| 83 | Radio | Radio Stadtfilter | CH Winterthur | musik@stadtfilter.ch | "Flugmodus" with Johi Denzler | DE | Links only, no attachments | Queued |
+| 84 | Radio | Radio Vostok | CH Genève | prog@radiovostok.ch | Interview with Julien Zdar 21/10 | FR |  | Queued |
+| 85 | Radio | FSK Hamburg | DE Hamburg | mr@fsk-hh.org | "Nasser Monsef im Studiogespräch" 19/10 | DE | Musikredaktion | Queued |
+| 86 | Radio | Radio LORA 92.4 | DE München | info@lora924.de | "LORA Rocks"; Bündnis gegen Krieg show | DE |  | Queued |
+| 87 | Radio | Radio Q | DE Münster | musik@radioq.de | "Nachbericht Rock am Ring 2026" | DE |  | Queued |
+| 88 | Radio | CampusFM | DE Essen | musik@campusfm.info | Audiopreis 2026; music editor Tim Brüninghaus | DE |  | Queued |
+| 89 | Radio | Kölncampus | DE Köln | presse@koelncampus.com | "What Up!? Neue Musik" show | DE | Press address | Queued |
+| 90 | Radio | Radio Blau | DE Leipzig | radioblau@radioblau.de | "Der Leipziger Appell" 21/10 | DE | General address | Queued |
+| 91 | Radio | Radio Primitive | FR Reims | prog@radioprimitive.fr | "Pop o'clock" podcast | FR |  | Queued |
+| 92 | Radio | Radio Campus Lille | FR Lille | campus@campuslille.com | "Musiques aux pieds" 23/9 | FR | General address | Queued |
+| 93 | Radio | Radio Dio 89.5 | FR Saint-Étienne | prog@radiodio.org | "Des Mots des Sons Sans Cible" 15/10; "Roulette Russe" | FR |  | Queued |
+| 94 | Radio | Contrabanda FM | ES Barcelona | contrabanda@contrabanda.org | "Distrito Apache" 13/10 | ES/CA |  | Queued |
+| 95 | Radio | CUAC FM | ES A Coruña | comunicacion@cuacfm.org | "Nace o Arquivo Sonoro de CUAC FM" | ES |  | Queued |
+| 96 | Radio | Radio Almaina | ES Granada | programacion@radioalmaina.org | "8º Cadenazo Antifascista de las Radios Libres" | ES | Frame as interview | Queued |
+| 97 | Radio | Hala Bedi | ES Vitoria | fonoteka@halabedi.eus | Fonoteka (music library) | ES |  | Queued |
+| 98 | Radio | RUC Coimbra | PT Coimbra | prog@ruc.pt | Live broadcast interrupted 12/10 | PT/EN |  | Queued |
+| 99 | Radio | Radio NABA | LV Riga | naba@radionaba.lv | Talk "Dievs, karš un Kremlis" | EN | Strong anti-war fit | Queued |
+| 100 | Radio | Radio Marš | SI Maribor | glasba@radiomars.si | "Atentat na sluh 14" 15/10 | EN |  | Queued |
+| 101 | Blog | Gaesteliste.de | DE Bremen | info@gaesteliste.de | Tramhaus feature | DE |  | Queued |
+| 102 | Blog | Vinyl-keks | DE | news@vinyl-keks.eu | "Female Fronted is not a Genre Festival 2026" | DE | Female vocals angle | Queued |
+| 103 | Blog | Gonzaï | FR Paris | desk@gonzai.com | "Romance veut rallumer le feu du rock francophone" | FR |  | Queued |
+| 104 | Blog | Muzzart | FR Bordeaux | muzzart.bordeaux@gmail.com | Tambours du Bronx "Distropy" review | FR |  | Queued |
+| 105 | Blog | Musiczine | BE | info.fr@musiczine.net | Lemonheads / Townes Van Zandt | FR | Prefers CDs | Queued |
+| 106 | Blog | Indiestyle | BE | info@indiestyle.be | "Here's The Thing 2026" | NL/EN |  | Queued |
+| 107 | Blog | Mondo Sonoro | ES | luna@mondosonoro.com | October 2026 issue (Joan S. Luna) | ES |  | Queued |
+| 108 | Blog | Binaural.es | ES | hola@binaural.es | "Left Of The Dial 2026" | ES |  | Queued |
+| 109 | Blog | Mariskal Rock | ES | bandas@mariskalrock.com | Deep Purple + Jayler Madrid review | ES |  | Queued |
+| 110 | Blog | The Science of Noise | ES Barcelona | scienceofnoisemagazine@gmail.com | Carlos Escobedo (Sôber) interview | ES |  | Queued |
+| 111 | Blog | Threshold Magazine | PT | thresholdmgz@gmail.com | Kaleidobolt live review | PT/EN |  | Queued |
+| 112 | Blog | Teraz Rock | PL | terazrock@terazrock.pl | "Kruk: Mistyczna Aura" interview | EN |  | Queued |
+| 113 | Blog | Kulturalne Media | PL | redakcja@kulturalnemedia.pl | Imany "Women Deserve Rage TOUR" | EN |  | Queued |
+| 114 | Blog | iREPORT | CZ | redakce@ireport.cz | Festival Lucerna Freedom 37 | EN |  | Queued |
+| 115 | Blog | Headliner.cz | CZ | info@headliner.cz | "Rhiannon Giddens věří v sílu naděje" | EN |  | Queued |
+| 116 | Blog | Kaaoszine | FI | arto@kaaoszine.fi | Floor Jansen / Nightwish | EN | Leans metal | Queued |
+| 117 | Blog | Klof Magazine | IE | submissions@klofmag.com | Declan O'Rourke "Oceanic" | EN | MP3 links only | Queued |
+| 118 | Podcast | The Europeans | EU | hello@europeanspodcast.com | "This is What a Generation Sounds Like" | EN | Guest pitches here | Queued |
+| 119 | Podcast | Notes from Poland | PL Kraków | contact@notesfrompoland.com | Small towns / far right episode | EN |  | Queued |
+| 120 | Podcast | New Eastern Europe | PL Kraków | editors@neweasterneurope.eu | "How a rock trial helped create Charter 77" | EN | Best fit | Queued |
+| 121 | Media | DOXA | RU exile | hello@doxa.team | Eco-activists vs uranium deliveries 20/10 | EN/RU | Nikolai angle | Queued |
+| 122 | Podcast | Radio Spaetkauf | DE Berlin | hallo@radiospaetkauf.com | "Everything is Culture" | EN | Last ep Nov 2025 | Queued |
+| 123 | Media | Scomodo | IT Roma | eventi@leggiscomodo.com | Conversation with Fenoaltea | IT | Frame as interview/event | Queued |
+| 124 | Media | DINAMOpress | IT Roma | dinamozine@gmail.com | "La destra all'attacco del V Municipio" | IT |  | Queued |
+| 125 | Podcast | Untold Italy | IT | ciao@untolditaly.com | Episode #346 (Katy Clarke) | EN | Low priority | Queued |

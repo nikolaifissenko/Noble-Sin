@@ -12,17 +12,17 @@ The index identifies people by how they look, since the photos alone can't confi
 - **Alina** (vocals, the only woman in the band)
 - **Antonio**: long hair and moustache; plays the sunburst guitar in the footbridge shots
 - **Valerio**: tall, short light-brown hair; plays the 5-string bass in the footbridge shots
-- **Beard**: beard, suspenders/harness, tattoos
-- **Curly**: dark curly hair
+- **Nikolai**: beard, suspenders/harness, tattoos
+- **Andrea**: dark curly hair
 
 ## Index
 
 filename | orientation | who/what | framing | note
 ---|---|---|---|---
-20260913_173641.jpg | V | Curly close-up | close | graffiti, mud make-up
+20260913_173641.jpg | V | Andrea close-up | close | graffiti, mud make-up
 20260913_173652.jpg | V | Alina close-up (profile) | close | natural light
 20260913_173802.jpg | V | Alina solo, seated | medium | graffiti wall
-20260913_173811.jpg | V | Beard solo, seated | medium | graffiti, underpass
+20260913_173811.jpg | V | Nikolai solo, seated | medium | graffiti, underpass
 20260913_173821.jpg | V | Antonio solo, standing | medium | wide-angle distortion
 20260913_173941.jpg | V | all five, Alina front | wide | graffiti underpass
 20260913_173955.jpg | H | all five | wide | graffiti underpass
@@ -31,7 +31,7 @@ filename | orientation | who/what | framing | note
 20260913_174113.jpg | V | all five, Alina seated front | wide | graffiti
 20260913_174115.jpg | V | all five, Alina seated front | wide | near-duplicate
 20260913_174117.jpg | V | all five, Alina seated front | wide | near-duplicate
-20260913_174140.jpg | V | Beard + Valerio, seated | medium | graffiti, metal cage
+20260913_174140.jpg | V | Nikolai + Valerio, seated | medium | graffiti, metal cage
 20260913_174209.jpg | V | Alina lying on sloped wall, arms out | wide | graffiti
 20260913_174339.jpg | V | all five on sloped wall | wide | tilted angle
 20260913_174348.jpg | V | all five on sloped wall | wide | tilted angle
@@ -106,10 +106,10 @@ filename | orientation | who/what | framing | note
 20260913_182759.jpg | V | all five, saluting pose | wide | under bridge girders
 20260913_182813.jpg | V | all five, saluting pose | wide | under bridge girders
 20260913_182905.jpg | V | all five, Alina front | wide | under bridge girders
-20260913_182925.jpg | V | Antonio front, Beard behind | medium | under bridge
-20260913_182926.jpg | V | Antonio front, Beard behind | medium | under bridge
+20260913_182925.jpg | V | Antonio front, Nikolai behind | medium | under bridge
+20260913_182926.jpg | V | Antonio front, Nikolai behind | medium | under bridge
 20260913_182933.jpg | V | Alina + Valerio | medium | under bridge
-20260913_182957.jpg | V | Beard + Valerio (grey shirt) | medium | under bridge
+20260913_182957.jpg | V | Nikolai + Valerio (grey shirt) | medium | under bridge
 20260913_190150.jpg | V | all five, Alina front | wide | gazometer visible, footbridge, golden hour
 20260913_190235.jpg | V | all five lined up on footbridge | wide | gazometer visible, golden hour
 20260913_190320.jpg | V | all five lined up on footbridge | wide | gazometer visible, golden hour
@@ -123,7 +123,7 @@ filename | orientation | who/what | framing | note
 20260913_194334.jpg | V | Valerio seated with bass, Antonio behind with guitar | medium | gazometer visible, dusk
 20260913_194336.jpg | V | Valerio seated with bass, Antonio behind with guitar | medium | gazometer visible, dusk
 20260913_194338.jpg | V | Valerio seated with bass, Antonio behind with guitar | medium | gazometer visible, dusk
-20260913_194406.jpg | V | Beard solo, leaning on rail | medium | dusk, river
+20260913_194406.jpg | V | Nikolai solo, leaning on rail | medium | dusk, river
 20260913_194431.jpg | V | Antonio + Valerio with instruments | wide | gazometer visible, dusk
 20260913_194437.jpg | V | Antonio + Valerio with instruments | wide | gazometer visible, dusk
 20260913_194440.jpg | V | Antonio + Valerio with instruments | wide | gazometer visible, dusk
@@ -132,32 +132,32 @@ img_5784.jpg | V | all five, Alina seated front | wide | graffiti
 img_5785.jpg | V | Alina solo, seated, hand at mouth | medium | graffiti
 img_5786.jpg | V | Antonio solo, seated | medium | graffiti
 img_5787.jpg | V | Valerio solo, seated | medium | graffiti
-img_5788.jpg | V | Beard solo, seated | medium | graffiti
-img_5789.jpg | V | Curly solo, seated | medium | graffiti
-img_5790.jpg | V | Curly + Beard, seated | medium | graffiti
+img_5788.jpg | V | Nikolai solo, seated | medium | graffiti
+img_5789.jpg | V | Andrea solo, seated | medium | graffiti
+img_5790.jpg | V | Andrea + Nikolai, seated | medium | graffiti
 img_5791.jpg | V | Antonio + Valerio, seated | medium | graffiti, metal cage
 img_5792.jpg | V | Alina solo, seated | medium | graffiti
 img_5793.jpg | V | all five, Alina lying front | wide | graffiti
 img_5798.jpg | V | all five (3 front, 2 back) | wide | graffiti
 img_5801.jpg | V | all five (3 front, 2 back) | wide | graffiti
 img_5804.jpg | V | all five, Alina top tier | wide | graffiti
-img_5805.jpg | H | Alina + Beard + Valerio (top tier) | medium | graffiti
-img_5806.jpg | H | Alina + Beard + Valerio (top tier) | medium | graffiti
+img_5805.jpg | H | Alina + Nikolai + Valerio (top tier) | medium | graffiti
+img_5806.jpg | H | Alina + Nikolai + Valerio (top tier) | medium | graffiti
 img_5807.jpg | H | Valerio + Antonio, seated | medium | graffiti
 img_5809.jpg | V | all five | wide | graffiti
 img_5811.jpg | V | all five, Alina reclining top | wide | graffiti
 img_5816.jpg | V | all five, Alina reclining top | wide | graffiti
 img_5817.jpg | V | Alina lying, arms up | medium | graffiti, top-down
-img_5818.jpg | V | Beard solo | medium | graffiti
+img_5818.jpg | V | Nikolai solo | medium | graffiti
 img_5819.jpg | V | Valerio solo | medium | graffiti
-img_5820.jpg | V | Curly close-up | close | graffiti
+img_5820.jpg | V | Andrea close-up | close | graffiti
 img_5821.jpg | V | Antonio close-up | close | metal grid background
 img_5822.jpg | V | no band: gazometer + river landscape | wide | gazometer visible, establishing shot / text space
 img_5824.jpg | V | all five on river rocks, Alina front | wide | river
 img_5825.jpg | H | all five on river rocks | wide | river
-img_5826.jpg | V | Beard + Valerio | medium | river, bridge
-img_5827.jpg | V | Curly solo, standing | medium | river, golden trees
-img_5828.jpg | V | Beard solo, standing on rock | medium | river, bridge
+img_5826.jpg | V | Nikolai + Valerio | medium | river, bridge
+img_5827.jpg | V | Andrea solo, standing | medium | river, golden trees
+img_5828.jpg | V | Nikolai solo, standing on rock | medium | river, bridge
 img_5830.jpg | V | Valerio solo, standing | medium | river, bridge
 img_5832.jpg | V | Alina close portrait | close | river, natural light
 img_5834.jpg | V | Antonio + Alina on rocks | medium | river bank
@@ -165,8 +165,8 @@ img_5835.jpg | V | Antonio solo on rocks | medium | river bank
 img_5836.jpg | V | all five, Alina centre | wide | river
 img_5837.jpg | V | all five | wide | river
 img_5840.jpg | V | all five, Alina front | wide | river
-img_5841.jpg | V | Beard solo, dynamic pose on rock | medium | river
-img_5842.jpg | V | Curly solo, crouching on rock | medium | river
+img_5841.jpg | V | Nikolai solo, dynamic pose on rock | medium | river
+img_5842.jpg | V | Andrea solo, crouching on rock | medium | river
 img_5843.jpg | V | Alina solo, Antonio in bushes | medium | vegetation
 img_5844.jpg | V | Antonio peering through ferns | medium | vegetation
 img_5845.jpg | V | Valerio crouching on log | medium | river, bridge
@@ -174,16 +174,16 @@ img_5846.jpg | V | Valerio crouching on log | medium | river, bridge
 img_5847.jpg | V | Valerio crouching on log | medium | river, bridge
 img_5848.jpg | H | all five crouching on log | wide | river, bridge
 img_5850.jpg | H | all five crouching on log | wide | river, bridge
-img_5851.jpg | V | Beard crouching | medium | river, golden light
+img_5851.jpg | V | Nikolai crouching | medium | river, golden light
 img_5852.jpg | V | Valerio crouching, hand at mouth | medium | river, bridge
 img_5853.jpg | V | Alina crouching, hand at mouth | medium | river, bridge; near-duplicates x3
 img_5854.jpg | V | Alina crouching, hand at mouth | medium | river, bridge; near-duplicates x3
 img_5855.jpg | V | Alina crouching, hand at mouth | medium | river, bridge; near-duplicates x3
 img_5856.jpg | V | Antonio crouching, hand on head | medium | river
-img_5857.jpg | V | Curly crouching, hand on head | medium | river
-img_5859.jpg | V | Curly crouching, hand on head | medium | river
+img_5857.jpg | V | Andrea crouching, hand on head | medium | river
+img_5859.jpg | V | Andrea crouching, hand on head | medium | river
 img_5862.jpg | V | all five on log | wide | gazometer visible
-img_5863.jpg | V | Valerio crouching + Beard standing | medium | river
+img_5863.jpg | V | Valerio crouching + Nikolai standing | medium | river
 img_5864.jpg | V | Alina standing, Valerio corner | medium | river, golden trees
 img_5865.jpg | V | Antonio crouching | medium | river
 img_5866.jpg | V | Valerio standing | medium | river
@@ -194,19 +194,19 @@ img_5874.jpg | V | all five, Alina front | wide | under bridge girders
 img_5875.jpg | V | Valerio solo (grey shirt), full length | medium | river trees
 img_5876.jpg | V | Antonio hair flip | medium | motion, trees
 img_5877.jpg | V | Antonio standing | medium | trees
-img_5878.jpg | V | Beard standing | medium | trees
-img_5879.jpg | V | Curly standing | medium | bridge girder, graffiti
-img_5880.jpg | V | Curly standing | medium | bridge girder, graffiti
-img_5881.jpg | V | Alina front, Valerio + Beard | medium | bridge girder
+img_5878.jpg | V | Nikolai standing | medium | trees
+img_5879.jpg | V | Andrea standing | medium | bridge girder, graffiti
+img_5880.jpg | V | Andrea standing | medium | bridge girder, graffiti
+img_5881.jpg | V | Alina front, Valerio + Nikolai | medium | bridge girder
 img_5882.jpg | V | Antonio + Valerio standing | medium | trees
 img_5883.jpg | H | all five | wide | under bridge girders
 img_5899.jpg | V | all five on footbridge | wide | gazometer visible, golden hour
 img_5901.jpg | H | all five lined up | wide | footbridge, river
 img_5903.jpg | V | all five lined up | wide | gazometer visible, golden hour
-img_5904.jpg | V | all five, Curly front | medium | gazometer visible, golden hour
+img_5904.jpg | V | all five, Andrea front | medium | gazometer visible, golden hour
 img_5905.jpg | V | all five, Antonio + Alina crouching | wide | footbridge
 img_5906.jpg | V | all five lined up | wide | sunset sky
-img_5907.jpg | V | Curly + Beard close | close | sunset, industrial buildings/water tower
+img_5907.jpg | V | Andrea + Nikolai close | close | sunset, industrial buildings/water tower
 img_5908.jpg | V | Valerio + Antonio + Alina | medium | golden hour, industrial background
 img_5909.jpg | H | all five lined up | wide | sunset, industrial water tower
 img_5926.jpg | V | Antonio + Valerio playing | wide | gazometer visible, footbridge, dusk

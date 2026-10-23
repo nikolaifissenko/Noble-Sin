@@ -165,7 +165,7 @@ img_5835.jpg | V | Antonio solo on rocks | medium | river bank
 img_5836.jpg | V | all five, Alina centre | wide | river
 img_5837.jpg | V | all five | wide | river
 img_5840.jpg | V | all five, Alina front | wide | river
-img_5841.jpg | V | Nikolai solo, dynamic pose on rock | medium | river
+img_5841.jpg | V | Nikolai solo, balancing on log by the river | medium | river
 img_5842.jpg | V | Andrea solo, crouching on rock | medium | river
 img_5843.jpg | V | Alina solo, Antonio in bushes | medium | vegetation
 img_5844.jpg | V | Antonio peering through ferns | medium | vegetation
@@ -221,7 +221,7 @@ img_5941.jpg | V | Valerio standing, Antonio crouching with guitar | medium | ga
 ## Top 15 for posts
 
 1. `img_5908.jpg`: Valerio, Antonio and Alina, close, golden hour: strongest people shot
-2. `img_5841.jpg`: Alina close portrait at the river: hero shot for Alina
+2. `img_5841.jpg`: Nikolai solo on the log by the river (Alina hero shot is img_5785 or img_5864)
 3. `img_5904.jpg`: all five on the footbridge with the gazometer: main band shot
 4. `img_5899.jpg`: all five + full gazometer, vertical: Stories/Reels cover
 5. `img_5909.jpg`: all five at sunset, horizontal: banner/header

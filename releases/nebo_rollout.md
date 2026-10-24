@@ -208,3 +208,17 @@ Post only after checking Nebo is live on Spotify. Bio link = Spotify link. Reel 
 > A Ukrainian singer, a Russian guitarist and three Italians from Rome. "Nebo" means sky in Ukrainian: three sergeants in three armies refuse to fire. Out now everywhere.
 > Listen: [Spotify link]
 > #noblesin #nebo #alternativerock #antiwarsong #shorts
+
+## CHORUS REEL (cover: `social/assets/nebo/reel_cover_chorus_ocean.jpg`, img_5899 graded, text safe for the 3:4 grid)
+**Instagram:**
+> "We are an ocean against a drop of evil." 🌌
+> The chorus of NEBO, out now. Alina wrote it in 2022 for every soldier who refuses to fire.
+> 🇮🇹 "Siamo un oceano contro una goccia di male." Il ritornello di NEBO, fuori ora. Link in bio.
+> #noblesin #nebo #newmusic #alternativerock #antiwar
+
+**TikTok:**
+> Ukrainian voice, Russian guitar, one chorus 🌌 NEBO out now
+> #nebo #noblesin #femalefronted #altrock #newmusic
+
+**YouTube Shorts title (max 100 chars):**
+> We are an ocean against a drop of evil 🌌 NEBO #noblesin #nebo #altrock #antiwarsong #shorts

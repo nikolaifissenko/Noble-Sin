@@ -1,6 +1,13 @@
 # Single Rollout Plan — "Nebo"
 > **The only live plan for Nebo.** Zero-budget tactics and sources: `releases/zero_budget_playbook.md`. Status as of 22/09/2026; timeline re-cut 02/10 and again 11/10 (Nikolai's call): **2 feed posts before release**, teaser Wed 14/10 and announcement Fri 16/10, all other Nebo content goes out after 23/10. Consolidated from every earlier session branch. Superseded versions are in `releases/archive/`.
 
+
+## LIVE LINKS (confirmed 25/10/2026)
+- Spotify: https://open.spotify.com/album/38aJm1yeeMOXotxTUkaTAe
+- Apple Music: https://music.apple.com/us/album/nebo-single/6814284390
+- Amazon: http://www.amazon.com/gp/product/B0HKGFLSB5
+- All platforms (HyperFollow): https://distrokid.com/hyperfollow/noblesin1/nebo-2
+
 ---
 
 ## SINGLE: "Nebo"

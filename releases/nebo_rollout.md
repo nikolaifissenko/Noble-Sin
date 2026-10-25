@@ -222,3 +222,15 @@ Post only after checking Nebo is live on Spotify. Bio link = Spotify link. Reel 
 
 **YouTube Shorts title (max 100 chars):**
 > We are an ocean against a drop of evil 🌌 NEBO #noblesin #nebo #altrock #antiwarsong #shorts
+
+## VERSE 2 REEL (cover: `social/assets/nebo/reel_cover_verse2_men_say_no.jpg`, img_5870 graded: Alina in front, the four behind, under the bridge)
+**Instagram:**
+> "Sergeant Al-Hassan, Sergeant Grishchenko, report your status now!"
+> "With all due respect, sir. The men say no." 🌌
+> Verse 2 of NEBO, out now. Link in bio.
+> 🇮🇹 "Con tutto il rispetto, signore. Gli uomini dicono no." La seconda strofa di NEBO, fuori ora.
+> #noblesin #nebo #newmusic #alternativerock #antiwar
+
+**TikTok:**
+> Three armies. One order. Nobody fires. 🌌 NEBO out now
+> #nebo #noblesin #femalefronted #altrock #antiwar

@@ -234,3 +234,16 @@ Post only after checking Nebo is live on Spotify. Bio link = Spotify link. Reel 
 **TikTok:**
 > Three armies. One order. Nobody fires. 🌌 NEBO out now
 > #nebo #noblesin #femalefronted #altrock #antiwar
+
+## CHORUS LIP-SYNC + BRIDGE MONTAGE REEL (cover: `social/assets/nebo/reel_cover_bridge_refuse.jpg`, img_5906 graded; covers are built with `social/assets/nebo/make_reel_cover.py`)
+Bridge: montage of war (suffering children, soldiers, families) under the radio voices of soldiers refusing, in Hebrew, Arabic and Russian (Nikolai, 25/10). Keep captions universal ("every army"), no named conflict.
+**Instagram:**
+> Every army has a soldier who says no. 🌌
+> In the bridge of NEBO you hear them on the radio, in Hebrew, Arabic and Russian: men refusing to fire.
+> We are an ocean against a drop of evil. Out now, link in bio.
+> 🇮🇹 Ogni esercito ha un soldato che dice no. Nel bridge di NEBO li senti alla radio, in ebraico, arabo e russo. Fuori ora.
+> #noblesin #nebo #antiwar #alternativerock #newmusic
+
+**TikTok:**
+> Hebrew, Arabic, Russian. Three radios, one answer: no. 🌌 NEBO out now
+> #nebo #noblesin #antiwar #altrock #femalefronted

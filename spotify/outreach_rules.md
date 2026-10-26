@@ -31,7 +31,7 @@
 - **Skip anyone who asks for money** (paid features, "funded editorial", per-submission fees, guaranteed placements). Don't reply, don't follow up. Mark them "Skipped: paid" in the log. Nikolai, 08/10/2026: zero budget.
 
 ## Sending discipline
-- Send about 25 emails a day at most, from Nikolai's Gmail.
+- Send about 60 emails a day at most, from Nikolai's Gmail (raised from 25 on 26/10: Nikolai, "unleash"). Stop at once on any Gmail limit or spam warning.
 - Check bounces before each batch. If more than ~10% bounce, stop and tell Nikolai.
 - Log every send, bounce and reply in the outreach file.
 

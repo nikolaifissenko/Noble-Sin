@@ -44,6 +44,7 @@
 | 16/10 | US | KZSU Stanford | music@kzsu.stanford.edu | DJ Aporia's Emma Ruth Rundle review | Sent |
 Skipped 12/10: Stop the War Coalition (UK). Its "Peace in Ukraine" line is read by many Ukrainians as pressure on Ukraine to concede; too risky for Alina. Nikolai decided 12/10: do not pitch, ever. KALX (site says don't email music submissions), WNYU (nothing to reference), RaBe (page unreadable), Holod (no culture coverage).
 Dropped: TheAltSubmissions@gmail.com (bounced twice, inbox full).
+26/10 daily run: 52 new pitches with the Spotify link (cap raised to ~60 by Nikolai). Queue 3: 24 sent, 7 skipped (Musica Intorno paid; Indie-eye, Fuori Aula, Radio Zammù, Nigrizia, Warto Posłuchać, Screenagers no hook). Queue 4 rows 1 to 29: 28 sent, PBI France skipped (dormant). No bounces, no Gmail warnings; only auto-replies (OFFKEY, KEXP, ACLU). SLIP: the IPPNW Austria subject said "a Kyiv and Russian band" (band_story forbids naming a Ukrainian city); body fine; if they reply, don't repeat it. Radio got the WAV link.
 25/10 (Sun): Nebo confirmed LIVE (Spotify https://open.spotify.com/album/38aJm1yeeMOXotxTUkaTAe). Sent the in-thread "it's out" note with the Spotify link to FOR USA (Susan, Lorry + Ohio cc), Svenska Freds (Alex), Rauhanliitto (Julia), Connection e.V. (Sarah), PPU (Geoff, cc media@), Long Live Rock'n'Roll (Daniele), Gariwo (Alessandra, slots still owed), Comune-info (Gianluca), Italian Insider (Michael, asked for a day next week), KEXP (link + WAV). Sent all 17 playlist-curator pitches (hooks rechecked live 25/10). Total 27 today.
 23/10 daily run (release day): no new Nebo replies, no new bounces. DistroKid detected Nebo live on Amazon (00:55). No new outlets (Tue to Fri rule).
 22/10 daily run: no new Nebo replies, no new bounces. Gariwo still waiting for interview slots (promised by 22/10): asked Nikolai. DistroKid mail 22/10 02:24: "your edits have been submitted to stores" for Nebo (an edit was made on DistroKid); flagged to Nikolai. No new outlets (Tue to Fri rule).
@@ -304,73 +305,73 @@ Replies 12/10: **Rauhanliitto** (Julia Jernvall) forwarded Nebo to the "Sana vs.
 | 25 | Atlante delle Guerre | atlantedelleguerre@gmail.com | Il Punto, La pace annunciata (Raffaele Crocco) 16/10 | Sent 19/10 |
 | 26 | Iyezine | info@iyezine.com | Column ACUFENI: FASTIDI AURICOLARI CONTEMPORANEI #57 (editorial only, never their paid PR) | Sent 19/10 |
 | 27 | OndaMusicale | info@ondamusicale.it | Proceno Musica Festival piece 16/10 | Sent 19/10 |
-| 28 | Musica Intorno | info@musicaintorno.it | Stratocaster vs Les Paul piece 07/10 (guitar angle) | Queued |
-| 29 | RockShock | allmusiclover@gmail.com | Fontaines D.C. Dopamine Chamber review 16/10 | Queued |
-| 30 | Loudd | info@loudd.it | Big Big Train live report; Palomar review | Queued |
-| 31 | Musicultura Online | redazione@musiculturaonline.it | Zamboni and Ferretti interviews 13/10 | Queued |
-| 32 | Soundcontest | redazione@soundcontest.com | Takao Wazowsky Steam On Glass piece 16/10 | Queued |
-| 33 | System Failure | mondafelice1978@gmail.com | Luca & The Tautologists piece 16/10 | Queued |
-| 34 | Relics Controsuoni | dischi@relics-controsuoni.com | DRINK THE SEA una data a Roma 12/10 | Queued |
-| 35 | Indie-Roccia | indieroccia@gmail.com | Contact page says promo goes to this address | Queued |
-| 36 | TomTomRock | postmaster@tomtomrock.it | Afghan Whigs review 15/10; wants download link, not Spotify | Queued |
-| 37 | Nootempo | info@nootempo.net | Diego Figus Eternità lyric video piece | Queued |
-| 38 | HardSounds | promo@hardsounds.it | Corde Oblique new single news 09/10 | Queued |
-| 39 | L'isola che non c'era | redazione@lisolachenoncera.it | Canzoni senza click 12/10 | Queued |
-| 40 | VEZ Magazine | info@vezmagazine.it | In Poche Parole column (Lou Reed, Warren Zevon) | Queued |
-| 41 | Musicletter | musicletter@gmail.com | Il disco in evidenza column; Luca D'Ambrosio since 2005 | Queued |
-| 42 | RadioSonar.net | radiosonar@gmail.com | La Discoteca del Diavolo; Gemini Network of independent radios | Queued |
-| 43 | Radio Siani | redazione@radiosiani.com | La radio della legalità; Olivetti di Giancarlo Siani piece 23/09 | Queued |
-| 44 | Controradio (Firenze) | info@controradio.it | Rock Contest 2026; show Flux | Queued |
-| 45 | Riforma | redazione.torino@riforma.it | Marcia Gravina-Altamura per la pace e il disarmo 16/10 | Queued |
-| 46 | MIR Italia | redazioneweb@miritalia.org | Steadfast Noon 2026 statement 12/10 | Queued |
-| 47 | OBC Transeuropa | segreteria@balcanicaucaso.org | Daniel Schulz interview 16/10 | Queued |
-| 48 | Operazione Colomba | operazione.colomba@apg23.org | Unarmed civilian peace corps | Queued |
-| 49 | Voci per la Libertà | info@vociperlaliberta.it | Una canzone per Amnesty; Premio Amnesty Emergenti 2026 (Capabrò) | Queued |
-| 50 | Fondazione Alexander Langer | info@alexanderlanger.net | Langer's convivenza theme; Premio Langer 2026 | Queued |
-| 51 | Taxi-Driver | webmaster@taxi-driver.it | Grunge/alternative/post-hardcore stated genres (low activity) | Queued |
-| 52 | Indie-eye | cs@indie-eye.it | indie-eye diventa mensile (low priority) | Queued |
-| 53 | Fuori Aula Network (Verona) | fuoriaula.radio@ateneo.univr.it | FanDaSanremo series (quieter since March) | Queued |
-| 54 | Radio Zammù (Catania) | radio.zammu@unict.it | University radio (activity unclear) | Queued |
-| 55 | Nigrizia | redazione@nigrizia.it | Soccer Grannies piece (weak fit, low priority) | Queued |
+| 28 | Musica Intorno | info@musicaintorno.it | Stratocaster vs Les Paul piece 07/10 (guitar angle) | Skipped: paid (promo page is a paid press office) |
+| 29 | RockShock | allmusiclover@gmail.com | Fontaines D.C. Dopamine Chamber review 16/10 | Sent 26/10 |
+| 30 | Loudd | info@loudd.it | Big Big Train live report; Palomar review | Sent 26/10 |
+| 31 | Musicultura Online | redazione@musiculturaonline.it | Zamboni and Ferretti interviews 13/10 | Sent 26/10 |
+| 32 | Soundcontest | redazione@soundcontest.com | Takao Wazowsky Steam On Glass piece 16/10 | Sent 26/10 |
+| 33 | System Failure | mondafelice1978@gmail.com | Luca & The Tautologists piece 16/10 | Sent 26/10 |
+| 34 | Relics Controsuoni | dischi@relics-controsuoni.com | DRINK THE SEA una data a Roma 12/10 | Sent 26/10 |
+| 35 | Indie-Roccia | indieroccia@gmail.com | Contact page says promo goes to this address | Sent 26/10 |
+| 36 | TomTomRock | postmaster@tomtomrock.it | Afghan Whigs review 15/10; wants download link, not Spotify | Sent 26/10 |
+| 37 | Nootempo | info@nootempo.net | Diego Figus Eternità lyric video piece | Sent 26/10 |
+| 38 | HardSounds | promo@hardsounds.it | Corde Oblique new single news 09/10 | Sent 26/10 |
+| 39 | L'isola che non c'era | redazione@lisolachenoncera.it | Canzoni senza click 12/10 | Sent 26/10 |
+| 40 | VEZ Magazine | info@vezmagazine.it | In Poche Parole column (Lou Reed, Warren Zevon) | Sent 26/10 |
+| 41 | Musicletter | musicletter@gmail.com | Il disco in evidenza column; Luca D'Ambrosio since 2005 | Sent 26/10 |
+| 42 | RadioSonar.net | radiosonar@gmail.com | La Discoteca del Diavolo; Gemini Network of independent radios | Sent 26/10 |
+| 43 | Radio Siani | redazione@radiosiani.com | La radio della legalità; Olivetti di Giancarlo Siani piece 23/09 | Sent 26/10 |
+| 44 | Controradio (Firenze) | info@controradio.it | Rock Contest 2026; show Flux | Sent 26/10 |
+| 45 | Riforma | redazione.torino@riforma.it | Marcia Gravina-Altamura per la pace e il disarmo 16/10 | Sent 26/10 |
+| 46 | MIR Italia | redazioneweb@miritalia.org | Steadfast Noon 2026 statement 12/10 | Sent 26/10 |
+| 47 | OBC Transeuropa | segreteria@balcanicaucaso.org | Daniel Schulz interview 16/10 | Sent 26/10 |
+| 48 | Operazione Colomba | operazione.colomba@apg23.org | Unarmed civilian peace corps | Sent 26/10 |
+| 49 | Voci per la Libertà | info@vociperlaliberta.it | Una canzone per Amnesty; Premio Amnesty Emergenti 2026 (Capabrò) | Sent 26/10 |
+| 50 | Fondazione Alexander Langer | info@alexanderlanger.net | Langer's convivenza theme; Premio Langer 2026 | Sent 26/10 |
+| 51 | Taxi-Driver | webmaster@taxi-driver.it | Grunge/alternative/post-hardcore stated genres (low activity) | Sent 26/10 |
+| 52 | Indie-eye | cs@indie-eye.it | indie-eye diventa mensile (low priority) | Skipped: no fitting hook (monthly, cinema) |
+| 53 | Fuori Aula Network (Verona) | fuoriaula.radio@ateneo.univr.it | FanDaSanremo series (quieter since March) | Skipped: no recent hook (last post March 2026) |
+| 54 | Radio Zammù (Catania) | radio.zammu@unict.it | University radio (activity unclear) | Skipped: no hook (site empty) |
+| 55 | Nigrizia | redazione@nigrizia.it | Soccer Grannies piece (weak fit, low priority) | Skipped: no fitting hook (Africa only) |
 | 56 | Muzvar | dostemenno@gmail.com | | Skipped: rechecked 21/10, Muzvar turned out to be a studio, not Ukrainian music media |
-| 57 | Passive/Aggressive (DK) | redaktion@passiveaggressive.dk | Review submissions address on About page | Queued |
-| 58 | Warto Posłuchać (PL radio show, new singles) | wartoposluchac@gmail.com | Show for new singles | Queued |
-| 59 | Screenagers.pl (PL alternative) | redakcja@screenagers.pl | Polish alternative webzine | Queued |
+| 57 | Passive/Aggressive (DK) | redaktion@passiveaggressive.dk | Review submissions address on About page | Sent 26/10 |
+| 58 | Warto Posłuchać (PL radio show, new singles) | wartoposluchac@gmail.com | Show for new singles | Skipped: no hook (show site not found) |
+| 59 | Screenagers.pl (PL alternative) | redakcja@screenagers.pl | Polish alternative webzine | Skipped: no recent hook (dormant since 2021) |
 
 ## Queue 4: Europe and Italy, 125 outlets (built 21/10, addresses from each outlet's own site)
 > Nikolai 21/10: NGOs, blogs, radios, podcasts in Europe and Italy, peace associations, activists, refugee associations, after the song is out. Send from Mon 26/10 with the Spotify link, ahead of queues 1 and 2. Groups: Peace (41), Refugee/UA culture/RU exile (38), Radio/Blog/Podcast (46). Hooks read on the sites 21/10: recheck at send time. UA culture rows: lead with Alina's voice and story, culture framing only. RU exile rows: lead with Nikolai (Paris, Russian). Rows marked 'word with care' or 'moderate risk': keep it universal (every army), no specific conflict. Festivals are separate: `booking/festivals_2027.md`.
 
 | # | Group | Outlet | Where | Email | Hook (read on site) | Lang | Notes | Status |
 |---|---|---|---|---|---|---|---|---|
-| 1 | Peace | Rondine Cittadella della Pace | IT Arezzo | ufficiostampa@rondine.org | Wine made by "enemies" who choose not to hate (8/10); return to Bosnia 19/10 | IT | Best fit | Queued |
-| 2 | Peace | EMERGENCY press | IT | sabina.galandrini@emergency.it | Husarivka (Kharkiv) clinic; "Cultura di pace", R1PUD1A | IT | Moderate risk | Queued |
-| 3 | Peace | Comunità di Sant'Egidio | IT Roma | info@santegidio.org | 30 yrs Guatemala peace accords (20/10); Kyiv humanitarian work | IT | Low-moderate risk | Queued |
-| 4 | Peace | Libera comunicazione | IT Roma | comunicazione@libera.it | "Contro la disumanizzazione" co-promotion (30/9) | IT | Weaker fit | Queued |
-| 5 | Peace | Senzatomica | IT | info@senzatomica.it | "Compact" exhibition Ostia 17-25/10 | IT |  | Queued |
-| 6 | Peace | Pro Civitate Christiana | IT Assisi | info@cittadella.org | "Francesco, otto secoli di domande" 12-15/11 | IT |  | Queued |
-| 7 | Peace | Casa per la Pace Milano | IT Milano | info@casaperlapacemilano.it | School programmes 2026/27 | IT |  | Queued |
-| 8 | Peace | Movimento Nonviolento Vicenza | IT Vicenza | casaperlapace@gmail.com | "Un'altra difesa è possibile" 57,136 signatures | IT |  | Queued |
-| 9 | Peace | MN Torino / Sereno Regis | IT Torino | mir-mn@serenoregis.org | Same campaign; ref. Piercarlo Racca | IT | Possible overlap with MIR Italia | Queued |
-| 10 | Peace | FundiPau | ES Barcelona | info@fundipau.org | "Desarmament, seguretat i pau" 22/10 | CA/ES |  | Queued |
-| 11 | Peace | Justícia i Pau | ES Barcelona | justiciaipau@justiciaipau.org | Trobada Catalano-Balear 17/10 | CA |  | Queued |
-| 12 | Peace | NOVACT | ES Barcelona | media@novact.org | Western Sahara report | ES/EN |  | Queued |
-| 13 | Peace | Gernika Gogoratuz | ES Gernika | info@gernikagogoratuz.org | AI, human rights and culture of peace conf 22-23/10 | ES | Strong symbol | Queued |
-| 14 | Peace | Escola de Cultura de Pau | ES Bellaterra | escolapau@uab.cat | "Escenarios de riesgo... Octubre 2026" | ES/CA |  | Queued |
-| 15 | Peace | Pax Christi Deutschland | DE Berlin | sekretariat@paxchristi.de | 3/10 action alliance demos; nonviolence study day | DE |  | Queued |
-| 16 | Peace | Pax Christi France | FR Paris | accueil@paxchristi.cef.fr | "Assise 1986-2026: 40 ans" | FR |  | Queued |
-| 17 | Peace | Pax Christi International | BE Brussels | hello@paxchristi.net | Message to Navi Pillay, Nobel 2026 (13/10) | EN |  | Queued |
-| 18 | Peace | Pax Christi Österreich | AT | office@paxchristi.at | Franz Jägerstätter commemoration (objector) | DE | Strong CO hook | Queued |
-| 19 | Peace | ICAN Deutschland press | DE Berlin | presse@ican.berlin | "verurteilt russische Atomdrohungen" (1/10) | DE |  | Queued |
-| 20 | Peace | IPPNW Austria | AT Wien | office@ippnw.at | European IPPNW meeting Vienna Feb 2027 | DE/EN |  | Queued |
-| 21 | Peace | PSR/IPPNW Schweiz | CH | sekretariat@ippnw.ch | Auressio retreat, Zumach talk | DE |  | Queued |
-| 22 | Peace | PBI Deutschland | DE Hamburg | info@pbi-deutschland.de | 45 years (15/10) | DE |  | Queued |
-| 23 | Peace | PBI International | BE Brussels | contact@peacebrigades.org | PBI Kenya update (21/10) | EN |  | Queued |
-| 24 | Peace | PBI France | FR Paris | info@pbi-france.org | "Transformer la perte en pouvoir populaire" | FR | Less active | Queued |
-| 25 | Peace | PBI UK | UK London | admin@peacebrigades.org.uk | "Overdue Diligence" report | EN |  | Queued |
-| 26 | Peace | WILPF Deutschland | DE Berlin | info@wilpf.de | "unzwingbar: Kein Bock auf Krieg und Wehrpflicht" | DE | Moderate risk | Queued |
-| 27 | Peace | Aktion Aufschrei | DE | info@aufschrei-waffenhandel.de | Arms export licences H1 2026 | DE | Moderate fit | Queued |
-| 28 | Peace | Schweizerischer Friedensrat | CH Zürich | info@friedensrat.ch | "Friedensfähig statt kriegsbereit" 23/10 (release day) | DE |  | Queued |
-| 29 | Peace | QCEA | BE Brussels | office@qcea.org | "Voices of Peace" CO stories incl. Russia | EN | Excellent CO fit | Queued |
+| 1 | Peace | Rondine Cittadella della Pace | IT Arezzo | ufficiostampa@rondine.org | Wine made by "enemies" who choose not to hate (8/10); return to Bosnia 19/10 | IT | Best fit | Sent 26/10 |
+| 2 | Peace | EMERGENCY press | IT | sabina.galandrini@emergency.it | Husarivka (Kharkiv) clinic; "Cultura di pace", R1PUD1A | IT | Moderate risk | Sent 26/10 |
+| 3 | Peace | Comunità di Sant'Egidio | IT Roma | info@santegidio.org | 30 yrs Guatemala peace accords (20/10); Kyiv humanitarian work | IT | Low-moderate risk | Sent 26/10 |
+| 4 | Peace | Libera comunicazione | IT Roma | comunicazione@libera.it | "Contro la disumanizzazione" co-promotion (30/9) | IT | Weaker fit | Sent 26/10 |
+| 5 | Peace | Senzatomica | IT | info@senzatomica.it | "Compact" exhibition Ostia 17-25/10 | IT |  | Sent 26/10 |
+| 6 | Peace | Pro Civitate Christiana | IT Assisi | info@cittadella.org | "Francesco, otto secoli di domande" 12-15/11 | IT |  | Sent 26/10 |
+| 7 | Peace | Casa per la Pace Milano | IT Milano | info@casaperlapacemilano.it | School programmes 2026/27 | IT |  | Sent 26/10 |
+| 8 | Peace | Movimento Nonviolento Vicenza | IT Vicenza | casaperlapace@gmail.com | "Un'altra difesa è possibile" 57,136 signatures | IT |  | Sent 26/10 |
+| 9 | Peace | MN Torino / Sereno Regis | IT Torino | mir-mn@serenoregis.org | Same campaign; ref. Piercarlo Racca | IT | Possible overlap with MIR Italia | Sent 26/10 |
+| 10 | Peace | FundiPau | ES Barcelona | info@fundipau.org | "Desarmament, seguretat i pau" 22/10 | CA/ES |  | Sent 26/10 |
+| 11 | Peace | Justícia i Pau | ES Barcelona | justiciaipau@justiciaipau.org | Trobada Catalano-Balear 17/10 | CA |  | Sent 26/10 |
+| 12 | Peace | NOVACT | ES Barcelona | media@novact.org | Western Sahara report | ES/EN |  | Sent 26/10 |
+| 13 | Peace | Gernika Gogoratuz | ES Gernika | info@gernikagogoratuz.org | AI, human rights and culture of peace conf 22-23/10 | ES | Strong symbol | Sent 26/10 |
+| 14 | Peace | Escola de Cultura de Pau | ES Bellaterra | escolapau@uab.cat | "Escenarios de riesgo... Octubre 2026" | ES/CA |  | Sent 26/10 |
+| 15 | Peace | Pax Christi Deutschland | DE Berlin | sekretariat@paxchristi.de | 3/10 action alliance demos; nonviolence study day | DE |  | Sent 26/10 |
+| 16 | Peace | Pax Christi France | FR Paris | accueil@paxchristi.cef.fr | "Assise 1986-2026: 40 ans" | FR |  | Sent 26/10 |
+| 17 | Peace | Pax Christi International | BE Brussels | hello@paxchristi.net | Message to Navi Pillay, Nobel 2026 (13/10) | EN |  | Sent 26/10 |
+| 18 | Peace | Pax Christi Österreich | AT | office@paxchristi.at | Franz Jägerstätter commemoration (objector) | DE | Strong CO hook | Sent 26/10 |
+| 19 | Peace | ICAN Deutschland press | DE Berlin | presse@ican.berlin | "verurteilt russische Atomdrohungen" (1/10) | DE |  | Sent 26/10 |
+| 20 | Peace | IPPNW Austria | AT Wien | office@ippnw.at | European IPPNW meeting Vienna Feb 2027 | DE/EN |  | Sent 26/10 |
+| 21 | Peace | PSR/IPPNW Schweiz | CH | sekretariat@ippnw.ch | Auressio retreat, Zumach talk | DE |  | Sent 26/10 |
+| 22 | Peace | PBI Deutschland | DE Hamburg | info@pbi-deutschland.de | 45 years (15/10) | DE |  | Sent 26/10 |
+| 23 | Peace | PBI International | BE Brussels | contact@peacebrigades.org | PBI Kenya update (21/10) | EN |  | Sent 26/10 |
+| 24 | Peace | PBI France | FR Paris | info@pbi-france.org | "Transformer la perte en pouvoir populaire" | FR | Less active | Skipped: no hook (newest item March 2026) |
+| 25 | Peace | PBI UK | UK London | admin@peacebrigades.org.uk | "Overdue Diligence" report | EN |  | Sent 26/10 |
+| 26 | Peace | WILPF Deutschland | DE Berlin | info@wilpf.de | "unzwingbar: Kein Bock auf Krieg und Wehrpflicht" | DE | Moderate risk | Sent 26/10 |
+| 27 | Peace | Aktion Aufschrei | DE | info@aufschrei-waffenhandel.de | Arms export licences H1 2026 | DE | Moderate fit | Sent 26/10 |
+| 28 | Peace | Schweizerischer Friedensrat | CH Zürich | info@friedensrat.ch | "Friedensfähig statt kriegsbereit" 23/10 (release day) | DE |  | Sent 26/10 |
+| 29 | Peace | QCEA | BE Brussels | office@qcea.org | "Voices of Peace" CO stories incl. Russia | EN | Excellent CO fit | Sent 26/10 |
 | 30 | Peace | CNAPD | BE Brussels | info@cnapd.be | 20/11 day against voluntary military service | FR | Moderate risk | Queued |
 | 31 | Peace | Vredesactie | BE Antwerpen | truike@vredesactie.be | Flemish arms decree article | NL | Moderate risk | Queued |
 | 32 | Peace | Afri | IE Dublin | admin@afri.ie | Tribute to Denis Halliday; "The Flame and the Seed" | EN | Works with music | Queued |

@@ -44,6 +44,7 @@
 | 16/10 | US | KZSU Stanford | music@kzsu.stanford.edu | DJ Aporia's Emma Ruth Rundle review | Sent |
 Skipped 12/10: Stop the War Coalition (UK). Its "Peace in Ukraine" line is read by many Ukrainians as pressure on Ukraine to concede; too risky for Alina. Nikolai decided 12/10: do not pitch, ever. KALX (site says don't email music submissions), WNYU (nothing to reference), RaBe (page unreadable), Holod (no culture coverage).
 Dropped: TheAltSubmissions@gmail.com (bounced twice, inbox full).
+27/10 daily run: Derringer Discoveries ADDED Nebo to its "Artists for Ukraine" Spotify playlist (https://open.spotify.com/playlist/31NHjQGfPhhp1wDxYAj6jq); thanked Paul. Svenska Freds emoji reaction only. Queue 4 rows 60 to 88: 26 sent, 3 skipped (Good Chance, Reforum, FSK). German rows went in German. Row 81 went to Teenage Kicks host (address published on Radiofabrik). Rows 30 to 59 in progress. No bounces, no Gmail warnings.
 26/10 evening inbox check: Italian Insider (Michael) asked where we're based and offered coffee one morning: replied Rome, asked him for a morning and an area, will confirm with Alina. Svenska Freds (Alex) is passing Nebo to the PAX team: thanked. GARIWO: Alessandra had confirmed Mon 26/10 12:00 back on 23/10 (missed, unread) and sent the Meet link https://meet.google.com/xsr-fqvp-mqa at 10:46 today; Nikolai: "We missed it". Sent apology 26/10 evening, offered Thu 29 (Wed 28 withdrawn in a follow-up, Nikolai can't), Fri 30, Mon 2 to Wed 4/11 mornings, Thu 5/11; promised to confirm with Alina within hours of her pick. NEEDS Alina availability fast when she replies. Auto-replies only: Emergency (Sabina off until 16/11), HardSounds, Musicletter, Passive Aggressive.
 26/10 daily run: 52 new pitches with the Spotify link (cap raised to ~60 by Nikolai). Queue 3: 24 sent, 7 skipped (Musica Intorno paid; Indie-eye, Fuori Aula, Radio Zammù, Nigrizia, Warto Posłuchać, Screenagers no hook). Queue 4 rows 1 to 29: 28 sent, PBI France skipped (dormant). No bounces, no Gmail warnings; only auto-replies (OFFKEY, KEXP, ACLU). SLIP: the IPPNW Austria subject said "a Kyiv and Russian band" (band_story forbids naming a Ukrainian city); body fine; if they reply, don't repeat it. Radio got the WAV link.
 25/10 (Sun): Nebo confirmed LIVE (Spotify https://open.spotify.com/album/38aJm1yeeMOXotxTUkaTAe). Sent the in-thread "it's out" note with the Spotify link to FOR USA (Susan, Lorry + Ohio cc), Svenska Freds (Alex), Rauhanliitto (Julia), Connection e.V. (Sarah), PPU (Geoff, cc media@), Long Live Rock'n'Roll (Daniele), Gariwo (Alessandra, slots still owed), Comune-info (Gianluca), Italian Insider (Michael, asked for a day next week), KEXP (link + WAV). Sent all 17 playlist-curator pitches (hooks rechecked live 25/10). Total 27 today.
@@ -403,35 +404,35 @@ Replies 12/10: **Rauhanliitto** (Julia Jernvall) forwarded Nebo to the "Sana vs.
 | 57 | Refugee | Refugee Week (Counterpoints Arts) | UK | media@refugeeweek.org.uk | JR "Inside Out" for Refugee Week 2027 | EN | Refugee Week On Air | Queued |
 | 58 | Refugee | Refugee Festival Scotland | UK Glasgow | festival@scottishrefugeecouncil.org.uk | "Opening Shot" deadline 22/11 | EN |  | Queued |
 | 59 | Refugee | Migration Museum | UK London | events@migrationmuseum.org | New museum opening 2028 | EN |  | Queued |
-| 60 | Refugee | Good Chance Theatre | UK London | hello@goodchance.org.uk | Production "Donbas" | EN | Strong fit | Queued |
-| 61 | Refugee | Phosphoros Theatre | UK | hello@phosphorostheatre.com | 10-year celebration 10/10 | EN |  | Queued |
-| 62 | Refugee | Atelier des artistes en exil | FR Paris | contact@aa-e.org | "3 jours au 106" 29-31/10 | FR | Hosts Russian exiles too | Queued |
-| 63 | Refugee | Globe Aroma | BE Brussels | info@globearoma.be | "Open house, open studios" | EN/FR |  | Queued |
-| 64 | Refugee | PRO ASYL | DE | proasyl@proasyl.de | 40th anniversary, Menschenrechtspreis 2026 | DE |  | Queued |
-| 65 | Refugee | Flüchtlingsrat Berlin | DE Berlin | buero@fluechtlingsrat-berlin.de | Junge Geflüchtete demands for 2026 election | DE |  | Queued |
-| 66 | Refugee | Integrationshaus | AT Wien | info@integrationshaus.at | Kabarettgala "Lachen hilft!" 26/10 | DE |  | Queued |
-| 67 | Refugee | asylkoordination österreich | AT Wien | asylkoordination@asyl.at | "Minuszuwanderung" piece (24/9) | DE |  | Queued |
-| 68 | Refugee | VluchtelingenWerk Nederland | NL | persvoorlichting@vluchtelingenwerk.nl | Samen Leven poster, 100,000 requests | NL/EN |  | Queued |
-| 69 | Refugee | Fundacja Ocalenie | PL Warszawa | media@ocalenie.org.pl | "Razem lepiej" campaign (15/10) | PL/EN |  | Queued |
-| 70 | Refugee | OPU | CZ Praha | opu@opu.cz | VolEver project with Ukrainian refugees | CS/EN |  | Queued |
-| 71 | UA culture | Ukraiński Dom | PL Warszawa | media@ukrainskidom.pl | Cinema/literature year review (20/10) | UK/PL/EN | Alina writes | Queued |
-| 72 | UA culture | Fundacja Ukraina | PL Wrocław | press@fundacjaukraina.eu | SKOVORODA FEST 2026; Scena Ukraińska | UK/PL/EN | Alina writes | Queued |
-| 73 | UA culture | Fundacja Zustricz | PL Kraków | info@zustricz.pl | Art-Piknik 2026 | UK/PL/EN | Alina writes | Queued |
-| 74 | UA culture | Ukrajinská iniciativa v ČR | CZ Praha | uicr@centrum.cz | Dny ukrajinské kultury 2026 | UK/CS | Alina writes | Queued |
-| 75 | UA culture | Ukrainian Film Festival Berlin | DE Berlin | info@uffberlin.de | 7th ed. "Emergency Spaces" 14-18/10 | EN/UK | Alina writes | Queued |
-| 76 | UA culture | LUkraine / UA Days | LU | uadays@ukrainians.lu | UA Days 2026 | EN/UK | Alina writes | Queued |
-| 77 | RU exile | Russie-Libertés | FR Paris | presse@russie-libertes.org | Forum "Le monde d'après ?" (3/10) | FR | Nikolai writes | Queued |
-| 78 | RU exile | Russian Democratic Society | UK London | info@rusdemsociety.co.uk | Protest for Naoko and Stoptime | EN/RU | Nikolai writes, music hook | Queued |
-| 79 | RU exile | Reforum Space Berlin | DE Berlin | berlin@4freerussia.org | Anti-war cultural hub with recording studio | RU/EN | Nikolai writes | Queued |
-| 80 | Radio | Radio FRO 105.0 | AT Linz | musik@fro.at | "Kriegsverbrecher als Nationalhelden" post | DE | Musikanfragen | Queued |
-| 81 | Radio | Radiofabrik | AT Salzburg | musik@radiofabrik.at | "Teenage Kicks. Indie/Alternative" show | DE |  | Queued |
-| 82 | Radio | Campus & City Radio 94.4 | AT St. Pölten | office@cr944.at | "Demokratie braucht uns alle" 19/10 | DE | General address | Queued |
-| 83 | Radio | Radio Stadtfilter | CH Winterthur | musik@stadtfilter.ch | "Flugmodus" with Johi Denzler | DE | Links only, no attachments | Queued |
-| 84 | Radio | Radio Vostok | CH Genève | prog@radiovostok.ch | Interview with Julien Zdar 21/10 | FR |  | Queued |
-| 85 | Radio | FSK Hamburg | DE Hamburg | mr@fsk-hh.org | "Nasser Monsef im Studiogespräch" 19/10 | DE | Musikredaktion | Queued |
-| 86 | Radio | Radio LORA 92.4 | DE München | info@lora924.de | "LORA Rocks"; Bündnis gegen Krieg show | DE |  | Queued |
-| 87 | Radio | Radio Q | DE Münster | musik@radioq.de | "Nachbericht Rock am Ring 2026" | DE |  | Queued |
-| 88 | Radio | CampusFM | DE Essen | musik@campusfm.info | Audiopreis 2026; music editor Tim Brüninghaus | DE |  | Queued |
+| 60 | Refugee | Good Chance Theatre | UK London | hello@goodchance.org.uk | Production "Donbas" | EN | Strong fit | Skipped: no recent hook on own site (Donbas ran Feb 2026) |
+| 61 | Refugee | Phosphoros Theatre | UK | hello@phosphorostheatre.com | 10-year celebration 10/10 | EN |  | Sent 27/10 |
+| 62 | Refugee | Atelier des artistes en exil | FR Paris | contact@aa-e.org | "3 jours au 106" 29-31/10 | FR | Hosts Russian exiles too | Sent 27/10 |
+| 63 | Refugee | Globe Aroma | BE Brussels | info@globearoma.be | "Open house, open studios" | EN/FR |  | Sent 27/10 |
+| 64 | Refugee | PRO ASYL | DE | proasyl@proasyl.de | 40th anniversary, Menschenrechtspreis 2026 | DE |  | Sent 27/10 |
+| 65 | Refugee | Flüchtlingsrat Berlin | DE Berlin | buero@fluechtlingsrat-berlin.de | Junge Geflüchtete demands for 2026 election | DE |  | Sent 27/10 |
+| 66 | Refugee | Integrationshaus | AT Wien | info@integrationshaus.at | Kabarettgala "Lachen hilft!" 26/10 | DE |  | Sent 27/10 |
+| 67 | Refugee | asylkoordination österreich | AT Wien | asylkoordination@asyl.at | "Minuszuwanderung" piece (24/9) | DE |  | Sent 27/10 |
+| 68 | Refugee | VluchtelingenWerk Nederland | NL | persvoorlichting@vluchtelingenwerk.nl | Samen Leven poster, 100,000 requests | NL/EN |  | Sent 27/10 |
+| 69 | Refugee | Fundacja Ocalenie | PL Warszawa | media@ocalenie.org.pl | "Razem lepiej" campaign (15/10) | PL/EN |  | Sent 27/10 |
+| 70 | Refugee | OPU | CZ Praha | opu@opu.cz | VolEver project with Ukrainian refugees | CS/EN |  | Sent 27/10 |
+| 71 | UA culture | Ukraiński Dom | PL Warszawa | media@ukrainskidom.pl | Cinema/literature year review (20/10) | UK/PL/EN | Alina writes | Sent 27/10 |
+| 72 | UA culture | Fundacja Ukraina | PL Wrocław | press@fundacjaukraina.eu | SKOVORODA FEST 2026; Scena Ukraińska | UK/PL/EN | Alina writes | Sent 27/10 |
+| 73 | UA culture | Fundacja Zustricz | PL Kraków | info@zustricz.pl | Art-Piknik 2026 | UK/PL/EN | Alina writes | Sent 27/10 |
+| 74 | UA culture | Ukrajinská iniciativa v ČR | CZ Praha | uicr@centrum.cz | Dny ukrajinské kultury 2026 | UK/CS | Alina writes | Sent 27/10 |
+| 75 | UA culture | Ukrainian Film Festival Berlin | DE Berlin | info@uffberlin.de | 7th ed. "Emergency Spaces" 14-18/10 | EN/UK | Alina writes | Sent 27/10 |
+| 76 | UA culture | LUkraine / UA Days | LU | uadays@ukrainians.lu | UA Days 2026 | EN/UK | Alina writes | Sent 27/10 |
+| 77 | RU exile | Russie-Libertés | FR Paris | presse@russie-libertes.org | Forum "Le monde d'après ?" (3/10) | FR | Nikolai writes | Sent 27/10 |
+| 78 | RU exile | Russian Democratic Society | UK London | info@rusdemsociety.co.uk | Protest for Naoko and Stoptime | EN/RU | Nikolai writes, music hook | Sent 27/10 |
+| 79 | RU exile | Reforum Space Berlin | DE Berlin | berlin@4freerussia.org | Anti-war cultural hub with recording studio | RU/EN | Nikolai writes | Skipped: no recent dated item for the Berlin space |
+| 80 | Radio | Radio FRO 105.0 | AT Linz | musik@fro.at | "Kriegsverbrecher als Nationalhelden" post | DE | Musikanfragen | Sent 27/10 |
+| 81 | Radio | Radiofabrik | AT Salzburg | musik@radiofabrik.at | "Teenage Kicks. Indie/Alternative" show | DE |  | Sent 27/10 (to Teenage Kicks host phil_lyness@yahoo.co.uk, EN) |
+| 82 | Radio | Campus & City Radio 94.4 | AT St. Pölten | office@cr944.at | "Demokratie braucht uns alle" 19/10 | DE | General address | Sent 27/10 |
+| 83 | Radio | Radio Stadtfilter | CH Winterthur | musik@stadtfilter.ch | "Flugmodus" with Johi Denzler | DE | Links only, no attachments | Sent 27/10 |
+| 84 | Radio | Radio Vostok | CH Genève | prog@radiovostok.ch | Interview with Julien Zdar 21/10 | FR |  | Sent 27/10 |
+| 85 | Radio | FSK Hamburg | DE Hamburg | mr@fsk-hh.org | "Nasser Monsef im Studiogespräch" 19/10 | DE | Musikredaktion | Skipped: site loads by script, hook unverifiable |
+| 86 | Radio | Radio LORA 92.4 | DE München | info@lora924.de | "LORA Rocks"; Bündnis gegen Krieg show | DE |  | Sent 27/10 |
+| 87 | Radio | Radio Q | DE Münster | musik@radioq.de | "Nachbericht Rock am Ring 2026" | DE |  | Sent 27/10 |
+| 88 | Radio | CampusFM | DE Essen | musik@campusfm.info | Audiopreis 2026; music editor Tim Brüninghaus | DE |  | Sent 27/10 |
 | 89 | Radio | Kölncampus | DE Köln | presse@koelncampus.com | "What Up!? Neue Musik" show | DE | Press address | Queued |
 | 90 | Radio | Radio Blau | DE Leipzig | radioblau@radioblau.de | "Der Leipziger Appell" 21/10 | DE | General address | Queued |
 | 91 | Radio | Radio Primitive | FR Reims | prog@radioprimitive.fr | "Pop o'clock" podcast | FR |  | Queued |

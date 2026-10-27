@@ -44,7 +44,7 @@
 | 16/10 | US | KZSU Stanford | music@kzsu.stanford.edu | DJ Aporia's Emma Ruth Rundle review | Sent |
 Skipped 12/10: Stop the War Coalition (UK). Its "Peace in Ukraine" line is read by many Ukrainians as pressure on Ukraine to concede; too risky for Alina. Nikolai decided 12/10: do not pitch, ever. KALX (site says don't email music submissions), WNYU (nothing to reference), RaBe (page unreadable), Holod (no culture coverage).
 Dropped: TheAltSubmissions@gmail.com (bounced twice, inbox full).
-27/10 daily run: Derringer Discoveries ADDED Nebo to its "Artists for Ukraine" Spotify playlist (https://open.spotify.com/playlist/31NHjQGfPhhp1wDxYAj6jq); thanked Paul. Svenska Freds emoji reaction only. Queue 4 rows 60 to 88: 26 sent, 3 skipped (Good Chance, Reforum, FSK). German rows went in German. Row 81 went to Teenage Kicks host (address published on Radiofabrik). Rows 30 to 59 in progress. No bounces, no Gmail warnings.
+27/10 daily run: Derringer Discoveries ADDED Nebo to its "Artists for Ukraine" Spotify playlist (https://open.spotify.com/playlist/31NHjQGfPhhp1wDxYAj6jq); thanked Paul. Svenska Freds emoji reaction only. Queue 4 rows 60 to 88: 26 sent, 3 skipped (Good Chance, Reforum, FSK). German rows went in German. Row 81 went to Teenage Kicks host (address published on Radiofabrik). Rows 30 to 59: 28 sent, 2 skipped (Baobab, Asinitas); ARCI cc immigrazione@. Day total 55 (incl. Derringer thanks). No bounces, no Gmail warnings.
 26/10 evening inbox check: Italian Insider (Michael) asked where we're based and offered coffee one morning: replied Rome, asked him for a morning and an area, will confirm with Alina. Svenska Freds (Alex) is passing Nebo to the PAX team: thanked. GARIWO: Alessandra had confirmed Mon 26/10 12:00 back on 23/10 (missed, unread) and sent the Meet link https://meet.google.com/xsr-fqvp-mqa at 10:46 today; Nikolai: "We missed it". Sent apology 26/10 evening, offered Thu 29 (Wed 28 withdrawn in a follow-up, Nikolai can't), Fri 30, Mon 2 to Wed 4/11 mornings, Thu 5/11; promised to confirm with Alina within hours of her pick. NEEDS Alina availability fast when she replies. Auto-replies only: Emergency (Sabina off until 16/11), HardSounds, Musicletter, Passive Aggressive.
 26/10 daily run: 52 new pitches with the Spotify link (cap raised to ~60 by Nikolai). Queue 3: 24 sent, 7 skipped (Musica Intorno paid; Indie-eye, Fuori Aula, Radio Zammù, Nigrizia, Warto Posłuchać, Screenagers no hook). Queue 4 rows 1 to 29: 28 sent, PBI France skipped (dormant). No bounces, no Gmail warnings; only auto-replies (OFFKEY, KEXP, ACLU). SLIP: the IPPNW Austria subject said "a Kyiv and Russian band" (band_story forbids naming a Ukrainian city); body fine; if they reply, don't repeat it. Radio got the WAV link.
 25/10 (Sun): Nebo confirmed LIVE (Spotify https://open.spotify.com/album/38aJm1yeeMOXotxTUkaTAe). Sent the in-thread "it's out" note with the Spotify link to FOR USA (Susan, Lorry + Ohio cc), Svenska Freds (Alex), Rauhanliitto (Julia), Connection e.V. (Sarah), PPU (Geoff, cc media@), Long Live Rock'n'Roll (Daniele), Gariwo (Alessandra, slots still owed), Comune-info (Gianluca), Italian Insider (Michael, asked for a day next week), KEXP (link + WAV). Sent all 17 playlist-curator pitches (hooks rechecked live 25/10). Total 27 today.
@@ -374,36 +374,36 @@ Replies 12/10: **Rauhanliitto** (Julia Jernvall) forwarded Nebo to the "Sana vs.
 | 27 | Peace | Aktion Aufschrei | DE | info@aufschrei-waffenhandel.de | Arms export licences H1 2026 | DE | Moderate fit | Sent 26/10 |
 | 28 | Peace | Schweizerischer Friedensrat | CH Zürich | info@friedensrat.ch | "Friedensfähig statt kriegsbereit" 23/10 (release day) | DE |  | Sent 26/10 |
 | 29 | Peace | QCEA | BE Brussels | office@qcea.org | "Voices of Peace" CO stories incl. Russia | EN | Excellent CO fit | Sent 26/10 |
-| 30 | Peace | CNAPD | BE Brussels | info@cnapd.be | 20/11 day against voluntary military service | FR | Moderate risk | Queued |
-| 31 | Peace | Vredesactie | BE Antwerpen | truike@vredesactie.be | Flemish arms decree article | NL | Moderate risk | Queued |
-| 32 | Peace | Afri | IE Dublin | admin@afri.ie | Tribute to Denis Halliday; "The Flame and the Seed" | EN | Works with music | Queued |
-| 33 | Peace | Corrymeela | UK Belfast | welcome@corrymeela.org | International Day of Peace at Belfast City Hall | EN |  | Queued |
-| 34 | Peace | Glencree Centre | IE Wicklow | info@glencree.ie | New CEO Dr Aisling Hearns | EN |  | Queued |
-| 35 | Peace | Musicians Without Borders | NL Amsterdam | media@musicianswithoutborders.org | Mitrovica Rock School | EN | Best music fit | Queued |
-| 36 | Peace | Kristna Fredsrörelsen | SE Stockholm | info@krf.se | Interview with Tetiana Kalenychenko (Ukrainian partner) | SV/EN | Safe, strong | Queued |
-| 37 | Peace | Swedish IPPNW | SE | info@slmk.org | Webinar "Kärnvapen – en fråga för sjukvården" | SV/EN |  | Queued |
-| 38 | Peace | Nei til Atomvåpen | NO Oslo | post@neitilatomvapen.org | Hiroshima Day with music in 7 cities | NO/EN |  | Queued |
-| 39 | Peace | Aldrig Mere Krig | DK | info@aldrigmerekrig.dk | 100th birthday; objectors in both countries | DA/EN | Word with care | Queued |
-| 40 | Peace | AKL (Finnish objectors) | FI Helsinki | toimisto@akl-web.fi | "Stop deporting Russian war resisters" campaign | FI/EN | Nikolai angle | Queued |
-| 41 | Peace | Sadankomitea | FI Helsinki | elina.niinimaki@sadankomitea.fi | Statement on 2027 budget | FI/EN |  | Queued |
-| 42 | Refugee | ARCI culture desk | IT Roma | cultura@arci.it | "Strati della Cultura 2026: abitare l'impossibile" Ferrara 22-24/10 | IT | cc immigrazione@arci.it | Queued |
-| 43 | Refugee | Baobab Experience | IT Roma | baobabexperience@gmail.com | "Uscita di emergenza" campaign | IT |  | Queued |
-| 44 | Refugee | Mediterranea Saving Humans | IT | stampa@mediterranearescue.org | "Torniamo in mare con due nuove barche a vela" (28/8) | IT |  | Queued |
-| 45 | Refugee | SOS Humanity Italia | IT/DE | stampa@sos-humanity.org | Film "WHERE THE WAVES TOOK HER" | IT |  | Queued |
-| 46 | Refugee | ASGI | IT | comunicazione@asgi.it | "Il Razzismo è una brutta storia" report (22/9) | IT |  | Queued |
-| 47 | Refugee | SOS MEDITERRANEE Italia | IT | italia@sosmediterranee.org | "Voci dal Sud Sudan" (20/10) | IT |  | Queued |
-| 48 | Refugee | Casa della Carità | IT Milano | eventi@casadellacarita.org | SOUQ Film Festival 23-25/10 | IT |  | Queued |
-| 49 | Refugee | Fondazione Migrantes | IT Roma | ufficiostampa@migrantes.it | Rapporto Immigrazione 2026 "confini e frontiere" | IT |  | Queued |
-| 50 | Refugee | Asinitas | IT Roma | contatti@asinitas.org | "L'albero delle storie" | IT | Arts-led school for migrants | Queued |
-| 51 | Refugee | Lunaria | IT Roma | comunicazione@lunaria.org | Bando delle Idee mentions a free music festival (12/10) | IT | Music angle | Queued |
-| 52 | Refugee | A Buon Diritto | IT Roma | abuondiritto@abuondiritto.it | "Renditi conto" campaign (16/10) | IT |  | Queued |
-| 53 | Refugee | Refugees Welcome Italia Roma | IT Roma | roma@refugees-welcome.it | "Arrivare vivi non basta" (8/10) | IT |  | Queued |
-| 54 | Refugee | Liberi Nantes | IT Roma | info@liberinantes.org | Street art call in Pietralata | IT |  | Queued |
-| 55 | Refugee | Open Arms | ES/IT | info@openarms.es | "10 years of Open Arms: an event against the current" | EN/ES |  | Queued |
-| 56 | Refugee | Choose Love | UK | media@choose.love | Choose Love x Jon Hopkins at Meltdown | EN | Music hook | Queued |
-| 57 | Refugee | Refugee Week (Counterpoints Arts) | UK | media@refugeeweek.org.uk | JR "Inside Out" for Refugee Week 2027 | EN | Refugee Week On Air | Queued |
-| 58 | Refugee | Refugee Festival Scotland | UK Glasgow | festival@scottishrefugeecouncil.org.uk | "Opening Shot" deadline 22/11 | EN |  | Queued |
-| 59 | Refugee | Migration Museum | UK London | events@migrationmuseum.org | New museum opening 2028 | EN |  | Queued |
+| 30 | Peace | CNAPD | BE Brussels | info@cnapd.be | 20/11 day against voluntary military service | FR | Moderate risk | Sent 27/10 |
+| 31 | Peace | Vredesactie | BE Antwerpen | truike@vredesactie.be | Flemish arms decree article | NL | Moderate risk | Sent 27/10 |
+| 32 | Peace | Afri | IE Dublin | admin@afri.ie | Tribute to Denis Halliday; "The Flame and the Seed" | EN | Works with music | Sent 27/10 |
+| 33 | Peace | Corrymeela | UK Belfast | welcome@corrymeela.org | International Day of Peace at Belfast City Hall | EN |  | Sent 27/10 |
+| 34 | Peace | Glencree Centre | IE Wicklow | info@glencree.ie | New CEO Dr Aisling Hearns | EN |  | Sent 27/10 |
+| 35 | Peace | Musicians Without Borders | NL Amsterdam | media@musicianswithoutborders.org | Mitrovica Rock School | EN | Best music fit | Sent 27/10 |
+| 36 | Peace | Kristna Fredsrörelsen | SE Stockholm | info@krf.se | Interview with Tetiana Kalenychenko (Ukrainian partner) | SV/EN | Safe, strong | Sent 27/10 |
+| 37 | Peace | Swedish IPPNW | SE | info@slmk.org | Webinar "Kärnvapen – en fråga för sjukvården" | SV/EN |  | Sent 27/10 |
+| 38 | Peace | Nei til Atomvåpen | NO Oslo | post@neitilatomvapen.org | Hiroshima Day with music in 7 cities | NO/EN |  | Sent 27/10 |
+| 39 | Peace | Aldrig Mere Krig | DK | info@aldrigmerekrig.dk | 100th birthday; objectors in both countries | DA/EN | Word with care | Sent 27/10 |
+| 40 | Peace | AKL (Finnish objectors) | FI Helsinki | toimisto@akl-web.fi | "Stop deporting Russian war resisters" campaign | FI/EN | Nikolai angle | Sent 27/10 |
+| 41 | Peace | Sadankomitea | FI Helsinki | elina.niinimaki@sadankomitea.fi | Statement on 2027 budget | FI/EN |  | Sent 27/10 |
+| 42 | Refugee | ARCI culture desk | IT Roma | cultura@arci.it | "Strati della Cultura 2026: abitare l'impossibile" Ferrara 22-24/10 | IT | cc immigrazione@arci.it | Sent 27/10 |
+| 43 | Refugee | Baobab Experience | IT Roma | baobabexperience@gmail.com | "Uscita di emergenza" campaign | IT |  | Skipped: no recent dated item |
+| 44 | Refugee | Mediterranea Saving Humans | IT | stampa@mediterranearescue.org | "Torniamo in mare con due nuove barche a vela" (28/8) | IT |  | Sent 27/10 |
+| 45 | Refugee | SOS Humanity Italia | IT/DE | stampa@sos-humanity.org | Film "WHERE THE WAVES TOOK HER" | IT |  | Sent 27/10 |
+| 46 | Refugee | ASGI | IT | comunicazione@asgi.it | "Il Razzismo è una brutta storia" report (22/9) | IT |  | Sent 27/10 |
+| 47 | Refugee | SOS MEDITERRANEE Italia | IT | italia@sosmediterranee.org | "Voci dal Sud Sudan" (20/10) | IT |  | Sent 27/10 |
+| 48 | Refugee | Casa della Carità | IT Milano | eventi@casadellacarita.org | SOUQ Film Festival 23-25/10 | IT |  | Sent 27/10 |
+| 49 | Refugee | Fondazione Migrantes | IT Roma | ufficiostampa@migrantes.it | Rapporto Immigrazione 2026 "confini e frontiere" | IT |  | Sent 27/10 |
+| 50 | Refugee | Asinitas | IT Roma | contatti@asinitas.org | "L'albero delle storie" | IT | Arts-led school for migrants | Skipped: no recent hook (newest post 3/3/2026) |
+| 51 | Refugee | Lunaria | IT Roma | comunicazione@lunaria.org | Bando delle Idee mentions a free music festival (12/10) | IT | Music angle | Sent 27/10 |
+| 52 | Refugee | A Buon Diritto | IT Roma | abuondiritto@abuondiritto.it | "Renditi conto" campaign (16/10) | IT |  | Sent 27/10 |
+| 53 | Refugee | Refugees Welcome Italia Roma | IT Roma | roma@refugees-welcome.it | "Arrivare vivi non basta" (8/10) | IT |  | Sent 27/10 |
+| 54 | Refugee | Liberi Nantes | IT Roma | info@liberinantes.org | Street art call in Pietralata | IT |  | Sent 27/10 |
+| 55 | Refugee | Open Arms | ES/IT | info@openarms.es | "10 years of Open Arms: an event against the current" | EN/ES |  | Sent 27/10 |
+| 56 | Refugee | Choose Love | UK | media@choose.love | Choose Love x Jon Hopkins at Meltdown | EN | Music hook | Sent 27/10 |
+| 57 | Refugee | Refugee Week (Counterpoints Arts) | UK | media@refugeeweek.org.uk | JR "Inside Out" for Refugee Week 2027 | EN | Refugee Week On Air | Sent 27/10 |
+| 58 | Refugee | Refugee Festival Scotland | UK Glasgow | festival@scottishrefugeecouncil.org.uk | "Opening Shot" deadline 22/11 | EN |  | Sent 27/10 |
+| 59 | Refugee | Migration Museum | UK London | events@migrationmuseum.org | New museum opening 2028 | EN |  | Sent 27/10 |
 | 60 | Refugee | Good Chance Theatre | UK London | hello@goodchance.org.uk | Production "Donbas" | EN | Strong fit | Skipped: no recent hook on own site (Donbas ran Feb 2026) |
 | 61 | Refugee | Phosphoros Theatre | UK | hello@phosphorostheatre.com | 10-year celebration 10/10 | EN |  | Sent 27/10 |
 | 62 | Refugee | Atelier des artistes en exil | FR Paris | contact@aa-e.org | "3 jours au 106" 29-31/10 | FR | Hosts Russian exiles too | Sent 27/10 |

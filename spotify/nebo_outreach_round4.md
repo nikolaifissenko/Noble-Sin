@@ -84,64 +84,64 @@ Replies 12/10: **Rauhanliitto** (Julia Jernvall) forwarded Nebo to the "Sana vs.
 | 10 | US | KVRX Austin | music@kvrx.org | Skipped: no hook |
 | 11 | US | KANM Texas A&M | md@kanm.org | Sent 16/10 |
 | 12 | US | KZSU Stanford | music@kzsu.stanford.edu | Sent 16/10 |
-| 13 | US | WZBC Boston College | wzbcmusic@gmail.com | Queued |
-| 14 | US | WMFO Tufts | md@wmfo.org | Queued |
+| 13 | US | WZBC Boston College | wzbcmusic@gmail.com | Skipped: no recent dated item |
+| 14 | US | WMFO Tufts | md@wmfo.org | Skipped: latest post March 2026 |
 | 15 | US | WESU Middletown | wesumd@wesufm.org | Sent 13/10 |
-| 16 | US | WMUC Maryland | wmuc@umd.edu | Queued |
-| 17 | US | WMUH Muhlenberg | wmuhmusic@muhlenberg.edu | Queued |
-| 18 | US | WRPI Troy | wrpitroy.md@gmail.com | Queued |
-| 19 | US | WHPK Chicago | md@whpk.org | Queued |
-| 20 | US | KUCI Irvine | musicdir@kuci.org | Queued |
-| 21 | US | KGNU Boulder | music@kgnu.org | Queued |
+| 16 | US | WMUC Maryland | wmuc@umd.edu | Skipped: site unreadable (dynamic) |
+| 17 | US | WMUH Muhlenberg | wmuhmusic@muhlenberg.edu | Sent 28/10 |
+| 18 | US | WRPI Troy | wrpitroy.md@gmail.com | Skipped: nothing current |
+| 19 | US | WHPK Chicago | md@whpk.org | Skipped: stale site |
+| 20 | US | KUCI Irvine | musicdir@kuci.org | Sent 28/10 |
+| 21 | US | KGNU Boulder | music@kgnu.org | Sent 28/10 |
 | 22 | US | KRUI Iowa | press@krui.fm | Sent 13/10 |
 | 23 | US | Glide Magazine | info@glidemagazine.com | Sent 12/10 |
 | 24 | US | When the Horn Blows | wow@whenthehornblows.com | Sent 13/10 |
 | 25 | US | New Noise Magazine (reviews) | reviews@newnoisemagazine.com | Sent 13/10 |
 | 26 | US | Obscure Sound | mike@obscuresound.com | Sent 13/10 |
-| 27 | US | Consequence | editors@consequence.net | Queued |
+| 27 | US | Consequence | editors@consequence.net | Sent 28/10 |
 | 28 | US | Fellowship of Reconciliation USA | for@forusa.org | Sent 12/10 |
 | 29 | US | War Resisters League | wrl@warresisters.org | Sent 12/10 |
-| 30 | US | AFSC (Quaker, news) | news@afsc.org | Queued |
+| 30 | US | AFSC (Quaker, news) | news@afsc.org | Sent 28/10 |
 | 31 | CA | Peace Magazine | office@peacemagazine.org | Sent 12/10 |
 | 32 | CA | New Pathway (Ukrainian Canadian weekly) | info@newpathway.ca | Sent 12/10 |
 | 33 | CA | Ukrainian Canadian Congress (media) | media@ucc.ca | Skipped: political desk, no culture angle (risk) |
-| 34 | US | Svoboda (Ukrainian weekly, NJ) | svoboda@svoboda-news.com | Queued |
-| 35 | UK | Resonance FM | contact@resonancefm.com | Queued |
-| 36 | UK | Riverside Radio | info@riversideradio.com | Queued |
+| 34 | US | Svoboda (Ukrainian weekly, NJ) | svoboda@svoboda-news.com | Sent 28/10 |
+| 35 | UK | Resonance FM | contact@resonancefm.com | Skipped: no dated recent item |
+| 36 | UK | Riverside Radio | info@riversideradio.com | Sent 28/10 |
 | 37 | UK | Future Radio Norwich | info@futureradio.co.uk | Sent 13/10 |
-| 38 | UK | BCfm Bristol | studio@bcfmradio.com | Queued |
-| 39 | UK | BRFM | studio@brfm.net | Queued |
+| 38 | UK | BCfm Bristol | studio@bcfmradio.com | Sent 28/10 |
+| 39 | UK | BRFM | studio@brfm.net | Skipped: no music hook |
 | 40 | UK | Narc Magazine | narcmagazineonline@gmail.com | Sent 13/10 |
 | 41 | UK | Crack Magazine | crack@crackmagazine.net | Skipped: electronic focus, no fit |
 | 42 | UK | Getintothis (Peter Guy) | peter@getintothis.co.uk | Skipped: site looks stale (2020 posts) |
-| 43 | UK | The Quietus (Luke Turner) | luke@thequietus.com | Queued |
+| 43 | UK | The Quietus (Luke Turner) | luke@thequietus.com | Sent 28/10 |
 | 44 | UK | God Is In The TV | bill@godisinthetvzine.co.uk | Sent 13/10 |
 | 45 | UK | Circuit Sweet | naomi@circuitsweet.co.uk | Sent 12/10 |
 | 46 | UK | DIY (Emma Swann) | emma@diymag.com | Sent 13/10 |
 | 47 | UK | Loud and Quiet | info@loudandquiet.com | Skipped: site in transition, no recent posts |
 | 48 | UK | Overblown | news@overblown.co.uk | Dropped: domain mail broken (news@ and matt@ bounced) |
 | 49 | UK | Rock Rebel Magazine | hello@rockrebelmagazine.com | Skipped: site blocks access |
-| 50 | UK | Pax Christi UK | info@paxchristi.org.uk | Queued |
+| 50 | UK | Pax Christi UK | info@paxchristi.org.uk | Sent 28/10 |
 | 51 | UK | Quakers in Britain (media) | media@quaker.org.uk | Sent 12/10 |
 | 52 | UK | Movement for the Abolition of War | info@abolishwar.org.uk | Sent 13/10 |
-| 53 | IE | Dublin South FM | info@dublinsouthfm.ie | Queued |
-| 54 | IE | Flirt FM Galway | music@flirtfm.ie | Queued |
+| 53 | IE | Dublin South FM | info@dublinsouthfm.ie | Skipped: site empty |
+| 54 | IE | Flirt FM Galway | music@flirtfm.ie | Skipped: site blocks access (403) |
 | 55 | DE | detektor.fm | kontakt@detektor.fm | Skipped: music podcast ended |
-| 56 | DE | Freies Radio (buero) | buero@freies-radio.de | Queued |
-| 57 | DE | Radio Z Nürnberg | info@radio-z.net | Queued |
-| 58 | DE | Querfunk Karlsruhe | info@querfunk.de | Queued |
-| 59 | DE | DMFK peace network | info@dmfk.de | Queued |
+| 56 | DE | Freies Radio (buero) | buero@freies-radio.de | Sent 28/10 |
+| 57 | DE | Radio Z Nürnberg | info@radio-z.net | Skipped: page unreadable |
+| 58 | DE | Querfunk Karlsruhe | info@querfunk.de | Sent 28/10 |
+| 59 | DE | DMFK peace network | info@dmfk.de | Sent 28/10 |
 | 60 | AT | FREIRAD Innsbruck | wir@freirad.at | Skipped: local music only |
-| 61 | CH | RaBe Bern (Musikredaktion) | musikredaktion@rabe.ch | Queued |
-| 62 | CH | Kanal K Aarau | info@kanalk.ch | Queued |
-| 63 | CH | Radio X Basel (music) | music@radiox.ch | Queued |
-| 64 | CH | IFOR MIR Schweiz | secretariat@ifor-mir.ch | Queued |
-| 65 | FR | Radio Campus Angers | programmation@radiocampusangers.com | Queued |
-| 66 | FR | Radio Campus Bordeaux | programmation@radiocampusbordeaux.fr | Queued |
-| 67 | BE | Radio Panik Brussels | redaction@radiopanik.org | Queued |
-| 68 | BE | Radio Campus Bruxelles | info@radiocampus.be | Queued |
+| 61 | CH | RaBe Bern (Musikredaktion) | musikredaktion@rabe.ch | Sent 28/10 |
+| 62 | CH | Kanal K Aarau | info@kanalk.ch | Sent 28/10 |
+| 63 | CH | Radio X Basel (music) | music@radiox.ch | Sent 28/10 |
+| 64 | CH | IFOR MIR Schweiz | secretariat@ifor-mir.ch | Skipped: latest post 30/04/2026 |
+| 65 | FR | Radio Campus Angers | programmation@radiocampusangers.com | Sent 28/10 |
+| 66 | FR | Radio Campus Bordeaux | programmation@radiocampusbordeaux.fr | Skipped: latest news July 2026 |
+| 67 | BE | Radio Panik Brussels | redaction@radiopanik.org | Sent 28/10 |
+| 68 | BE | Radio Campus Bruxelles | info@radiocampus.be | Sent 28/10 |
 | 69 | NL | KINK (plug) | plug@kink.nl | Sent 13/10 |
-| 70 | NL | Stop Wapenhandel | info@stopwapenhandel.org | Queued |
+| 70 | NL | Stop Wapenhandel | info@stopwapenhandel.org | Sent 28/10 |
 | 71 | NL | PAX | info@paxvoorvrede.nl | Queued |
 | 72 | DK | Fredsakademiet | mail@fredsakademiet.dk | Queued |
 | 73 | DK | Bands of Tomorrow | emil@bandsoftomorrow.com | Queued |

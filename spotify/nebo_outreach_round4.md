@@ -44,6 +44,7 @@
 | 16/10 | US | KZSU Stanford | music@kzsu.stanford.edu | DJ Aporia's Emma Ruth Rundle review | Sent |
 Skipped 12/10: Stop the War Coalition (UK). Its "Peace in Ukraine" line is read by many Ukrainians as pressure on Ukraine to concede; too risky for Alina. Nikolai decided 12/10: do not pitch, ever. KALX (site says don't email music submissions), WNYU (nothing to reference), RaBe (page unreadable), Holod (no culture coverage).
 Dropped: TheAltSubmissions@gmail.com (bounced twice, inbox full).
+28/10 daily run: 50 new pitches + 8 replies = 58. Queue 1: 20 sent, 12 skipped (dead/unreadable sites). Queue 4 rows 89 to 120: 30 sent, 2 skipped (Science of Noise not found, Teraz Rock down); rows 121 to 125 next. No bounces, no Gmail warnings. SLIPS if they reply: KLOF (117) email says "No AI involved" (unverified, ask Nikolai); NEE (120) says the song "starts in English"; Almaina (96) says "heard of you through the Cadenazo" (only read on site); Svoboda (Q1 34) says "full scale war"; hyphens in greetings for Gaesteliste and Vinyl-keks. NABA (99) prefers its Google form.
 28/10 inbox check (replies to 27/10 pitches): GARIWO proposed Thu 29/10 12:00 Meet (sent 27/10 09:41, unread until today): told her it works for Nikolai, Alina's confirmation today. NEEDS Alina. Fondazione Migrantes (Simone Sereni, ufficio stampa) listened, forwarded to Rapporto curator Simone Varisco, asked for lyrics: sent; they offer a physical copy of the Rapporto: said yes, postal address to follow (NEEDS Nikolai). AKL (Aku Kervinen) forwarded to the editorial board of Antimilitaristi magazine, interview interest: replied we're available by video. Corrymeela (Jonny Clark) introduced Darren Ferguson of Beyond Skin, Belfast (info.beyondskin@gmail.com), works with musicians: replied to both. Refugee Week UK (Lara Deffense) pointed to Refugee Week Italia: thanked; ADD Refugee Week Italia to queue (contact not on refugeeweek.org page). Pax Christi France: polite no (sound not for their members), suggested Russie Libertés (already pitched 27/10); sent lyrics for Bérengère Savelieff. Atelier des artistes en exil asked what we want: clarified share + open to playing a music evening. Integrationshaus: posts only own content, wants to hear us live in Vienna: thanked. Declines, no reply: UFF Berlin (Ukrainian cinema only), VluchtelingenWerk (poster NL only). PRO ASYL pointed to Connection e.V. (already in touch). Auto: Refugee Festival Scotland.
 27/10 daily run: Derringer Discoveries ADDED Nebo to its "Artists for Ukraine" Spotify playlist (https://open.spotify.com/playlist/31NHjQGfPhhp1wDxYAj6jq); thanked Paul. Svenska Freds emoji reaction only. Queue 4 rows 60 to 88: 26 sent, 3 skipped (Good Chance, Reforum, FSK). German rows went in German. Row 81 went to Teenage Kicks host (address published on Radiofabrik). Rows 30 to 59: 28 sent, 2 skipped (Baobab, Asinitas); ARCI cc immigrazione@. Day total 55 (incl. Derringer thanks). No bounces, no Gmail warnings.
 26/10 evening inbox check: Italian Insider (Michael) asked where we're based and offered coffee one morning: replied Rome, asked him for a morning and an area, will confirm with Alina. Svenska Freds (Alex) is passing Nebo to the PAX team: thanked. GARIWO: Alessandra had confirmed Mon 26/10 12:00 back on 23/10 (missed, unread) and sent the Meet link https://meet.google.com/xsr-fqvp-mqa at 10:46 today; Nikolai: "We missed it". Sent apology 26/10 evening, offered Thu 29 (Wed 28 withdrawn in a follow-up, Nikolai can't), Fri 30, Mon 2 to Wed 4/11 mornings, Thu 5/11; promised to confirm with Alina within hours of her pick. NEEDS Alina availability fast when she replies. Auto-replies only: Emergency (Sabina off until 16/11), HardSounds, Musicletter, Passive Aggressive.
@@ -434,38 +435,38 @@ Replies 12/10: **Rauhanliitto** (Julia Jernvall) forwarded Nebo to the "Sana vs.
 | 86 | Radio | Radio LORA 92.4 | DE München | info@lora924.de | "LORA Rocks"; Bündnis gegen Krieg show | DE |  | Sent 27/10 |
 | 87 | Radio | Radio Q | DE Münster | musik@radioq.de | "Nachbericht Rock am Ring 2026" | DE |  | Sent 27/10 |
 | 88 | Radio | CampusFM | DE Essen | musik@campusfm.info | Audiopreis 2026; music editor Tim Brüninghaus | DE |  | Sent 27/10 |
-| 89 | Radio | Kölncampus | DE Köln | presse@koelncampus.com | "What Up!? Neue Musik" show | DE | Press address | Queued |
-| 90 | Radio | Radio Blau | DE Leipzig | radioblau@radioblau.de | "Der Leipziger Appell" 21/10 | DE | General address | Queued |
-| 91 | Radio | Radio Primitive | FR Reims | prog@radioprimitive.fr | "Pop o'clock" podcast | FR |  | Queued |
-| 92 | Radio | Radio Campus Lille | FR Lille | campus@campuslille.com | "Musiques aux pieds" 23/9 | FR | General address | Queued |
-| 93 | Radio | Radio Dio 89.5 | FR Saint-Étienne | prog@radiodio.org | "Des Mots des Sons Sans Cible" 15/10; "Roulette Russe" | FR |  | Queued |
-| 94 | Radio | Contrabanda FM | ES Barcelona | contrabanda@contrabanda.org | "Distrito Apache" 13/10 | ES/CA |  | Queued |
-| 95 | Radio | CUAC FM | ES A Coruña | comunicacion@cuacfm.org | "Nace o Arquivo Sonoro de CUAC FM" | ES |  | Queued |
-| 96 | Radio | Radio Almaina | ES Granada | programacion@radioalmaina.org | "8º Cadenazo Antifascista de las Radios Libres" | ES | Frame as interview | Queued |
-| 97 | Radio | Hala Bedi | ES Vitoria | fonoteka@halabedi.eus | Fonoteka (music library) | ES |  | Queued |
-| 98 | Radio | RUC Coimbra | PT Coimbra | prog@ruc.pt | Live broadcast interrupted 12/10 | PT/EN |  | Queued |
-| 99 | Radio | Radio NABA | LV Riga | naba@radionaba.lv | Talk "Dievs, karš un Kremlis" | EN | Strong anti-war fit | Queued |
-| 100 | Radio | Radio Marš | SI Maribor | glasba@radiomars.si | "Atentat na sluh 14" 15/10 | EN |  | Queued |
-| 101 | Blog | Gaesteliste.de | DE Bremen | info@gaesteliste.de | Tramhaus feature | DE |  | Queued |
-| 102 | Blog | Vinyl-keks | DE | news@vinyl-keks.eu | "Female Fronted is not a Genre Festival 2026" | DE | Female vocals angle | Queued |
-| 103 | Blog | Gonzaï | FR Paris | desk@gonzai.com | "Romance veut rallumer le feu du rock francophone" | FR |  | Queued |
-| 104 | Blog | Muzzart | FR Bordeaux | muzzart.bordeaux@gmail.com | Tambours du Bronx "Distropy" review | FR |  | Queued |
-| 105 | Blog | Musiczine | BE | info.fr@musiczine.net | Lemonheads / Townes Van Zandt | FR | Prefers CDs | Queued |
-| 106 | Blog | Indiestyle | BE | info@indiestyle.be | "Here's The Thing 2026" | NL/EN |  | Queued |
-| 107 | Blog | Mondo Sonoro | ES | luna@mondosonoro.com | October 2026 issue (Joan S. Luna) | ES |  | Queued |
-| 108 | Blog | Binaural.es | ES | hola@binaural.es | "Left Of The Dial 2026" | ES |  | Queued |
-| 109 | Blog | Mariskal Rock | ES | bandas@mariskalrock.com | Deep Purple + Jayler Madrid review | ES |  | Queued |
-| 110 | Blog | The Science of Noise | ES Barcelona | scienceofnoisemagazine@gmail.com | Carlos Escobedo (Sôber) interview | ES |  | Queued |
-| 111 | Blog | Threshold Magazine | PT | thresholdmgz@gmail.com | Kaleidobolt live review | PT/EN |  | Queued |
-| 112 | Blog | Teraz Rock | PL | terazrock@terazrock.pl | "Kruk: Mistyczna Aura" interview | EN |  | Queued |
-| 113 | Blog | Kulturalne Media | PL | redakcja@kulturalnemedia.pl | Imany "Women Deserve Rage TOUR" | EN |  | Queued |
-| 114 | Blog | iREPORT | CZ | redakce@ireport.cz | Festival Lucerna Freedom 37 | EN |  | Queued |
-| 115 | Blog | Headliner.cz | CZ | info@headliner.cz | "Rhiannon Giddens věří v sílu naděje" | EN |  | Queued |
-| 116 | Blog | Kaaoszine | FI | arto@kaaoszine.fi | Floor Jansen / Nightwish | EN | Leans metal | Queued |
-| 117 | Blog | Klof Magazine | IE | submissions@klofmag.com | Declan O'Rourke "Oceanic" | EN | MP3 links only | Queued |
-| 118 | Podcast | The Europeans | EU | hello@europeanspodcast.com | "This is What a Generation Sounds Like" | EN | Guest pitches here | Queued |
-| 119 | Podcast | Notes from Poland | PL Kraków | contact@notesfrompoland.com | Small towns / far right episode | EN |  | Queued |
-| 120 | Podcast | New Eastern Europe | PL Kraków | editors@neweasterneurope.eu | "How a rock trial helped create Charter 77" | EN | Best fit | Queued |
+| 89 | Radio | Kölncampus | DE Köln | presse@koelncampus.com | "What Up!? Neue Musik" show | DE | Press address | Sent 28/10 (to musik@koelncampus.com) |
+| 90 | Radio | Radio Blau | DE Leipzig | radioblau@radioblau.de | "Der Leipziger Appell" 21/10 | DE | General address | Sent 28/10 |
+| 91 | Radio | Radio Primitive | FR Reims | prog@radioprimitive.fr | "Pop o'clock" podcast | FR |  | Sent 28/10 |
+| 92 | Radio | Radio Campus Lille | FR Lille | campus@campuslille.com | "Musiques aux pieds" 23/9 | FR | General address | Sent 28/10 |
+| 93 | Radio | Radio Dio 89.5 | FR Saint-Étienne | prog@radiodio.org | "Des Mots des Sons Sans Cible" 15/10; "Roulette Russe" | FR |  | Sent 28/10 |
+| 94 | Radio | Contrabanda FM | ES Barcelona | contrabanda@contrabanda.org | "Distrito Apache" 13/10 | ES/CA |  | Sent 28/10 |
+| 95 | Radio | CUAC FM | ES A Coruña | comunicacion@cuacfm.org | "Nace o Arquivo Sonoro de CUAC FM" | ES |  | Sent 28/10 |
+| 96 | Radio | Radio Almaina | ES Granada | programacion@radioalmaina.org | "8º Cadenazo Antifascista de las Radios Libres" | ES | Frame as interview | Sent 28/10 |
+| 97 | Radio | Hala Bedi | ES Vitoria | fonoteka@halabedi.eus | Fonoteka (music library) | ES |  | Sent 28/10 |
+| 98 | Radio | RUC Coimbra | PT Coimbra | prog@ruc.pt | Live broadcast interrupted 12/10 | PT/EN |  | Sent 28/10 |
+| 99 | Radio | Radio NABA | LV Riga | naba@radionaba.lv | Talk "Dievs, karš un Kremlis" | EN | Strong anti-war fit | Sent 28/10 |
+| 100 | Radio | Radio Marš | SI Maribor | glasba@radiomars.si | "Atentat na sluh 14" 15/10 | EN |  | Sent 28/10 |
+| 101 | Blog | Gaesteliste.de | DE Bremen | info@gaesteliste.de | Tramhaus feature | DE |  | Sent 28/10 |
+| 102 | Blog | Vinyl-keks | DE | news@vinyl-keks.eu | "Female Fronted is not a Genre Festival 2026" | DE | Female vocals angle | Sent 28/10 |
+| 103 | Blog | Gonzaï | FR Paris | desk@gonzai.com | "Romance veut rallumer le feu du rock francophone" | FR |  | Sent 28/10 |
+| 104 | Blog | Muzzart | FR Bordeaux | muzzart.bordeaux@gmail.com | Tambours du Bronx "Distropy" review | FR |  | Sent 28/10 |
+| 105 | Blog | Musiczine | BE | info.fr@musiczine.net | Lemonheads / Townes Van Zandt | FR | Prefers CDs | Sent 28/10 |
+| 106 | Blog | Indiestyle | BE | info@indiestyle.be | "Here's The Thing 2026" | NL/EN |  | Sent 28/10 |
+| 107 | Blog | Mondo Sonoro | ES | luna@mondosonoro.com | October 2026 issue (Joan S. Luna) | ES |  | Sent 28/10 |
+| 108 | Blog | Binaural.es | ES | hola@binaural.es | "Left Of The Dial 2026" | ES |  | Sent 28/10 |
+| 109 | Blog | Mariskal Rock | ES | bandas@mariskalrock.com | Deep Purple + Jayler Madrid review | ES |  | Sent 28/10 |
+| 110 | Blog | The Science of Noise | ES Barcelona | scienceofnoisemagazine@gmail.com | Carlos Escobedo (Sôber) interview | ES |  | Skipped: site not found |
+| 111 | Blog | Threshold Magazine | PT | thresholdmgz@gmail.com | Kaleidobolt live review | PT/EN |  | Sent 28/10 |
+| 112 | Blog | Teraz Rock | PL | terazrock@terazrock.pl | "Kruk: Mistyczna Aura" interview | EN |  | Skipped: site unreachable 28/10 (retry) |
+| 113 | Blog | Kulturalne Media | PL | redakcja@kulturalnemedia.pl | Imany "Women Deserve Rage TOUR" | EN |  | Sent 28/10 |
+| 114 | Blog | iREPORT | CZ | redakce@ireport.cz | Festival Lucerna Freedom 37 | EN |  | Sent 28/10 |
+| 115 | Blog | Headliner.cz | CZ | info@headliner.cz | "Rhiannon Giddens věří v sílu naděje" | EN |  | Sent 28/10 |
+| 116 | Blog | Kaaoszine | FI | arto@kaaoszine.fi | Floor Jansen / Nightwish | EN | Leans metal | Sent 28/10 |
+| 117 | Blog | Klof Magazine | IE | submissions@klofmag.com | Declan O'Rourke "Oceanic" | EN | MP3 links only | Sent 28/10 |
+| 118 | Podcast | The Europeans | EU | hello@europeanspodcast.com | "This is What a Generation Sounds Like" | EN | Guest pitches here | Sent 28/10 |
+| 119 | Podcast | Notes from Poland | PL Kraków | contact@notesfrompoland.com | Small towns / far right episode | EN |  | Sent 28/10 |
+| 120 | Podcast | New Eastern Europe | PL Kraków | editors@neweasterneurope.eu | "How a rock trial helped create Charter 77" | EN | Best fit | Sent 28/10 |
 | 121 | Media | DOXA | RU exile | hello@doxa.team | Eco-activists vs uranium deliveries 20/10 | EN/RU | Nikolai angle | Queued |
 | 122 | Podcast | Radio Spaetkauf | DE Berlin | hallo@radiospaetkauf.com | "Everything is Culture" | EN | Last ep Nov 2025 | Queued |
 | 123 | Media | Scomodo | IT Roma | eventi@leggiscomodo.com | Conversation with Fenoaltea | IT | Frame as interview/event | Queued |

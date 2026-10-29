@@ -177,55 +177,55 @@ Replies 12/10: **Rauhanliitto** (Julia Jernvall) forwarded Nebo to the "Sana vs.
 
 | # | Country | Outlet | Email | Status |
 |---|---|---|---|---|
-| 1 | US | KCOU Missouri | md@kcou.fm | Queued |
-| 2 | US | KCR San Diego State | kcr.music@sdsu.edu | Queued |
-| 3 | US | KUGS Western Washington | kugs.musicdirector@wwu.edu | Queued |
-| 4 | US | Radio K Minnesota | radiokmusic@umn.edu | Queued |
-| 5 | US | WNYU New York | music@wnyu.org | Queued |
-| 6 | US | KZUU Washington State | kzuu90.7fm@gmail.com | Queued |
-| 7 | US | KWVA Oregon (music blog) | musicblog@kwvaradio.org | Queued |
-| 8 | US | KAOS Evergreen | kaosmusicdirector@gmail.com | Queued |
-| 9 | US | KMNR Missouri S&T | music@kmnr.org | Queued |
-| 10 | US | KMUN Astoria | music@kmun.org | Queued |
-| 11 | US | WFUV New York | thefolks@wfuv.org | Queued |
-| 12 | US | WMSE Milwaukee | wmse@msoe.edu | Queued |
-| 13 | US | WPTS Pittsburgh | music@wptsradio.org | Queued |
-| 14 | US | WRFL Kentucky | contact@wrfl.fm | Queued |
-| 15 | US | WCWP Long Island | info@wcwp.org | Queued |
-| 16 | US | KSCU Santa Clara | music@kscu.org | Queued |
-| 17 | US | KVSC St Cloud | music@kvsc.org | Queued |
-| 18 | US | WBOR Bowdoin | wbor-submissions@bowdoin.edu | Queued |
-| 19 | US | WGRE DePauw | wgremusicdept@gmail.com | Queued |
-| 20 | US | WJCU Cleveland | wjcu.md@gmail.com | Queued |
-| 21 | US | WVCW Virginia Commonwealth | music@wvcw.org | Queued |
-| 22 | US | WVUA Alabama | music@wvuafm.ua.edu | Queued |
-| 23 | US | WERS Boston | info@wers.org | Queued |
-| 24 | US | KTUH Hawaii | office@ktuh.org | Queued |
-| 25 | US | KTSW Texas State | ktsw@txstate.edu | Queued |
-| 26 | US | KSCR USC | contact@kscr.org | Queued |
-| 27 | US | KPSU Portland State | programming@kpsu.org | Queued |
-| 28 | US | KXUA Arkansas | kxua@uark.edu | Queued |
-| 29 | US | WCWM William & Mary | wcwmxx@wm.edu | Queued |
-| 30 | US | WMHC Mount Holyoke | wmhc.collective@gmail.com | Queued |
-| 31 | US | Gorilla vs. Bear | chris@gorillavsbear.net | Queued |
-| 32 | US | American Songwriter | info@americansongwriter.com | Queued |
-| 33 | US | The Reviews Are In (Joshua) | joshua@thereviewsarein.com | Queued |
-| 34 | US | Ukrainian Institute of America | info@ukrainianinstitute.org | Queued |
-| 35 | UK | Insanity Radio (Royal Holloway) | music@insanityradio.com | Queued |
-| 36 | UK | URY York | music@ury.org.uk | Queued |
-| 37 | UK | Cam FM Cambridge | music@camfm.co.uk | Queued |
-| 38 | UK | Cambridge 105 (Amplify) | amplify@cambridge.radio | Queued |
-| 39 | UK | IC Radio Imperial | icradio@imperial.ac.uk | Queued |
-| 40 | UK | Subcity Glasgow | programmes@subcity.org | Queued |
-| 41 | UK | Sheffield Live | info@sheffieldlive.org | Queued |
-| 42 | UK | Radio Plus Coventry | studio@radioplus.org.uk | Queued |
-| 43 | UK | musicOMH | hello@musicomh.com | Queued |
-| 44 | UK | Loud Women | loudwomen@loudwomen.org | Queued |
-| 45 | UK | Fellowship of Reconciliation England | office@for.org.uk | Queued |
-| 46 | UK | WILPF UK | ukwilpf.peace@gmail.com | Queued |
-| 47 | UK | Scottish CND | scnd@banthebomb.org | Queued |
-| 48 | UK | Northern Friends Peace Board | nfpb@gn.apc.org | Queued |
-| 49 | IE | Hot Press | info@hotpress.ie | Queued |
+| 1 | US | KCOU Missouri | md@kcou.fm | Sent 29/10 |
+| 2 | US | KCR San Diego State | kcr.music@sdsu.edu | Sent 29/10 |
+| 3 | US | KUGS Western Washington | kugs.musicdirector@wwu.edu | Skipped: site down 503 (retry) |
+| 4 | US | Radio K Minnesota | radiokmusic@umn.edu | Sent 29/10 |
+| 5 | US | WNYU New York | music@wnyu.org | Skipped: no dated item, Google Form only |
+| 6 | US | KZUU Washington State | kzuu90.7fm@gmail.com | Sent 29/10 |
+| 7 | US | KWVA Oregon (music blog) | musicblog@kwvaradio.org | Sent 29/10 |
+| 8 | US | KAOS Evergreen | kaosmusicdirector@gmail.com | Skipped: blog domain blocked in session |
+| 9 | US | KMNR Missouri S&T | music@kmnr.org | Skipped: dormant |
+| 10 | US | KMUN Astoria | music@kmun.org | Sent 29/10 |
+| 11 | US | WFUV New York | thefolks@wfuv.org | Sent 29/10 |
+| 12 | US | WMSE Milwaukee | wmse@msoe.edu | Sent 29/10 |
+| 13 | US | WPTS Pittsburgh | music@wptsradio.org | Skipped: domain hijacked, needs new contact |
+| 14 | US | WRFL Kentucky | contact@wrfl.fm | Sent 29/10 |
+| 15 | US | WCWP Long Island | info@wcwp.org | Skipped: no dated content |
+| 16 | US | KSCU Santa Clara | music@kscu.org | Skipped: dormant |
+| 17 | US | KVSC St Cloud | music@kvsc.org | Sent 29/10 |
+| 18 | US | WBOR Bowdoin | wbor-submissions@bowdoin.edu | Skipped: nothing recent, no singles |
+| 19 | US | WGRE DePauw | wgremusicdept@gmail.com | Sent 29/10 |
+| 20 | US | WJCU Cleveland | wjcu.md@gmail.com | Sent 29/10 |
+| 21 | US | WVCW Virginia Commonwealth | music@wvcw.org | Skipped: no items |
+| 22 | US | WVUA Alabama | music@wvuafm.ua.edu | Sent 29/10 |
+| 23 | US | WERS Boston | info@wers.org | Sent 29/10 |
+| 24 | US | KTUH Hawaii | office@ktuh.org | Sent 29/10 |
+| 25 | US | KTSW Texas State | ktsw@txstate.edu | Skipped: hard copy only |
+| 26 | US | KSCR USC | contact@kscr.org | Skipped: domain hijacked, needs new contact |
+| 27 | US | KPSU Portland State | programming@kpsu.org | Sent 29/10 |
+| 28 | US | KXUA Arkansas | kxua@uark.edu | Skipped: site down 503 (retry) |
+| 29 | US | WCWM William & Mary | wcwmxx@wm.edu | Sent 29/10 |
+| 30 | US | WMHC Mount Holyoke | wmhc.collective@gmail.com | Skipped: wrong address (psychotherapy practice) |
+| 31 | US | Gorilla vs. Bear | chris@gorillavsbear.net | Sent 29/10 |
+| 32 | US | American Songwriter | info@americansongwriter.com | Skipped: paid contests only |
+| 33 | US | The Reviews Are In (Joshua) | joshua@thereviewsarein.com | Skipped: dormant |
+| 34 | US | Ukrainian Institute of America | info@ukrainianinstitute.org | Skipped: site down 503 (retry) |
+| 35 | UK | Insanity Radio (Royal Holloway) | music@insanityradio.com | Skipped: no music since June |
+| 36 | UK | URY York | music@ury.org.uk | Sent 29/10 |
+| 37 | UK | Cam FM Cambridge | music@camfm.co.uk | Skipped: dormant |
+| 38 | UK | Cambridge 105 (Amplify) | amplify@cambridge.radio | Sent 29/10 |
+| 39 | UK | IC Radio Imperial | icradio@imperial.ac.uk | Skipped: no dated content |
+| 40 | UK | Subcity Glasgow | programmes@subcity.org | Sent 29/10 |
+| 41 | UK | Sheffield Live | info@sheffieldlive.org | Sent 29/10 |
+| 42 | UK | Radio Plus Coventry | studio@radioplus.org.uk | Skipped: one undated post |
+| 43 | UK | musicOMH | hello@musicomh.com | Skipped: site unreadable |
+| 44 | UK | Loud Women | loudwomen@loudwomen.org | Sent 29/10 |
+| 45 | UK | Fellowship of Reconciliation England | office@for.org.uk | Sent 29/10 |
+| 46 | UK | WILPF UK | ukwilpf.peace@gmail.com | Sent 29/10 |
+| 47 | UK | Scottish CND | scnd@banthebomb.org | Sent 29/10 |
+| 48 | UK | Northern Friends Peace Board | nfpb@gn.apc.org | Sent 29/10 |
+| 49 | IE | Hot Press | info@hotpress.ie | Sent 29/10 |
 | 50 | IE | GoldenPlec (new music) | newmusic@goldenplec.com | Queued |
 | 51 | IE | District Magazine | info@district.ie | Queued |
 | 52 | AU | Mixdown Magazine | editorial@mixdownmag.com.au | Queued |

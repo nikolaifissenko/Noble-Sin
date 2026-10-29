@@ -44,6 +44,7 @@
 | 16/10 | US | KZSU Stanford | music@kzsu.stanford.edu | DJ Aporia's Emma Ruth Rundle review | Sent |
 Skipped 12/10: Stop the War Coalition (UK). Its "Peace in Ukraine" line is read by many Ukrainians as pressure on Ukraine to concede; too risky for Alina. Nikolai decided 12/10: do not pitch, ever. KALX (site says don't email music submissions), WNYU (nothing to reference), RaBe (page unreadable), Holod (no culture coverage).
 Dropped: TheAltSubmissions@gmail.com (bounced twice, inbox full).
+29/10 daily run: 48 new pitches + 2 resends = 50. Queue 4 FINISHED (121 to 125: 4 sent). Queue 1 rows 71 to 97: 16 sent, 8 skipped. Queue 2 rows 1 to 49: 28 sent, 21 skipped (dead/hijacked domains: WPTS, KSCR need new contacts; WMHC address wrong; KUGS, KXUA, Ukrainian Institute of America down, retry). Refugee Week Italia: RefugeeWeekItalia@secondtree.org (Second Tree), not pitched (no recent item): good for a manual note citing Lara's referral. SLIPS if they reply: Radio K says "the rhythm section and the rest are Italian"; OUTsiders says "in una sala prove di Roma"; Radio Rock says the song was born "a pochi chilometri" from Capannelle; Scomodo offered an acoustic set (check with band); BPM "your review" author unchecked. No bounces, no Gmail warnings.
 29/10 inbox check: NO reply from Nikolai on Alina for GARIWO Thu 29/10 12:00 (I told Alessandra 28/10 that Alina would confirm that day; not done). Flagged to Nikolai at 10:20 Rome. Kanal K: promos only via music@kanalk.ch: resent there. FRS Stuttgart (Conny): promos via info@freies-radio.de: resent there. Stop Wapenhandel (Wendela) thanked, keep the spirit. PPU (Anna): will share if it links to their work. AA-E: "Entendu". Declines: Headliner.cz (Honza Vedral), Radio Campus Angers (rarely plays singles). BOUNCE: fonoteka@halabedi.eus (Q4 row 97) 550 user unknown.
 28/10 daily run: 50 new pitches + 8 replies = 58. Queue 1: 20 sent, 12 skipped (dead/unreadable sites). Queue 4 rows 89 to 120: 30 sent, 2 skipped (Science of Noise not found, Teraz Rock down); rows 121 to 125 next. No bounces, no Gmail warnings. SLIPS if they reply: KLOF (117) email says "No AI involved" (unverified, ask Nikolai); NEE (120) says the song "starts in English"; Almaina (96) says "heard of you through the Cadenazo" (only read on site); Svoboda (Q1 34) says "full scale war"; hyphens in greetings for Gaesteliste and Vinyl-keks. NABA (99) prefers its Google form.
 28/10 inbox check (replies to 27/10 pitches): GARIWO proposed Thu 29/10 12:00 Meet (sent 27/10 09:41, unread until today): told her it works for Nikolai, Alina's confirmation today. NEEDS Alina. Fondazione Migrantes (Simone Sereni, ufficio stampa) listened, forwarded to Rapporto curator Simone Varisco, asked for lyrics: sent; they offer a physical copy of the Rapporto: said yes, postal address to follow (NEEDS Nikolai). AKL (Aku Kervinen) forwarded to the editorial board of Antimilitaristi magazine, interview interest: replied we're available by video. Corrymeela (Jonny Clark) introduced Darren Ferguson of Beyond Skin, Belfast (info.beyondskin@gmail.com), works with musicians: replied to both. Refugee Week UK (Lara Deffense) pointed to Refugee Week Italia: thanked; ADD Refugee Week Italia to queue (contact not on refugeeweek.org page). Pax Christi France: polite no (sound not for their members), suggested Russie Libertés (already pitched 27/10); sent lyrics for Bérengère Savelieff. Atelier des artistes en exil asked what we want: clarified share + open to playing a music evening. Integrationshaus: posts only own content, wants to hear us live in Vienna: thanked. Declines, no reply: UFF Berlin (Ukrainian cinema only), VluchtelingenWerk (poster NL only). PRO ASYL pointed to Connection e.V. (already in touch). Auto: Refugee Festival Scotland.
@@ -144,33 +145,33 @@ Replies 12/10: **Rauhanliitto** (Julia Jernvall) forwarded Nebo to the "Sana vs.
 | 68 | BE | Radio Campus Bruxelles | info@radiocampus.be | Sent 28/10 |
 | 69 | NL | KINK (plug) | plug@kink.nl | Sent 13/10 |
 | 70 | NL | Stop Wapenhandel | info@stopwapenhandel.org | Sent 28/10 |
-| 71 | NL | PAX | info@paxvoorvrede.nl | Queued |
-| 72 | DK | Fredsakademiet | mail@fredsakademiet.dk | Queued |
-| 73 | DK | Bands of Tomorrow | emil@bandsoftomorrow.com | Queued |
-| 74 | NO | Studentradioen Bergen | info@studentradioen.no | Queued |
-| 75 | NO | Radio Revolt Trondheim (music) | musikkprodusent@studentmediene.no | Queued |
-| 76 | FI | Basso Radio | radio@basso.fi | Queued |
-| 77 | SE | Nordic Music Review | nordicmusicreview@gmail.com | Queued |
-| 78 | LT | ZIP FM Vilnius (muzika) | muzika@zipfm.lt | Queued |
-| 79 | PL | Radio Aktywne Warsaw | redakcja@radioaktywne.pl | Queued |
+| 71 | NL | PAX | info@paxvoorvrede.nl | Sent 29/10 |
+| 72 | DK | Fredsakademiet | mail@fredsakademiet.dk | Skipped: archive, nothing dated |
+| 73 | DK | Bands of Tomorrow | emil@bandsoftomorrow.com | Skipped: site down |
+| 74 | NO | Studentradioen Bergen | info@studentradioen.no | Skipped: domain spam |
+| 75 | NO | Radio Revolt Trondheim (music) | musikkprodusent@studentmediene.no | Sent 29/10 |
+| 76 | FI | Basso Radio | radio@basso.fi | Skipped: inactive |
+| 77 | SE | Nordic Music Review | nordicmusicreview@gmail.com | Skipped: Nordic artists only |
+| 78 | LT | ZIP FM Vilnius (muzika) | muzika@zipfm.lt | Sent 29/10 |
+| 79 | PL | Radio Aktywne Warsaw | redakcja@radioaktywne.pl | Sent 29/10 |
 | 80 | CZ | Radio 1 Prague | info@radio1.cz | Sent 13/10 |
-| 81 | ES | Scanner FM | radio@scannerfm.com | Queued |
-| 82 | UA | Hromadske Radio | office@hromadske.radio | Queued |
-| 83 | UA | Ukrainian Cultural Foundation | office@uaculture.org | Queued |
-| 84 | IT | Radio Città Pescara | redazione@radiocittapescara.it | Queued |
-| 85 | IT | Radio Onda Libera Umbertide | musica@radioondalibera.it | Queued |
-| 86 | IT | MusicMap | info@musicmap.it | Queued |
-| 87 | IT | Indie For Bunnies | indieforbunnies@gmail.com | Queued |
-| 88 | IT | OUTsiders webzine | outsiders.webzine@gmail.com | Queued |
-| 89 | IT | Pax Christi Italia | info@paxchristi.it | Queued |
-| 90 | IT | Centro Studi Difesa Civile Roma | roma@pacedifesa.org | Queued |
+| 81 | ES | Scanner FM | radio@scannerfm.com | Sent 29/10 |
+| 82 | UA | Hromadske Radio | office@hromadske.radio | Sent 29/10 |
+| 83 | UA | Ukrainian Cultural Foundation | office@uaculture.org | Skipped: wrong site (SEO) |
+| 84 | IT | Radio Città Pescara | redazione@radiocittapescara.it | Sent 29/10 |
+| 85 | IT | Radio Onda Libera Umbertide | musica@radioondalibera.it | Skipped: nothing recent |
+| 86 | IT | MusicMap | info@musicmap.it | Sent 29/10 |
+| 87 | IT | Indie For Bunnies | indieforbunnies@gmail.com | Sent 29/10 |
+| 88 | IT | OUTsiders webzine | outsiders.webzine@gmail.com | Sent 29/10 |
+| 89 | IT | Pax Christi Italia | info@paxchristi.it | Sent 29/10 |
+| 90 | IT | Centro Studi Difesa Civile Roma | roma@pacedifesa.org | Skipped: latest news March 2026 |
 | 91 | UK | Louder Than War (Wayne Carey, new releases) | waynecarey@louderthanwar.com | Sent 12/10 |
-| 92 | US | KCSB Santa Barbara (international MD) | int.md@kcsb.org | Queued |
-| 93 | US | Beats Per Minute | editor@beatsperminute.com | Queued |
+| 92 | US | KCSB Santa Barbara (international MD) | int.md@kcsb.org | Sent 29/10 |
+| 93 | US | Beats Per Minute | editor@beatsperminute.com | Sent 29/10 |
 | 94 | CA | Northern Transmissions | info@northerntransmissions.com | Sent 12/10 |
-| 95 | IT | Radio Rock Roma | info@radiorock.it | Queued |
-| 96 | IT | Radio Start (She Blues) | info@radiostart.it | Queued |
-| 97 | US | WBRS Brandeis | gm@wbrs.org | Queued |
+| 95 | IT | Radio Rock Roma | info@radiorock.it | Sent 29/10 |
+| 96 | IT | Radio Start (She Blues) | info@radiostart.it | Sent 29/10 |
+| 97 | US | WBRS Brandeis | gm@wbrs.org | Sent 29/10 |
 
 ## Queue 2: 100 more outlets (built 16/10, addresses from each outlet's own site)
 > Goes after queue 1. Most of these will go out after release (from Mon 26/10) with the Spotify link instead of the private Drive link, since new press stops after Mon 19/10. Same rules: real hook checked at send time, skip if none, never paid.
@@ -468,8 +469,8 @@ Replies 12/10: **Rauhanliitto** (Julia Jernvall) forwarded Nebo to the "Sana vs.
 | 118 | Podcast | The Europeans | EU | hello@europeanspodcast.com | "This is What a Generation Sounds Like" | EN | Guest pitches here | Sent 28/10 |
 | 119 | Podcast | Notes from Poland | PL Kraków | contact@notesfrompoland.com | Small towns / far right episode | EN |  | Sent 28/10 |
 | 120 | Podcast | New Eastern Europe | PL Kraków | editors@neweasterneurope.eu | "How a rock trial helped create Charter 77" | EN | Best fit | Sent 28/10 |
-| 121 | Media | DOXA | RU exile | hello@doxa.team | Eco-activists vs uranium deliveries 20/10 | EN/RU | Nikolai angle | Queued |
-| 122 | Podcast | Radio Spaetkauf | DE Berlin | hallo@radiospaetkauf.com | "Everything is Culture" | EN | Last ep Nov 2025 | Queued |
-| 123 | Media | Scomodo | IT Roma | eventi@leggiscomodo.com | Conversation with Fenoaltea | IT | Frame as interview/event | Queued |
-| 124 | Media | DINAMOpress | IT Roma | dinamozine@gmail.com | "La destra all'attacco del V Municipio" | IT |  | Queued |
-| 125 | Podcast | Untold Italy | IT | ciao@untolditaly.com | Episode #346 (Katy Clarke) | EN | Low priority | Queued |
+| 121 | Media | DOXA | RU exile | hello@doxa.team | Eco-activists vs uranium deliveries 20/10 | EN/RU | Nikolai angle | Sent 29/10 |
+| 122 | Podcast | Radio Spaetkauf | DE Berlin | hallo@radiospaetkauf.com | "Everything is Culture" | EN | Last ep Nov 2025 | Skipped: dormant since Nov 2025 |
+| 123 | Media | Scomodo | IT Roma | eventi@leggiscomodo.com | Conversation with Fenoaltea | IT | Frame as interview/event | Sent 29/10 |
+| 124 | Media | DINAMOpress | IT Roma | dinamozine@gmail.com | "La destra all'attacco del V Municipio" | IT |  | Sent 29/10 |
+| 125 | Podcast | Untold Italy | IT | ciao@untolditaly.com | Episode #346 (Katy Clarke) | EN | Low priority | Sent 29/10 |

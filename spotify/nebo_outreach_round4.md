@@ -44,6 +44,8 @@
 | 16/10 | US | KZSU Stanford | music@kzsu.stanford.edu | DJ Aporia's Emma Ruth Rundle review | Sent |
 Skipped 12/10: Stop the War Coalition (UK). Its "Peace in Ukraine" line is read by many Ukrainians as pressure on Ukraine to concede; too risky for Alina. Nikolai decided 12/10: do not pitch, ever. KALX (site says don't email music submissions), WNYU (nothing to reference), RaBe (page unreadable), Holod (no culture coverage).
 Dropped: TheAltSubmissions@gmail.com (bounced twice, inbox full).
+30/10 daily run: 38 new pitches (36 delivered, 2 bounced: Nowa Muzyka, Soundwall) + 3 replies/notes = 41. Queue 2 rows 50 to 100 done: 13 skipped. Vrede vzw skipped on Stop the War style risk (Nikolai to decide). SLIPS if they reply: Radio Campus Paris "peut être" (should be peut-être) and "Saint Pétersbourg"; Minutenmusik "Ein Belgier Trio"; Concertmonkey calls Nebo "alternative rock" (true per brief).
+30/10 Gariwo: Thursday 29/10 missed again (Nikolai). Sent apology ("presi tra lavori e impegni") and asked Alessandra for several slots in the next two weeks, promised same day confirmation with Alina. NEEDS Alina fast when she replies.
 30/10 inbox check: KCOU 88.1 (Mateo Calderon, Opal Weber) ADDED Nebo to rotation: thanked. MusicMap: albums only, will review a full length. NFPB: auto reply. No bounces.
 30/10: Migrantes: postal address sent (Via dei Marsi 58, 00185 Roma) for the Rapporto copy. Refugee Week Italia (RefugeeWeekItalia@secondtree.org) pitched in Italian citing Lara's referral, offered to play/join an event in Rome next edition. Gariwo 29/10 12:00: outcome unknown, asked Nikolai. Scomodo email (29/10) offered "io e Alina ... in redazione, anche in acustico": an offer only, nothing scheduled.
 29/10 daily run: 48 new pitches + 2 resends = 50. Queue 4 FINISHED (121 to 125: 4 sent). Queue 1 rows 71 to 97: 16 sent, 8 skipped. Queue 2 rows 1 to 49: 28 sent, 21 skipped (dead/hijacked domains: WPTS, KSCR need new contacts; WMHC address wrong; KUGS, KXUA, Ukrainian Institute of America down, retry). Refugee Week Italia: RefugeeWeekItalia@secondtree.org (Second Tree), not pitched (no recent item): good for a manual note citing Lara's referral. SLIPS if they reply: Radio K says "the rhythm section and the rest are Italian"; OUTsiders says "in una sala prove di Roma"; Radio Rock says the song was born "a pochi chilometri" from Capannelle; Scomodo offered an acoustic set (check with band); BPM "your review" author unchecked. No bounces, no Gmail warnings.
@@ -229,57 +231,57 @@ Replies 12/10: **Rauhanliitto** (Julia Jernvall) forwarded Nebo to the "Sana vs.
 | 47 | UK | Scottish CND | scnd@banthebomb.org | Sent 29/10 |
 | 48 | UK | Northern Friends Peace Board | nfpb@gn.apc.org | Sent 29/10 |
 | 49 | IE | Hot Press | info@hotpress.ie | Sent 29/10 |
-| 50 | IE | GoldenPlec (new music) | newmusic@goldenplec.com | Queued |
-| 51 | IE | District Magazine | info@district.ie | Queued |
-| 52 | AU | Mixdown Magazine | editorial@mixdownmag.com.au | Queued |
-| 53 | DE | Musikexpress | redaktion@musikexpress.de | Queued |
-| 54 | DE | musikblog.de | info@musikblog.de | Queued |
-| 55 | DE | Minutenmusik | info@minutenmusik.de | Queued |
-| 56 | DE | Whiskey Soda | kontakt@whiskey-soda.de | Queued |
-| 57 | DE | Plastic Bomb (Ronja) | ronja@plastic-bomb.de | Queued |
-| 58 | DE | egoFM Munich | info@egofm.de | Queued |
-| 59 | DE | Radio Hertz 87.9 Bielefeld | info@radiohertz.de | Queued |
-| 60 | DE | Radio 98eins Greifswald | musik@radio98eins.de | Queued |
-| 61 | DE | mephisto 97.6 Leipzig | chefredaktion@mephisto976.de | Queued |
-| 62 | DE | Ohne Rüstung Leben | orl@gaia.de | Queued |
-| 63 | DE | Bund für Soziale Verteidigung | info@soziale-verteidigung.de | Queued |
-| 64 | DE | Refuge Worldwide Berlin | hello@refugeworldwide.com | Queued |
-| 65 | AT | The Gap | info@the-gap.at | Queued |
-| 66 | CH | GSoA | gsoa@gsoa.ch | Queued |
-| 67 | BE | Urgent.fm Ghent | muziek@urgent.fm | Queued |
-| 68 | BE | Concertmonkey | info@concertmonkey.be | Queued |
-| 69 | BE | Enola | info@enola.be | Queued |
-| 70 | BE | Keys and Chords | info@keysandchords.com | Queued |
-| 71 | BE | Pax Christi Vlaanderen | paxchristi@paxchristi.be | Queued |
-| 72 | BE | Vrede vzw | vrede@vrede.be | Queued |
-| 73 | EU | Church and Peace | intloffice@church-and-peace.org | Queued |
-| 74 | FR | Radio Campus Paris | antenne@radiocampusparis.org | Queued |
-| 75 | SE | Radio AF Lund | musik@radioaf.se | Queued |
-| 76 | SE | K103 Gothenburg | info@k103.se | Queued |
-| 77 | PL | Radio Akadera Białystok | akadera@akadera.bialystok.pl | Queued |
-| 78 | PL | Radio Centrum Lublin | redakcja@radiocentrum.pl | Queued |
-| 79 | PL | Nowa Muzyka | info@nowamuzyka.pl | Queued |
-| 80 | CZ | Rock&Pop | redakce@rockandpop.cz | Queued |
-| 81 | ES | Jenesaispop | info@jenesaispop.com | Queued |
-| 82 | ES | Muzikalia | mzk@muzikalia.com | Queued |
-| 83 | ES | Indienauta | info@indienauta.com | Queued |
-| 84 | PT | Comunidade Cultura e Arte | geral@comunidadeculturaearte.com | Queued |
-| 85 | RU exile | Spektr | editor@spektr.press | Queued |
-| 86 | IT | Radio Popolare Roma | info@radiopopolareroma.it | Queued |
-| 87 | IT | Radio Blackout Torino | redazione@radioblackout.org | Queued |
-| 88 | IT | Radio Fragola Trieste | musica@radiofragola.com | Queued |
-| 89 | IT | Radio Tandem Bolzano | info@radiotandem.it | Queued |
-| 90 | IT | Radio Ciroma Cosenza | redazione.ciroma@gmail.com | Queued |
-| 91 | IT | OndAlternativa | spunk@ondalternativa.it | Queued |
-| 92 | IT | Rock Nation | redazione@rocknation.it | Queued |
-| 93 | IT | The Walk of Fame | segnalazioni@thewalkoffame.it | Queued |
-| 94 | IT | Sdangher | info@sdangher.com | Queued |
-| 95 | IT | Soundwall | music@sndwll.it | Queued |
-| 96 | UK | Our Culture Mag | info@ourculturemag.com | Queued |
-| 97 | IT | Tavola della Pace | stampa@perlapace.it | Queued |
-| 98 | IT | Archivio Disarmo | info@archiviodisarmo.it | Queued |
-| 99 | UK | BCB Radio Bradford | hello@bcbradio.co.uk | Queued |
-| 100 | IT | Radio Rogna | info@radiorogna.it | Queued |
+| 50 | IE | GoldenPlec (new music) | newmusic@goldenplec.com | Skipped: site unreadable (403) |
+| 51 | IE | District Magazine | info@district.ie | Skipped: site unreadable |
+| 52 | AU | Mixdown Magazine | editorial@mixdownmag.com.au | Sent 30/10 |
+| 53 | DE | Musikexpress | redaktion@musikexpress.de | Sent 30/10 |
+| 54 | DE | musikblog.de | info@musikblog.de | Sent 30/10 |
+| 55 | DE | Minutenmusik | info@minutenmusik.de | Sent 30/10 |
+| 56 | DE | Whiskey Soda | kontakt@whiskey-soda.de | Skipped: dormant |
+| 57 | DE | Plastic Bomb (Ronja) | ronja@plastic-bomb.de | Sent 30/10 |
+| 58 | DE | egoFM Munich | info@egofm.de | Sent 30/10 |
+| 59 | DE | Radio Hertz 87.9 Bielefeld | info@radiohertz.de | Sent 30/10 |
+| 60 | DE | Radio 98eins Greifswald | musik@radio98eins.de | Skipped: domain redirects, nothing recent |
+| 61 | DE | mephisto 97.6 Leipzig | chefredaktion@mephisto976.de | Skipped: site down 503 |
+| 62 | DE | Ohne Rüstung Leben | orl@gaia.de | Sent 30/10 |
+| 63 | DE | Bund für Soziale Verteidigung | info@soziale-verteidigung.de | Sent 30/10 |
+| 64 | DE | Refuge Worldwide Berlin | hello@refugeworldwide.com | Sent 30/10 |
+| 65 | AT | The Gap | info@the-gap.at | Sent 30/10 |
+| 66 | CH | GSoA | gsoa@gsoa.ch | Sent 30/10 |
+| 67 | BE | Urgent.fm Ghent | muziek@urgent.fm | Sent 30/10 |
+| 68 | BE | Concertmonkey | info@concertmonkey.be | Sent 30/10 |
+| 69 | BE | Enola | info@enola.be | Sent 30/10 |
+| 70 | BE | Keys and Chords | info@keysandchords.com | Sent 30/10 |
+| 71 | BE | Pax Christi Vlaanderen | paxchristi@paxchristi.be | Sent 30/10 |
+| 72 | BE | Vrede vzw | vrede@vrede.be | Skipped: promotes "Ukraine needs peace, stop the bloodshed" line (Stop the War risk), Nikolai to decide |
+| 73 | EU | Church and Peace | intloffice@church-and-peace.org | Sent 30/10 |
+| 74 | FR | Radio Campus Paris | antenne@radiocampusparis.org | Sent 30/10 |
+| 75 | SE | Radio AF Lund | musik@radioaf.se | Sent 30/10 |
+| 76 | SE | K103 Gothenburg | info@k103.se | Sent 30/10 |
+| 77 | PL | Radio Akadera Białystok | akadera@akadera.bialystok.pl | Sent 30/10 |
+| 78 | PL | Radio Centrum Lublin | redakcja@radiocentrum.pl | Sent 30/10 |
+| 79 | PL | Nowa Muzyka | info@nowamuzyka.pl | Bounced 30/10 (address dead, needs new contact) |
+| 80 | CZ | Rock&Pop | redakce@rockandpop.cz | Skipped: site down 503 |
+| 81 | ES | Jenesaispop | info@jenesaispop.com | Sent 30/10 |
+| 82 | ES | Muzikalia | mzk@muzikalia.com | Sent 30/10 |
+| 83 | ES | Indienauta | info@indienauta.com | Skipped: site unreadable |
+| 84 | PT | Comunidade Cultura e Arte | geral@comunidadeculturaearte.com | Sent 30/10 |
+| 85 | RU exile | Spektr | editor@spektr.press | Skipped: no culture coverage |
+| 86 | IT | Radio Popolare Roma | info@radiopopolareroma.it | Skipped: site unreadable (403) |
+| 87 | IT | Radio Blackout Torino | redazione@radioblackout.org | Sent 30/10 |
+| 88 | IT | Radio Fragola Trieste | musica@radiofragola.com | Sent 30/10 |
+| 89 | IT | Radio Tandem Bolzano | info@radiotandem.it | Sent 30/10 |
+| 90 | IT | Radio Ciroma Cosenza | redazione.ciroma@gmail.com | Skipped: domain dead |
+| 91 | IT | OndAlternativa | spunk@ondalternativa.it | Sent 30/10 |
+| 92 | IT | Rock Nation | redazione@rocknation.it | Sent 30/10 |
+| 93 | IT | The Walk of Fame | segnalazioni@thewalkoffame.it | Sent 30/10 |
+| 94 | IT | Sdangher | info@sdangher.com | Skipped: site down 503 |
+| 95 | IT | Soundwall | music@sndwll.it | Bounced 30/10 (wrong domain, site lists no email) |
+| 96 | UK | Our Culture Mag | info@ourculturemag.com | Sent 30/10 |
+| 97 | IT | Tavola della Pace | stampa@perlapace.it | Sent 30/10 |
+| 98 | IT | Archivio Disarmo | info@archiviodisarmo.it | Sent 30/10 |
+| 99 | UK | BCB Radio Bradford | hello@bcbradio.co.uk | Sent 30/10 |
+| 100 | IT | Radio Rogna | info@radiorogna.it | Skipped: site unreadable |
 
 ## Queue 3: 55 Italian outlets (built 17/10, addresses from each outlet's own site)
 > Nikolai 17/10: "find Italian outlets we could send the song to", then "ok send monday". Rows 1 to 25 go out Mon 19/10 (private Drive link, in Italian; English for Italian Insider). Rows 26 onward from Mon 26/10 with the Spotify link. Last five are low priority. Hooks below were read on the sites 16 to 17/10; recheck at send time. Not pitched: Iyezine's paid PR arm, Brainstorming's Ko-fi/Groover routes, anything paid. Gianni Errera is never mentioned.

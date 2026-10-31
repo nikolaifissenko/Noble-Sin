@@ -1,6 +1,6 @@
 # PRESS RELEASE: Noble Sin, "Nebo" (out now)
 
-**A Ukrainian singer and a Russian guitarist release an anti-war song about three soldiers who refuse to fire**
+**A Ukrainian singer and a Russian guitarist release an antiwar song about three soldiers who refuse to fire**
 
 Rome, October 2026. Noble Sin, a five piece alternative rock band from Rome, have released "Nebo", Ukrainian for "sky". It's out now on all platforms.
 
@@ -18,7 +18,7 @@ Apple Music: https://music.apple.com/us/album/nebo-single/6814284390
 All platforms: https://distrokid.com/hyperfollow/noblesin1/nebo-2
 
 **Photos**
-Press photo attached. Photo: Leonardo Gentili.
+High resolution press photo: https://raw.githubusercontent.com/nikolaifissenko/noble-sin/claude/exciting-goodall-FT79J/press/noblesin_nebo_press_river.jpg (Photo: Leonardo Gentili)
 
 **Contact**
 Nikolai Fissenko, guitarist and manager

@@ -27,7 +27,7 @@ Noble Sin è una band alternative rock di cinque elementi di Roma. Il loro album
 ### ASCOLTA
 - **[Titolo brano]** — [link Spotify]
 - **[Titolo brano]** — [link Spotify]
-- **Album completo:** *Off We Go* — [link album Spotify]
+- **Album completo:** *Off We Go* — https://open.spotify.com/album/2mz4tkGww5KdQeqHtXMSbr
 
 ---
 

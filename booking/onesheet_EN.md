@@ -28,7 +28,7 @@ Noble Sin is a five-piece alternative rock band from Rome. Their debut album *Of
 ### LISTEN
 - **[Track title]** — [Spotify link]
 - **[Track title]** — [Spotify link]
-- **Full album:** *Off We Go* — [Spotify album link]
+- **Full album:** *Off We Go* — https://open.spotify.com/album/2mz4tkGww5KdQeqHtXMSbr
 
 ---
 

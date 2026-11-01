@@ -1,4 +1,4 @@
-# FemMetal.Rocks: written interview (Benedetta Baldin), DRAFT
+# FemMetal.Rocks: written interview (Benedetta Baldin), FINAL DRAFT (awaiting Nikolai's OK)
 
 > Alina's answers (1, 2 last part replaced, 4, 5, 8) are hers, cleaned up in English on 01/11. Draft answers by Claude from press/band_story.md. Alina and Nikolai must read, change and approve before sending. [BRACKETS] = only you can answer. No facts added beyond the band story.
 
@@ -30,15 +30,13 @@ ALINA: I think a musician has a responsibility to talk about everything that tou
 
 ALINA: They told us it sounds new, a new style. It's us growing up, in the sound and in what we're saying.
 
-[OPTIONAL Nikolai: add a line of your own, and/or: since the release, peace organisations, independent radios and webzines across Europe and the US have picked up the song.]
-
 **6. Now that "Nebo" is out on all platforms, is this single a standalone manifesto, or does it signal the thematic and musical direction of an upcoming EP or album?**
 
-NIKOLAI: We're releasing singles one at a time for now. [What comes next: same themes? new sound? anything you want to tease?]
+NIKOLAI: We're releasing singles one at a time for now, and we have two more songs ready. One is about toxic relationships: how they can feel like heaven and hell at the same time. The other is about the stereotype of the "real man". That's all we're going to spoil for now!
 
 **7. It would be awesome to see Noble Sin in a live concert! How would you translate the raw emotional weight and multi-layered vocal field of your music into a performance?**
 
-[ONLY YOU: how you play Nebo live (voice notes on backing track? three languages live?), last show was Let It Beer Club, Rome, April 2026; any upcoming dates]
+NIKOLAI: Live we have two ways of doing it. In the first we play with backing tracks for the synths. In the second we play without them, and Alina either says something different into the mic or just lets her voice rest. Either way, it's five people in a room playing it loud.
 
 **8. Do you think that we will ever reach some equality between men and women in the metal world?**
 
@@ -46,7 +44,7 @@ ALINA: I believe so. I'm quite optimistic, and I think we're moving in that dire
 
 **9. If you had to choose your perfect touring lineup with 3 bands, which ones would you pick?**
 
-[ONLY YOU: 3 bands. The brand guide lists Idles, Savages and Fontaines D.C. as reference touchstones, if those are really your picks.]
+NIKOLAI: U2 and Foo Fighters. And personally, I'd love to tour with Noize MC, a Russian opposition artist. But honestly, we'd tour with any band we like and respect, on a personal and a professional level.
 
 **10. Is there anything else you'd like to add to our readers?**
 

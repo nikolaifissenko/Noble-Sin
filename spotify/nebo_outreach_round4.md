@@ -45,6 +45,7 @@
 Skipped 12/10: Stop the War Coalition (UK). Its "Peace in Ukraine" line is read by many Ukrainians as pressure on Ukraine to concede; too risky for Alina. Nikolai decided 12/10: do not pitch, ever. KALX (site says don't email music submissions), WNYU (nothing to reference), RaBe (page unreadable), Holod (no culture coverage).
 Dropped: TheAltSubmissions@gmail.com (bounced twice, inbox full).
 30/10 daily run: 38 new pitches (36 delivered, 2 bounced: Nowa Muzyka, Soundwall) + 3 replies/notes = 41. Queue 2 rows 50 to 100 done: 13 skipped. Vrede vzw skipped on Stop the War style risk (Nikolai to decide). SLIPS if they reply: Radio Campus Paris "peut être" (should be peut-être) and "Saint Pétersbourg"; Minutenmusik "Ein Belgier Trio"; Concertmonkey calls Nebo "alternative rock" (true per brief).
+01/11 FemMetal written interview SENT as PDF to Benedetta (with press photo link), Nikolai's OK.
 01/11 (Nikolai OK): asked Pax Christi Roma (Andrea Maccari) when and where he'd like to meet; waiting. Any date he proposes goes to Nikolai first.
 01/11 (Nikolai OK): asked Italian Insider for TUESDAY 3/11 morning around 10, Monti, café name to follow once he confirms (Wednesday cancelled). Told FemMetal a WRITTEN interview is better (busy); waiting for questions.
 01/11: GARIWO interview CONFIRMED by Nikolai himself (31/10 15:42): MONDAY 2/11 at 12:00, Google Meet, with Alina. Alessandra will send the link. Italian Insider Wed 4/11 does NOT work for Nikolai: on hold, he is asking Alina; nothing sent.

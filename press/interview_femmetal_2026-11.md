@@ -1,4 +1,4 @@
-# FemMetal.Rocks: written interview (Benedetta Baldin), FINAL DRAFT (awaiting Nikolai's OK)
+# FemMetal.Rocks: written interview (Benedetta Baldin), SENT 01/11/2026 as PDF (press/Noble_Sin_FemMetal_interview.pdf)
 
 > Alina's answers (1, 2 last part replaced, 4, 5, 8) are hers, cleaned up in English on 01/11. Draft answers by Claude from press/band_story.md. Alina and Nikolai must read, change and approve before sending. [BRACKETS] = only you can answer. No facts added beyond the band story.
 

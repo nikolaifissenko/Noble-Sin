@@ -44,3 +44,6 @@
 ## Press assets
 - Press photo (Nebo-era grade): `press/noblesin_nebo_press_landscape.jpg` (1800x1200) and `press/noblesin_nebo_press_vertical.jpg` (1440x3117). Public links: https://raw.githubusercontent.com/nikolaifissenko/noble-sin/claude/exciting-goodall-FT79J/press/<file>. Files: noblesin_nebo_press_river.jpg (best), noblesin_nebo_press_bridge_gazometro.jpg, noblesin_nebo_press_landscape.jpg, noblesin_nebo_press_vertical.jpg. Credit: Leonardo Gentili.
 - Italian press release: in the Long Live Rock'n'Roll thread (08/10). Reuse it, but rewrite the opening for each outlet.
+
+## Meetings and interviews (Nikolai, 01/11/2026)
+- NEVER propose, accept or confirm a meeting, interview, call, date, time or place without Nikolai's explicit OK first. Not even "options" to choose from. Draft the reply, show it to Nikolai, send only after he says yes.

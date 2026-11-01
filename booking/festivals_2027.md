@@ -5,7 +5,7 @@
 | Festival | Deadline | How | Notes |
 |---|---|---|---|
 | Tallinn Music Week 2027 (8 to 10/11 Apr, Estonia) | **Mon 26/10/2026** | Google form via tmw.ee | Free; no fee, no travel paid. 2026 had Ukrainian acts (Daughters of Donbas) |
-| FOCUS Wales 2027 (6 to 8 May, Wrexham) | **Sun 1/11/2026** | Google form or Amplead (free) | info@focuswales.com only from a third-party listing |
+| FOCUS Wales 2027 (6 to 8 May, Wrexham) | **SUBMITTED 01/11/2026** (results ~01/01/2027) | Google form or Amplead (free) | info@focuswales.com only from a third-party listing |
 | Reeperbahn 2027 (Sept, Hamburg) | Opens "mid-October", check daily | reeperbahnfestival.com/en/submissions | Ukraine was 2026 Guest Country of Honour: lead with Alina + Nikolai |
 | SHARPE 2027 (Bratislava, Apr) | Call usually opens ~17/11 | Form at sharpe.sk | Prefers Ukraine-linked acts |
 | Tønder 2027 | 1/12/2026 | tf.dk form | Folk/roots, low priority |

@@ -1,5 +1,7 @@
 # FOCUS Wales 2027: application answers (copy and paste)
 
+> STATUS: submitted by Nikolai on Amplead 01/11/2026. Results expected on or shortly after 01/01/2027.
+
 Form: https://www.amplead.com/apply-to-play/focus27
 Deadline: Sun 1/11/2026, 5pm UK (6pm Rome). Festival: 6 to 8 May 2027, Wrexham.
 Nikolai submits it himself (Amplead account in his name). Fill the [brackets] he alone knows.

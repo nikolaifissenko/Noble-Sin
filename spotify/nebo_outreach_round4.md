@@ -556,5 +556,6 @@ SLIPS if they reply: Punktuation quote slightly paraphrased; Punk World Views ca
 
 Skipped 5B: INTERSOS (only hook names a conflict), Courage to Resist (closed), WMBR (CDs only), Vitsche (risk), Vot Tak and Verstka (no culture item), Radio Vallekas (wrong address), Safemuse (no fit), UMFM (address hidden), PAX NL (already pitched). Unreachable sites: radiosherwood.it, boristenemilano.com, antimilitaristi.org, mosaicodipace.it, Peace News, nonviolence.fr, CIR, Memorial Italia, EBCO.
 SLIPS if they reply: OVD-Info greeting has a hyphen; Bumaga body spells "Фисенко"; Campana dei Caduti one clumsy Italian sentence; Anti Kriegs Museum says Alina sings the closing three languages.
+03/11 SHOUTS (Halldór Kristínarson) ADDED Nebo to Spotify playlist "Selected Protest Music of 2026" https://open.spotify.com/playlist/3NoBhpjPP7u3sF5dQ4aSJm and to its weekly musicletter (Patreon supporters): thanked.
 03/11 replies: mp3hugger auto reply pointing to SubmitHub (paid, skipped); Radio Campus Grenoble auto reply.
 03/11 total: 44 new pitches (20 + 24), 1 bounce (Gigslutz), plus 2 thank yous (Langer, Colomba).

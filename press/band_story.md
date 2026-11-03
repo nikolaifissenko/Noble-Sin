@@ -8,6 +8,10 @@
 - **Andrea** is from **Sanremo**. Antonio introduced him, and he's part of the band's creative core.
 - "We all work together; we're a family now."
 
+## Full names and instruments (from Nikolai's own CIAO Contest 2027 entry, 31/10/2026)
+- Alina Lykholat (vocals), Nikolai Fissenko (guitar), Antonio Serra (guitar), Valerio Oriente (bass), Andrea Pallanca (drums).
+- Earlier singles from Off We Go: "Criminal BDSM" and "Running".
+
 ## Alina (vocals, lyrics)
 - Ukrainian. She has lived in **Rome since 2011**. She left Ukraine and wanted nothing more to do with it.
 - When the war broke out in 2022 it still hurt her deeply, and that's when she wrote the lyrics of "Nebo".

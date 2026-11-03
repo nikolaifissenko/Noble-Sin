@@ -496,3 +496,32 @@ Replies 12/10: **Rauhanliitto** (Julia Jernvall) forwarded Nebo to the "Sana vs.
 | 123 | Media | Scomodo | IT Roma | eventi@leggiscomodo.com | Conversation with Fenoaltea | IT | Frame as interview/event | Sent 29/10 |
 | 124 | Media | DINAMOpress | IT Roma | dinamozine@gmail.com | "La destra all'attacco del V Municipio" | IT |  | Sent 29/10 |
 | 125 | Podcast | Untold Italy | IT | ciao@untolditaly.com | Episode #346 (Katy Clarke) | EN | Low priority | Sent 29/10 |
+
+## Queue 5: new outlets found 03/11 (Nikolai: "send 50 more emails to any inherent playlist, association")
+
+### 5A: playlists and music blogs (sent 03/11)
+| Outlet | Country | Email | Hook | Status |
+|---|---|---|---|---|
+| Distorted Sound (Laura McCarthy) | UK | laura@distortedsoundmag.com | Introducing piece on ROMES | Sent 03/11 |
+| Gigslutz (Becky Rogers) | UK | beckygigslutz@gmail.com | Track of the Day, Alright | Bounced 03/11 |
+| Punktuation! | UK | oi@punktuationmag.com | Transvision Vamp review | Sent 03/11 |
+| Bring The Noise UK (Hannah Gillicker) | UK | hannah@bringthenoiseuk.com | Transvision Vamp review, Leicester | Sent 03/11 |
+| Mystic Sons (Chris Bound) | UK | info@mysticsons.com | Kate Nash article | Sent 03/11 |
+| Spectral Nights (Ryan Barham) | UK | spectralnights@gmail.com | Editors album review | Sent 03/11 |
+| East of 8th (George Maifair) | US | eof8th@gmail.com | Karina Rykman at Hulaween; press photo sent | Sent 03/11 |
+| Antiwar Songs / Canzoni contro la guerra | IT | antiwarsongs@gmail.com | Sayf "Bombe" newest arrival | Sent 03/11 |
+| Music For The Misfits | UK | reviews@musicforthemisfits.com | New & Undiscovered 31/10 | Sent 03/11 |
+| The Best in New Punk (playlist) | n/a | thebestinnewpunk@gmail.com | Smith Street Band track | Sent 03/11 |
+| The JAR Booth (playlist) | US | jarrecordsjosh@gmail.com | Buddy Wynkoop, BALACLAVA | Sent 03/11 |
+| Female Fronted Power | n/a | info@femalefrontedpower.com | TELMA new singer | Sent 03/11 |
+| Dying Scene | US | dyingscenemusic@gmail.com | Cleaning Out the Inbox 30/10 | Sent 03/11 |
+| Still in Rock (Thibault) | FR | thibault@stillinrock.com | November part 1 | Sent 03/11 |
+| Scene Point Blank | US/UK | promos@scenepointblank.com | anarcho punk book review | Sent 03/11 |
+| Punk World Views (Ricky Frankel) | US | info@punkworldviews.com | Suicide Machines EP review | Sent 03/11 |
+| mp3hugger | UK | contact@mp3hugger.com | Brookelen "Omen" 03/11 | Sent 03/11 |
+| Raven Sings the Blues (Andy French) | US | info@ravensingstheblues.com | The Thorn | Sent 03/11 |
+| Various Small Flames (Jon Doyle) | UK | varioussmallflames@hotmail.com | Weekly Listening Nov #1 | Sent 03/11 |
+| Shouts (Halldór Kristínarson) | IS | halldor@shoutsmusic.blog | Steve Von Till piece | Sent 03/11 |
+
+Skipped 5A: already contacted (Echoes and Dust, Joyzine, Rock Sins, The Alternative, OndaRock, Music Attitude, So Young, nialler9, Neon Music, Neformat); paid (Post-Punk.com, Euro Indie Music Network, The Indie Grid); promo network looking playlists (Indie Rock Radar/Releases, Big Rock Bangers, Indie Gems); off genre or closed (Beat In My Bones, Negative Insight); stale (Rocksucker, Bloodbuzzed, Hit The Floor, Pretty in Noise); SubmitHub/form only (Turtle Tempo, Soundsphere, Alt77, Two Story Melody, Kid with a Vinyl, Janglepophub, Rock the Pigeon, Indie is not a genre).
+SLIPS if they reply: Punktuation quote slightly paraphrased; Punk World Views calls the ocean line the "chorus line"; Female Fronted Power says Alina sings all three languages at the end; Antiwar Songs says "seguo da tempo il vostro archivio"; East of 8th jokes Valerio "would agree"; Shouts adds "soldiers outnumber the people giving orders" (from MANAGEMENT_BRIEF, fine).

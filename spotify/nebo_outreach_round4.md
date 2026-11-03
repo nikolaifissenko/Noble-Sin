@@ -525,3 +525,35 @@ Replies 12/10: **Rauhanliitto** (Julia Jernvall) forwarded Nebo to the "Sana vs.
 
 Skipped 5A: already contacted (Echoes and Dust, Joyzine, Rock Sins, The Alternative, OndaRock, Music Attitude, So Young, nialler9, Neon Music, Neformat); paid (Post-Punk.com, Euro Indie Music Network, The Indie Grid); promo network looking playlists (Indie Rock Radar/Releases, Big Rock Bangers, Indie Gems); off genre or closed (Beat In My Bones, Negative Insight); stale (Rocksucker, Bloodbuzzed, Hit The Floor, Pretty in Noise); SubmitHub/form only (Turtle Tempo, Soundsphere, Alt77, Two Story Melody, Kid with a Vinyl, Janglepophub, Rock the Pigeon, Indie is not a genre).
 SLIPS if they reply: Punktuation quote slightly paraphrased; Punk World Views calls the ocean line the "chorus line"; Female Fronted Power says Alina sings all three languages at the end; Antiwar Songs says "seguo da tempo il vostro archivio"; East of 8th jokes Valerio "would agree"; Shouts adds "soldiers outnumber the people giving orders" (from MANAGEMENT_BRIEF, fine).
+
+### 5B: associations, exile/diaspora culture, radios (sent 03/11)
+| Organisation | Country | Email | Hook | Status |
+|---|---|---|---|---|
+| Centro Astalli (JRS) | IT Rome | astalli@jrs.net | "La scrittura non va in esilio" 22/10 | Sent 03/11 |
+| Bumaga | RU exile | news@paperpaper.io | Beckett "Happy Days" review 30/10 (in Russian) | Sent 03/11 |
+| The Moscow Times, Arts and Life | NL/RU | general@themoscowtimes.com | anti war theater artists in exile 20/10 | Sent 03/11 |
+| Maison de l'Ukraine en France | FR | maison.ukraine.en.france@gmail.com | concert Opéra Bastille (Alina led) | Sent 03/11 |
+| Netzwerk Friedenskooperative | DE | info@friedenskooperative.de | Unzwingbar recap | Sent 03/11 |
+| Fondazione Opera Campana dei Caduti | IT Rovereto | info@fondazioneoperacampana.it | "Voci di Pace" schools contest | Sent 03/11 |
+| SCI Italia | IT Rome | info@sci-italia.it | ESC story Città dell'Utopia | Sent 03/11 |
+| OVD-Info | RU exile | media@ovdinfo.org | Skochilenko book halted 02/11 | Sent 03/11 |
+| Pro Peace (ex forumZFD) | DE | info@propeace.de | AWAKE installation Skopje | Sent 03/11 |
+| Ukrainian Culture Center of Los Angeles | US | ukrainianculturecenterla@gmail.com | "Songs of the War" + film fest (Alina led) | Sent 03/11 |
+| KZYX Alt Things Considered | US CA | music@kzyx.org | Taylor Bowser show | Sent 03/11 |
+| WTJU Rock (Bill Pemberton) | US VA | wtjurockdepartment@gmail.com | Rock Spot essay | Sent 03/11 |
+| Radio Campus Grenoble | FR | progra@campusgrenoble.org | Voix de Garage 855 | Sent 03/11 |
+| Anti Kriegs Museum Berlin | DE | info@anti-kriegs-museum.de | Landauer exhibition | Sent 03/11 |
+| Scuola di Pace di Monte Sole (Elena Monicelli) | IT Marzabotto | elenamonicelli@montesole.org | Solzhenitsyn quote, 82nd anniversary | Sent 03/11 |
+| Radio Laurier (Harper Young) | CA | music@radiolaurier.com | Lola debut 19/10 (MP3 link) | Sent 03/11 |
+| Radio Campus Montpellier (Tom Martinez) | FR | antenne@radiocampusmontpellier.fr | blastin' + Matinale 03/11 | Sent 03/11 |
+| Radio Dijon Campus | FR | dijonradiocampus@gmail.com | Rock en Stock | Sent 03/11 |
+| Friedensbüro Salzburg | AT | office@friedensbuero.at | 40th anniversary, "Frieden fällt nicht vom Himmel" | Sent 03/11 |
+| MPDL | ES | mpdl@mpdl.org | "Sí a la Paz" youth radio | Sent 03/11 |
+| Austrian Centre for Peace (ACP) | AT | ac4p@ac4p.at | Forum "The Art of Peace" | Sent 03/11 |
+| Unica Radio (Univ. Cagliari) | IT | info@unicaradio.it | nonviolence talk 23/11 | Sent 03/11 |
+| Mondinsieme | IT Reggio Emilia | info@mondinsieme.org | Arian Leka presentation 16/10 | Sent 03/11 |
+| CFUZ Peach City Radio | CA | music@cfuz.ca | The Experiment ep. 66 | Sent 03/11 |
+
+Skipped 5B: INTERSOS (only hook names a conflict), Courage to Resist (closed), WMBR (CDs only), Vitsche (risk), Vot Tak and Verstka (no culture item), Radio Vallekas (wrong address), Safemuse (no fit), UMFM (address hidden), PAX NL (already pitched). Unreachable sites: radiosherwood.it, boristenemilano.com, antimilitaristi.org, mosaicodipace.it, Peace News, nonviolence.fr, CIR, Memorial Italia, EBCO.
+SLIPS if they reply: OVD-Info greeting has a hyphen; Bumaga body spells "Фисенко"; Campana dei Caduti one clumsy Italian sentence; Anti Kriegs Museum says Alina sings the closing three languages.
+03/11 total: 44 new pitches (20 + 24), 1 bounce (Gigslutz), plus 2 thank yous (Langer, Colomba).

@@ -560,3 +560,4 @@ SLIPS if they reply: OVD-Info greeting has a hyphen; Bumaga body spells "Фис�
 03/11 replies: mp3hugger auto reply pointing to SubmitHub (paid, skipped); Radio Campus Grenoble auto reply.
 03/11 total: 44 new pitches (20 + 24), 1 bounce (Gigslutz), plus 2 thank yous (Langer, Colomba).
 03/11 ITALIAN INSIDER: Nikolai confirmed to Michael himself (14:32): Monday 09/11 at 11:30, La Bottega del Caffè, Piazza della Madonna dei Monti. Michael had said "Ok, sounds good" (07:17). No reply needed.
+04/11 JAR Records (Josh Unwin, Essex): liked the vocals and guitars, "jotted you down in our notes", asked us to follow The JAR Booth on Spotify. Thanked; Nikolai to follow the playlist.

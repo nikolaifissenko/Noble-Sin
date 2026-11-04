@@ -565,3 +565,4 @@ SLIPS if they reply: OVD-Info greeting has a hyphen; Bumaga body spells "Фис�
 04/11 JAR Records: Josh thanked back, thread closed.
 04/11 MUSICZINE (Bernard Dagnies, rédac chef, BE; forwarded by Johan Meurisse): will publish a news item and offered a slot on radio show Inaudible. Sent Spotify, hyperfollow, WAV Drive link, press photo link (river), short FR bio, release 23/10.
 04/11 PAX CHRISTI ROMA (Andrea): "vi faremo sapere a breve", they'll propose times. No reply needed; times go to Nikolai, never confirm.
+04/11 CONNECTION e.V. (Sarah): reposted the Nebo video on Instagram and in their story. Thanked.

@@ -563,3 +563,5 @@ SLIPS if they reply: OVD-Info greeting has a hyphen; Bumaga body spells "Фис�
 04/11 JAR Records (Josh Unwin, Essex): liked the vocals and guitars, "jotted you down in our notes", asked us to follow The JAR Booth on Spotify. Thanked; Nikolai to follow the playlist.
 04/11 GARIWO ARTICLE PUBLISHED: https://it.gariwo.net/magazine/interviste/noble-sin-la-band-rock-russoucraina-che-supera-i-fronti-opposti-della-guerra-30813.html (Alessandra Telesco). Not replied (Nikolai handles Gariwo).
 04/11 JAR Records: Josh thanked back, thread closed.
+04/11 MUSICZINE (Bernard Dagnies, rédac chef, BE; forwarded by Johan Meurisse): will publish a news item and offered a slot on radio show Inaudible. Sent Spotify, hyperfollow, WAV Drive link, press photo link (river), short FR bio, release 23/10.
+04/11 PAX CHRISTI ROMA (Andrea): "vi faremo sapere a breve", they'll propose times. No reply needed; times go to Nikolai, never confirm.

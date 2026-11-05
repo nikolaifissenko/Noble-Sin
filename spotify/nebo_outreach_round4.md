@@ -567,3 +567,4 @@ SLIPS if they reply: OVD-Info greeting has a hyphen; Bumaga body spells "Фис�
 04/11 PAX CHRISTI ROMA (Andrea): "vi faremo sapere a breve", they'll propose times. No reply needed; times go to Nikolai, never confirm.
 04/11 CONNECTION e.V. (Sarah): reposted the Nebo video on Instagram and in their story. Thanked.
 05/11 FRIEDENSBÜRO SALZBURG (Elisabeth Kocher): thanked, will bring Nebo to the team. No reply needed.
+05/11 MONTE SOLE (Elena Monicelli, coordinatrice Scuola di Pace): shared Nebo with all colleagues, will see how to use it. Thanked, offered IT lyrics translation + band photo on request.

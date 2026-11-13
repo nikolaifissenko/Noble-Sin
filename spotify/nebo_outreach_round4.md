@@ -574,3 +574,40 @@ SLIPS if they reply: OVD-Info greeting has a hyphen; Bumaga body spells "Фис�
 08/11 IPPNW AUSTRIA: SENT BY MISTAKE before Nikolai finished ("dont send yet" arrived after). Sent to Michael + Anisa (cc office@): yes in principle; need travel (flights Rome to Vienna x5) covered, PA + drum kit (ideally guitar/bass amps); we handle guitars/bass (rent in Vienna); no fee; asked date, set length, one night accommodation. No date committed. Waiting.
 08/11 IPPNW tech needs (Nikolai): NO amps (direct to PA). Need on site: PA + drum kit (from IPPNW). Band rents guitars + bass in Vienna (Viennabackline, Martin Vetters, 1150 Wien, est. 1996). Our email asked amps as 'ideally': drop that when they reply.
 12/11 catch-up (checks paused 09 to 12/11, Nikolai no data): MUSICZINE PUBLISHED (11/11): https://www.musiczine.net/index.php/fr/item/104710-noble-sin-a-aussi-son-langage-secret ; Nebo scheduled on radio show Inaudible Wed 18/11 + podcast 164 the week after. Thanked Bernard. No reply yet from IPPNW, Pax Christi, Italian Insider (no new mail since Michael's 09/11 'I am right outside').
+
+## Queue 6 (13/11/2026)
+> 25 new outlets, never contacted before (deduped against round2/3/4, nebo_playlist_curators.md and Gmail sent mail per domain). Post-release links only (Spotify album + hyperfollow; WAV for radio). One recipient each, English except Mouvement de la Paix (FR).
+
+| # | Country | Outlet | Email | Hook used | Status |
+|---|---|---|---|---|---|
+| 1 | IE | The Last Mixed Tape (Stephen White), blog/podcast | stephen@thelastmixedtape.com | Stephen White's "Zombie: A Song That Belongs to Everyone" (7/11) | Sent 13/11 |
+| 2 | DE | Unzwingbar alliance (anti conscription), org | info@unzwingbar.de | report on 2/10 Brandenburger Tor rally (20,000, refusal testimonies) | Sent 13/11 |
+| 3 | BE/EU | EBCO, European Bureau for Conscientious Objection, org | ebco@ebco-beoc.org | Guido Grünewald's report on 4th German school strike vs conscription | Sent 13/11 |
+| 4 | DE | Away From Life (punk/hardcore webzine), blog | info@awayfromlife.com | Max's review of Nowar "Right Here Right Now" ("Krieg ist Mord" intro) | Sent 13/11 |
+| 5 | AT | subtext.at, webzine | promotion@subtext.at | Tanja Schützeneder's Apsilon live review (Ottakringer Brauerei) | Sent 13/11 |
+| 6 | NO | Norway Rock Magazine (Anne-Marie Forker), webzine | anne-marie@norwayrock.net | her Kalandra "The Other Side" review (Katrine Stenbekk's vocals) | Sent 13/11 |
+| 7 | UK/CA | ThePunkSite (Phinky, head contributing editor), webzine | phinky@thepunksite.com | Peter Hough's Finnegan's Hell "Glorious Mess" review ("two cultures crashing") | Sent 13/11 |
+| 8 | UK | Live4ever (Dave Smith), webzine | davesmith@live4ever.uk.com | news on Gurriers' "Nobody's Coming To Save You" North American tour | Sent 13/11 |
+| 9 | RU | ZIMA Magazine (London, Russian exile culture), outlet | contact@zimamagazine.com | Nina Agisheva on Parfenov's "Nabokov, a Good Russian" (9/11) | Sent 13/11 |
+| 10 | UK | Conscience: Taxes for Peace not War, org | campaign@conscienceonline.org.uk | their reflections on Alternative Remembrance Sunday, Tavistock Square 8/11 | Sent 13/11 |
+| 11 | IE | PANA, Peace and Neutrality Alliance, org | info@pana.ie | Edward Horgan "Ireland, Poland and all humanity need peace not war"; Triple Lock letters | Sent 13/11 |
+| 12 | CH | Frauen für den Frieden Schweiz, org | sekretariat@frauenfuerdenfrieden.ch | autumn assembly "Sicherheit als Risiko?" and feminist case on war material referendum | Sent 13/11 |
+| 13 | FR | Mouvement de la Paix, org (FR) | national@mvtpaix.org | their 11 November text "Maudite soit la guerre" (639 fusillés pour l'exemple) | Sent 13/11 |
+| 14 | PL | Radio LUZ Wrocław (student radio, music desk), radio | muzyczny@radioluz.pl | Bartosz Repczyński's review of untitled (halo) "you're going to jail now" | Sent 13/11 |
+| 15 | BE | BRUZZ (Brussels radio, music desk), radio | muziekredactie@bruzz.be | Michaël Bellon's Fred Gata portrait (8/11) + their send-us-music guidelines | Sent 13/11 |
+| 16 | UK (Scotland) | Is This Music?, webzine | editor@isthismusic.com | Stuart McHugh on Big Special "O'Joy!" ("deeply personal and painfully communal") | Sent 13/11 |
+| 17 | BE/INT | Punk Rock Theory (Tom Dumarey), webzine | thomas@punkrocktheory.com | Tom's post on Rose Hound's "Dancing in the Dark" cover (Springsteen storytelling) | Sent 13/11 |
+| 18 | DE | bedroomdisco, webzine | info@bedroomdisco.de | Dominik's piece on Naima Bock "Rocks" ("breathless urgency") | Sent 13/11 |
+| 19 | AT | Volume.at, webzine | info@volume.at | Stephanie Gaberle's XIDI interview (singing in dialect) | Sent 13/11 |
+| 20 | RU exile | Get Lost / Idite Lesom (helps Russians avoid conscription), org | pr@iditelesom.org | their mission statement "as few people as possible pull the trigger" (not a dated piece) | Sent 13/11 |
+| 21 | CA | CIUT 89.5 Toronto, "Unknown Pleasures" (host Mopa Dean), radio | mopa@ciut.fm | show page (Shadow Play, Swell Maps, Crass; new releases & oddities), not a dated piece | Sent 13/11 |
+| 22 | CA | CKMS 102.7 Radio Waterloo, "Radio Nowhere" (host Don Janzen), radio | office@radiowaterloo.ca | Radio Nowhere ep. 184 (9/11) antiwar playlist: Universal Soldier, Draft Resister | Sent 13/11 |
+| 23 | NL | Rockportaal, webzine | nieuws@rockportaal.nl | Jochem van der Steen's Messa live review at 013 Tilburg (9/11) | Sent 13/11 |
+| 24 | CA | CIVL Radio Abbotsford, "Birds of Canada" (host Adam Roper), radio | AdamR@CIVL.ca | show page (new music from everywhere, "even Calgary"), not a dated piece | Sent 13/11 |
+| 25 | DE | Music Headquarter (Andreas), webzine | info@musicheadquarter.de | Andreas's review of Oliver Kobold's Reinhard Mey portrait (pacifist songs chapter) | Sent 13/11 |
+
+Skipped after checking (not contacted): Idioteq, Rock Sins, NFPB (already in Gmail sent); KALX and KXLU (physical media only); Everything Is Noise (no singles); DIY Conspiracy (no Spotify links, hardcore only); Indie Is Not A Genre (SubmitHub only); Post-Punk.com (donation-based premieres); Pinguin Radio (Groover); KCPR, WZBC (no citable piece); We Are Ukraine, Slukh, Vitsche (form only or no email found); FLIRT FM show The Human Recommendation (station already contacted).
+
+Mix shortfall: 0 playlist curators (Spotify playlist descriptions with emails could not be read from this session; directories found were paid or form-based) and 0 Ukrainian diaspora culture outlets (only contact forms found). 1 Russian exile culture outlet (ZIMA) plus Get Lost as an org.
+
+SLIPS: (1) Get Lost, CIUT Unknown Pleasures and CIVL Birds of Canada: hook was their mission statement or show page, not a dated recent piece. (2) Radio Waterloo: wrote "I listened through the track list" of Radio Nowhere ep. 184; I read the track list, did not listen to the episode. (3) BRUZZ: "Label: self released", not in band_story.md. (4) CIUT: "three sergeants ... put their rifles down" (paraphrase of refuse to fire). (5) Volume.at: "Our singer would agree" (assumption about Alina). (6) ZIMA: "a question I live with every day" (mild embellishment). (7) Music Headquarter: "Mey found his first home in France" (review says first record contract in France). (8) subtext: quoted "a spark of hope" as my translation of "ein Funken Hoffnung".

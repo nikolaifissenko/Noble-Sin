@@ -10,7 +10,7 @@
 - Placements were Advantage+ (Instagram AND Facebook), not Instagram only: many "profile visits" likely went to the Facebook Page or were junk taps.
 - Verdict: rule triggered (>1 EUR/follower). Stop. Lesson: profile visits objective + Advantage+ placements = cheap clicks, no follows. Next test only via Ads Manager, Instagram only (Feed, Reels, Explore), manual placements.
 
-## Test 2 (15 EUR): PLANNED, NOT STARTED (as of 14/11/2026)
+## Test 2 (15 EUR): original plan, SUPERSEDED by the revision below (live 14/11)
 Nikolai (08/11): "boosting in Italy isn't a good idea". Most press/playlist traction came from outside Italy. Plan agreed:
 - Tool: Meta Ads Manager app (installed by Nikolai 08/11), NOT the Instagram boost button (avoids Apple 30% fee on iOS and allows manual placements). Nikolai's app UI is in French.
 - Campaign: objective Engagement ("Interactions"), manual setup (not Advantage+). Conversion location "On your ad". Advantage+ campaign budget OFF. Name "Nebo test EU".

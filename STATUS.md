@@ -14,7 +14,8 @@ Read with MANAGEMENT_BRIEF.md (strategy) and CLAUDE.md. This file is the quick h
 - Musiczine (BE): https://www.musiczine.net/index.php/fr/item/104710-noble-sin-a-aussi-son-langage-secret ; radio Inaudible Wed 18/11, podcast 164 the week after
 - Fondazione Langer newsletter: https://mailchi.mp/alexanderlanger/newsletter_giugno_2026-18160694
 - Playlists: Shouts "Selected Protest Music of 2026" https://open.spotify.com/playlist/3NoBhpjPP7u3sF5dQ4aSJm ; Derringer "Artists for Ukraine" https://open.spotify.com/playlist/31NHjQGfPhhp1wDxYAj6jq
-- Radio: KCOU rotation. Social: Connection e.V. reposted the video.
+- Radio: KCOU rotation. Radio Waterloo CKMS 102.7 (Don Janzen, Radio Nowhere): replied 14/11, tagged "Protest", will play in a future show and in the Remembrance Day 2027 episode. Reply drafted in Gmail (family exile story: Kuban Cossack great-grandfather Sevastopol to Paris; father fled communism in the 80s), cc richard@radiowaterloo.ca; Nikolai to send. Asked for airdate.
+- Social: Connection e.V. reposted the video.
 - Italian Insider: interview done 09/11 (Michael LaPointe, La Bottega del Caffè, Monti); article not yet published.
 
 ## Open threads (Nikolai decides; never confirm dates/meetings without his OK)
@@ -27,6 +28,6 @@ Read with MANAGEMENT_BRIEF.md (strategy) and CLAUDE.md. This file is the quick h
 
 ## Instagram ads
 - See social/ads_log.md. Test 1 (Italy, 25.98 EUR, 1 follower) failed.
-- Test 2 LIVE 14/11 to 19/11: Ads Manager, Traffic/link clicks, 15 EUR total, DE AT UK NL BE DK IE, war-footage reel (risk of EU social-issue rejection). On 19/11 Nikolai sends spend, clicks, cost per click, S4A new listeners by country. Rule: CPC <= 0.20 EUR keep, > 0.40 stop.
+- Test 2 LIVE 14/11 to 19/11: Ads Manager, Traffic/link clicks, 15 EUR total, DE AT UK NL BE DK IE, war-footage reel (risk of EU social-issue rejection). Meta APPROVED it 14/11, so the war-footage reel passed review. On 19/11 Nikolai sends spend, clicks, cost per click, S4A new listeners by country. Rule: CPC <= 0.20 EUR keep, > 0.40 stop.
 - Next test: the clean reel (no war footage, no #antiwar caption), same audience, to compare.
 - Reel covers: social/assets/nebo/ (incl. reel_cover_antonio_valerio_nebo.jpg, 9:16).

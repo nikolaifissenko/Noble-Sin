@@ -611,3 +611,37 @@ Skipped after checking (not contacted): Idioteq, Rock Sins, NFPB (already in Gma
 Mix shortfall: 0 playlist curators (Spotify playlist descriptions with emails could not be read from this session; directories found were paid or form-based) and 0 Ukrainian diaspora culture outlets (only contact forms found). 1 Russian exile culture outlet (ZIMA) plus Get Lost as an org.
 
 SLIPS: (1) Get Lost, CIUT Unknown Pleasures and CIVL Birds of Canada: hook was their mission statement or show page, not a dated recent piece. (2) Radio Waterloo: wrote "I listened through the track list" of Radio Nowhere ep. 184; I read the track list, did not listen to the episode. (3) BRUZZ: "Label: self released", not in band_story.md. (4) CIUT: "three sergeants ... put their rifles down" (paraphrase of refuse to fire). (5) Volume.at: "Our singer would agree" (assumption about Alina). (6) ZIMA: "a question I live with every day" (mild embellishment). (7) Music Headquarter: "Mey found his first home in France" (review says first record contract in France). (8) subtext: quoted "a spark of hope" as my translation of "ein Funken Hoffnung".
+
+## Queue 7 (14/11/2026)
+> 22 new targets, never contacted before (deduped against round2/3/4 incl. Queue 6, nebo_playlist_curators.md and Gmail sent mail per domain/name; no bounces from Queue 6 at start). Post-release links only (Spotify album + hyperfollow; WAV for radio; river press photo, credit Leonardo Gentili). One recipient each, all in English. Target was 25: stopped at 22 because the remaining candidates were form-only, SubmitHub-only, singles-excluded, or had no recent piece I could actually read.
+
+| # | Country | Outlet | Email | Hook used | Status |
+|---|---|---|---|---|---|
+| 1 | HR | Ravno do dna (Zoran Stajčić), webzine | urednistvo@ravnododna.com | Zoran's 9/10 review of QOTSA "Perfecth" (13/11), guitars with no production compression | Sent 14/11 |
+| 2 | GR | Rock Overdose (Zisis Petkanas), webzine | info@rockoverdose.gr | Zisis's piece on Haris Ploumis's documentary on Greek language rock after 2000 (4/11) | Sent 14/11 |
+| 3 | FI | Desibeli.net (Mika Roth, chief editor), webzine | mika.roth@desibeli.net | Mika's November self released albums roundup (5/11): MUUSIT, Outi ja olevaiset | Sent 14/11 |
+| 4 | PT | Echo Boomer (Tiago Cecílio), webzine | geral@echoboomer.pt | Tiago's Placebo review, Super Bock Arena Porto (7/10): phones away, "Hellen Keller" live premiere | Sent 14/11 |
+| 5 | DK | GFR / gfrock.dk (Ken Thomsen), webzine | gfrockdk@gmail.com | Ken's Bug Chaser "My First Crippled Love" review (13/11) | Sent 14/11 |
+| 6 | SE | Kulturbloggen (Thomas Johansson), blog | kulturbloggen@gmail.com | Thomas's review of Hets reunion at Café 44 (10/11) | Sent 14/11 |
+| 7 | CH | TRACKS Magazin (Roebi), webzine | info@tracks-magazin.ch | Roebi's Gavial "Thanks, I Hate It" review (7/11), "Wicked Game" cover | Sent 14/11 |
+| 8 | SI/INT | It's Psychedelic Baby Magazine (Klemen Breznikar), webzine | info@psychedelicbabymag.com | Klemen's Mekons interview with Tom Greenhalgh (11/11) | Sent 14/11 |
+| 9 | AU | The AU Review (Bruce Baker, music editor), webzine | bruce@theaureview.com | Bruce's LUCIDBLOOM "Coexist" EP premiere (12/11) | Sent 14/11 |
+| 10 | AU | Wall of Sound, webzine | wallofsoundau@gmail.com | Bree Vane's Death Cab for Cutie Hordern Pavilion review (13/11) | Sent 14/11 |
+| 11 | CZ | Frontman.cz, webzine | redakce@frontman.cz | piece on Beata Bocek's "Tamti" video, sung in an invented language (12/11) | Sent 14/11 |
+| 12 | AU | Triple R Melbourne, "The International Pop Underground" (host Anthony Carew), radio | anthonycarew@gmail.com | 11/11 playlist (Radie Peat, ĠENN, Susanne Sundfør, Pixies) | Sent 14/11 |
+| 13 | AU | 4ZZZ Brisbane, "Suffering Jukebox" (host Nick), radio | sufferingjukebox@outlook.com | 9/11 playlist (D. C. Cross "We Can't Go On Destroying Each Other") | Sent 14/11 |
+| 14 | AU | 4ZZZ Brisbane, "Alphabet Soup" (host Linda Dark), radio | 4zzzalphabetsoup@proton.me | 12/11 Letter K show playlist; pitched "Nebo"/Noble Sin for the letter N | Sent 14/11 |
+| 15 | NZ | Radio One 91FM Dunedin (Maddy Barnes, music director), radio | music@r1.co.nz | Sunny McCabe's Rock the Vote gig review (28/10) | Sent 14/11 |
+| 16 | DK | Mod Strømmen, Christianshavns Kanal 98.9 Copenhagen (host HHS), radio/blog | modstroemmen@gmail.com | 12/11 playlist with Hands On Fire (Violeta Parra, Sinéad O'Connor) | Sent 14/11 |
+| 17 | KR | World Without War (conscientious objection), org | peace@withoutwar.org | Kim Minhyeong (Dubu)'s final statement at first instance trial (13/11) | Sent 14/11 |
+| 18 | GR | Association of Greek Conscientious Objectors, org | arnisi@antirrisies.gr | BOOKS not BOMBS antimilitarist weekend, Thessaloniki 7 to 8/11 | Sent 14/11 |
+| 19 | AU | MAPW, Medical Association for Prevention of War (Elise West, EO), org | eo@mapw.org.au | "Children and war" piece on the cancelled Perth Children's Hospital Grand Round (19/10) | Sent 14/11 |
+| 20 | PT | CPPC, Conselho Português para a Paz e Cooperação, org | conselhopaz@cppc.pt | report on the 4th Concert for Peace, Cineteatro Louletano, Loulé (25/10) | Sent 14/11 |
+| 21 | TR | Vicdani Ret Derneği (Conscientious Objection Association), org | vicdaniretbilgi@gmail.com | report on Çınar Koçgiri Doğan's sentence, Sivas (20/10) | Sent 14/11 |
+| 22 | UA diaspora (US) | Ukrainian People magazine, Chicago (Olha Ruda, editor; Bohdan Bondarenko), outlet | ukrainianpeoplemagazine@gmail.com | Bohdan's Brati Hadiukiny piece (22/10), Kuzminsky "watching from a cloud"; led with Alina | Sent 14/11 |
+
+Skipped after checking (not contacted): Mondo Sonoro (already in round files); Rockfreaks.net (no singles); B-Side Guys, Yellow & Black, Destroy//Exist (SubmitHub); DOD Magazine, Lords of Rock, Nash Holos, La Factoría del Ritmo, Spectrum Culture (form only, no email); Radio Active NZ, FBi "M5", 95bFM (no readable recent piece or no named host); Peace Movement Aotearoa (last news Dec 2025); Peace Boat, Women in Black Belgrade (no email); CMS Zagreb (nothing on peace/war to cite); The Insider and Colta (no recent culture/music piece); Sadwave (Russia based, skipped for the outlet's safety); The Vinyl District, 7md.lt, Mindies (weak fit). Bounces: none at time of logging.
+
+Mix shortfall: 22 of 25. Blogs 11 (target ~12), radio 5 (no US or UK show with a named host, email and readable recent playlist found), orgs 5, Ukrainian diaspora 1, Russian independent culture 0 (nothing with a culture desk email and a recent piece). Vicdani Ret has no visible newsletter.
+
+SLIPS: (1) Mod Strømmen, RRR, 4ZZZ x2: hooks were playlists I read, said "I read the playlist", did not listen. (2) Two shows at the same station (4ZZZ) in one batch. (3) Rock Overdose, Frontman, Vicdani Ret: hook phrases were my paraphrases of translated text (no translated quotes in quote marks). (4) Wall of Sound and Rock Overdose sent to generic info/press addresses. (5) mika.roth@desibeli.net built from the site's stated firstname.lastname format, not printed in full on the site.

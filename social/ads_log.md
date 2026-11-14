@@ -22,3 +22,10 @@ Nikolai (08/11): "boosting in Italy isn't a good idea". Most press/playlist trac
 - Status 08/11: Nikolai chose "Manual" on the campaign screen, then paused ("another time"). Nothing live.
 - Rome-only micro boosts (about 5 EUR) only before a gig, to fill a venue.
 - Account: @noblesin_official, linked to the band Facebook Page. Personal reel (Nikolai's own account, smoking) must NOT be boosted (Meta tobacco policy).
+
+## Test 2 revision (14/11/2026, proposed, Nikolai to confirm)
+- Objective switched to Traffic ("Trafic") -> Spotify link, goal "Maximiser le nombre de clics sur un lien", CTA "Écouter". Reason: test 1 showed engagement-type goals buy cheap taps, not follows; ThruPlay would repeat that. Link clicks to Spotify feed listeners/saves, which the algorithm, curators and festivals actually see.
+- Same 15 EUR (3 EUR x 5 days), same 5 countries (DE, AT, UK, NL, BE), 18-40, same interests, Instagram-only manual placements.
+- Creative: start with the NO war footage cut (band/chorus). EU social-issue ad ban makes a rejection likely and burns days. Copy stays music-framed: nationalities OK, no "war/soldiers/refuse to fire" in ad text.
+- Ad text EN: "A Ukrainian voice. A Russian guitar. Three Italians. One band from Rome. NEBO, out now 🌌" Headline: "Noble Sin - Nebo".
+- Success rule: cost per link click <= 0.20 EUR (~75+ clicks) AND Spotify for Artists shows new listeners in those 5 countries within 7 days. Otherwise stop paid ads.

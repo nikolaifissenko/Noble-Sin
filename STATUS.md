@@ -26,5 +26,7 @@ Read with MANAGEMENT_BRIEF.md (strategy) and CLAUDE.md. This file is the quick h
 - FOCUS Wales 2027: applied 01/11, results ~01/01/2027.
 
 ## Instagram ads
-- See social/ads_log.md: test 1 (Italy, 25.98 EUR, 1 follower) failed; test 2 plan (15 EUR, EU, Ads Manager, Instagram-only manual placements) ready, not started.
+- See social/ads_log.md. Test 1 (Italy, 25.98 EUR, 1 follower) failed.
+- Test 2 LIVE 14/11 to 19/11: Ads Manager, Traffic/link clicks, 15 EUR total, DE AT UK NL BE DK IE, war-footage reel (risk of EU social-issue rejection). On 19/11 Nikolai sends spend, clicks, cost per click, S4A new listeners by country. Rule: CPC <= 0.20 EUR keep, > 0.40 stop.
+- Next test: the clean reel (no war footage, no #antiwar caption), same audience, to compare.
 - Reel covers: social/assets/nebo/ (incl. reel_cover_antonio_valerio_nebo.jpg, 9:16).

@@ -14,7 +14,7 @@ Read with MANAGEMENT_BRIEF.md (strategy) and CLAUDE.md. This file is the quick h
 - Musiczine (BE): https://www.musiczine.net/index.php/fr/item/104710-noble-sin-a-aussi-son-langage-secret ; radio Inaudible Wed 18/11, podcast 164 the week after
 - Fondazione Langer newsletter: https://mailchi.mp/alexanderlanger/newsletter_giugno_2026-18160694
 - Playlists: Shouts "Selected Protest Music of 2026" https://open.spotify.com/playlist/3NoBhpjPP7u3sF5dQ4aSJm ; Derringer "Artists for Ukraine" https://open.spotify.com/playlist/31NHjQGfPhhp1wDxYAj6jq
-- Radio: KCOU rotation. Radio Waterloo CKMS 102.7 (Don Janzen, Radio Nowhere): replied 14/11, tagged "Protest", will play in a future show and in the Remembrance Day 2027 episode. Reply drafted in Gmail (family exile story: Kuban Cossack great-grandfather Sevastopol to Paris; father fled communism in the 80s), cc richard@radiowaterloo.ca; Nikolai to send. Asked for airdate.
+- Radio: KCOU rotation. Radio Waterloo CKMS 102.7 (Don Janzen, Radio Nowhere): replied 14/11, tagged "Protest", will play in a future show and in the Remembrance Day 2027 episode. Reply SENT 14/11 (family exile story: Kuban Cossack great-grandfather Sevastopol to Paris; father fled communism in the 80s), cc richard@radiowaterloo.ca. Asked for airdate; awaiting.
 - Social: Connection e.V. reposted the video.
 - Italian Insider: interview done 09/11 (Michael LaPointe, La Bottega del Caffè, Monti); article not yet published.
 

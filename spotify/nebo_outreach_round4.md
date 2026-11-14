@@ -601,7 +601,7 @@ SLIPS if they reply: OVD-Info greeting has a hyphen; Bumaga body spells "Фис�
 | 19 | AT | Volume.at, webzine | info@volume.at | Stephanie Gaberle's XIDI interview (singing in dialect) | Sent 13/11 |
 | 20 | RU exile | Get Lost / Idite Lesom (helps Russians avoid conscription), org | pr@iditelesom.org | their mission statement "as few people as possible pull the trigger" (not a dated piece) | Sent 13/11 |
 | 21 | CA | CIUT 89.5 Toronto, "Unknown Pleasures" (host Mopa Dean), radio | mopa@ciut.fm | show page (Shadow Play, Swell Maps, Crass; new releases & oddities), not a dated piece | Sent 13/11 |
-| 22 | CA | CKMS 102.7 Radio Waterloo, "Radio Nowhere" (host Don Janzen), radio | office@radiowaterloo.ca | Radio Nowhere ep. 184 (9/11) antiwar playlist: Universal Soldier, Draft Resister | Sent 13/11; Don replied 14/11: tagged Protest, will play + Remembrance Day 2027 ep. Reply drafted |
+| 22 | CA | CKMS 102.7 Radio Waterloo, "Radio Nowhere" (host Don Janzen), radio | office@radiowaterloo.ca | Radio Nowhere ep. 184 (9/11) antiwar playlist: Universal Soldier, Draft Resister | Sent 13/11; Don replied 14/11: tagged Protest, will play + Remembrance Day 2027 ep. Reply sent 14/11 |
 | 23 | NL | Rockportaal, webzine | nieuws@rockportaal.nl | Jochem van der Steen's Messa live review at 013 Tilburg (9/11) | Sent 13/11 |
 | 24 | CA | CIVL Radio Abbotsford, "Birds of Canada" (host Adam Roper), radio | AdamR@CIVL.ca | show page (new music from everywhere, "even Calgary"), not a dated piece | Sent 13/11 |
 | 25 | DE | Music Headquarter (Andreas), webzine | info@musicheadquarter.de | Andreas's review of Oliver Kobold's Reinhard Mey portrait (pacifist songs chapter) | Sent 13/11 |

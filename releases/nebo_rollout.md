@@ -254,3 +254,15 @@ Bridge: montage of war (suffering children, soldiers, families) under the radio 
 **TikTok:**
 > Hebrew, Arabic, Russian. Three radios, one answer: no. 🌌 NEBO out now
 > #nebo #noblesin #antiwar #altrock #femalefronted
+
+## SOLDIERS BOTH SIDES REEL (15/11; cover: `social/assets/nebo/reel_cover_soldiers_both_sides.jpg`, img_5899 raw via `make_reel_cover_bottom.py`, font `fonts/CG.ttf`)
+Chorus over Ukrainian + Russian soldier footage (rights granted by the news outlets; credit them). Do NOT end on "for what?" or mirrored UA/RU graves: reads as both-sides equivalence (Stop the War risk). End on sky + card "Few give the orders. Many pay for them." Blur names on graves. Alina to approve reel + UA wording before posting. Note: same photo as the chorus ocean cover.
+
+**Caption:**
+> Few give the orders. Many pay for them.
+> "Nebo" means sky in Ukrainian. Alina wrote it in 2022 around one question: what if the soldiers just stopped obeying? There are more of them than of those who give the orders. An ocean against a drop of evil.
+> A Ukrainian singer, a Russian guitarist, one song. Link in bio.
+> UA: Накази віддають одиниці. Платять за них тисячі. Аліна написала «Небо» у 2022 році з одним питанням: що, як солдати просто перестануть виконувати накази? Океан проти краплі зла.
+> RU: Приказы отдают единицы. Платят за них тысячи. Алина написала «Небо» в 2022 году с одним вопросом: что, если солдаты просто перестанут подчиняться? Океан против капли зла.
+> Footage: [outlets], used with permission.
+> #NobleSin #Nebo #AntiWar #AlternativeRock #NewMusic

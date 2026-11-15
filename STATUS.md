@@ -1,4 +1,4 @@
-# Noble Sin: live status (updated 14/11/2026)
+# Noble Sin: live status (updated 15/11/2026)
 
 Read with MANAGEMENT_BRIEF.md (strategy) and CLAUDE.md. This file is the quick handoff for a new session.
 
@@ -15,6 +15,8 @@ Read with MANAGEMENT_BRIEF.md (strategy) and CLAUDE.md. This file is the quick h
 - Fondazione Langer newsletter: https://mailchi.mp/alexanderlanger/newsletter_giugno_2026-18160694
 - Playlists: Shouts "Selected Protest Music of 2026" https://open.spotify.com/playlist/3NoBhpjPP7u3sF5dQ4aSJm ; Derringer "Artists for Ukraine" https://open.spotify.com/playlist/31NHjQGfPhhp1wDxYAj6jq
 - Radio: KCOU rotation. Radio Waterloo CKMS 102.7 (Don Janzen, Radio Nowhere): replied 14/11, tagged "Protest", will play in a future show and in the Remembrance Day 2027 episode. Reply SENT 14/11 (family exile story: Kuban Cossack great-grandfather Sevastopol to Paris; father fled communism in the 80s), cc richard@radiowaterloo.ca. Asked for airdate; awaiting.
+- Radio CIUT 89.5 Toronto (Mopa, Unknown Pleasures): auto-ack 13/11, awaiting real reply.
+- GFR (DK): email pitch rejected by auto-reply 14/11, submissions only via form gfrock.dk/kontakt/indsend-materiale-til-anmeldelse/. Resubmit there if wanted.
 - Social: Connection e.V. reposted the video.
 - Italian Insider: interview done 09/11 (Michael LaPointe, La Bottega del Caffè, Monti); article not yet published.
 
@@ -27,6 +29,7 @@ Read with MANAGEMENT_BRIEF.md (strategy) and CLAUDE.md. This file is the quick h
 - FOCUS Wales 2027: applied 01/11, results ~01/01/2027.
 
 ## Instagram ads
+- Meta approved a new ad 14/11 (details in Ads Manager).
 - See social/ads_log.md. Test 1 (Italy, 25.98 EUR, 1 follower) failed.
 - Test 2 LIVE 14/11 to 19/11: Ads Manager, Traffic/link clicks, 15 EUR total, DE AT UK NL BE DK IE, war-footage reel (risk of EU social-issue rejection). Meta APPROVED it 14/11, so the war-footage reel passed review. On 19/11 Nikolai sends spend, clicks, cost per click, S4A new listeners by country. Rule: CPC <= 0.20 EUR keep, > 0.40 stop.
 - Next test: the clean reel (no war footage, no #antiwar caption), same audience, to compare.

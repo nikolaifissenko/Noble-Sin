@@ -674,3 +674,4 @@ abuondiritto, Sadankomitea (Elina), Aldrig Mere Krig, Nei til Atomvåpen, SLMK, 
 
 Total 17/11: 59 (5 new + 54 follow-ups). Daily cap reached.
 NEXT: remaining Queue 4 sends of 26/10 and 29 to 30/10, then Queue 5 (03/11) follow-ups; new targets via contact pages (homepage fetches rarely show emails).
+17/11 late: read the 2 unlogged replies. Stop Wapenhandel (Wendela de Vries, 29/10): thanked for the song, can't invite us (we're in Rome); replied thanks, free to use at meetings. Radio Campus Angers (28/10): declines, rarely plays singles; replied thanks. Neither needs Nikolai.

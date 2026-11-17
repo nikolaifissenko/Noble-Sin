@@ -645,3 +645,22 @@ Skipped after checking (not contacted): Mondo Sonoro (already in round files); R
 Mix shortfall: 22 of 25. Blogs 11 (target ~12), radio 5 (no US or UK show with a named host, email and readable recent playlist found), orgs 5, Ukrainian diaspora 1, Russian independent culture 0 (nothing with a culture desk email and a recent piece). Vicdani Ret has no visible newsletter.
 
 SLIPS: (1) Mod Strømmen, RRR, 4ZZZ x2: hooks were playlists I read, said "I read the playlist", did not listen. (2) Two shows at the same station (4ZZZ) in one batch. (3) Rock Overdose, Frontman, Vicdani Ret: hook phrases were my paraphrases of translated text (no translated quotes in quote marks). (4) Wall of Sound and Rock Overdose sent to generic info/press addresses. (5) mika.roth@desibeli.net built from the site's stated firstname.lastname format, not printed in full on the site.
+
+## Queue 8 (17/11/2026): new radios + war/peace/Gaza/Ukraine groups, and Queue 4 follow-ups
+> Nikolai 17/11: "send 100 emails to radios in europe and any association that has to do with war peace gaza, ukraine ecc and then follow up". Chosen plan: Lean (100 new over several days, 2-line in-thread nudges to non-responders >= 2 weeks old). Framing: Nikolai chose to NAME the conflict (Gaza / Ukraine) for groups focused on it, overriding the "universal" pitch rule for this queue only. Token economy: one fetch per target, skip if no email or no dated hook.
+
+### 8A new (sent 17/11)
+| # | Outlet | Email | Hook | Status |
+|---|---|---|---|---|
+| 1 | Combatants for Peace (Ran Yaron, media) | ranyaron79@gmail.com | 2026 Joint Memorial Ceremony video on site | Sent 17/11 |
+| 2 | UJFP (FR) | contact@ujfp.org | relay of OCHA Gaza winter supplies appeal (16/11) | Sent 17/11 (address from masked co*****@**fp.org) |
+| 3 | Een Ander Joods Geluid (NL) | eajg@eajg.nl | Jaap Hamburger speech Rode Lijn 8/11; Standing Together The Hague 6/12 | Sent 17/11 |
+| 4 | Razom for Ukraine (press) | press@razomforukraine.org | Hryhir Award with Tereny (16/11); led with Alina | Sent 17/11 |
+Skipped (no email on page or no dated hook): Parents Circle, Standing Together, Assopace Palestina (only donation/membership emails; Rome Sapienza reading 19/11), Jüdische Stimme (contact page only), Artists for Palestine UK (form only), EJJP (site dead), Radio Centraal, Radio Corax (403), RDL, Orange 94.0, Near FM, Radio Patapoe (no named show or email).
+
+### 8B follow-ups (in-thread, 17/11), all Queue 4 sends of 28/10 with no reply
+radionaba.lv, prog@ruc.pt, glasba@radiomars.si, info@radiocampus.be, redaction@radiopanik.org, music@radiox.ch, musikredaktion@rabe.ch, info@dmfk.de, info@querfunk.de, info@paxchristi.org.uk, info@riversideradio.com, studio@bcfmradio.com, comunicacion@cuacfm.org, contrabanda@contrabanda.org, news@afsc.org, prog@radiodio.org, campus@campuslille.com, prog@radioprimitive.fr, radioblau@radioblau.de, musik@koelncampus.com, programacion@radioalmaina.org, music@kgnu.org, musicdir@kuci.org, wmuhmusic@muhlenberg.edu = 24.
+
+Total sent 17/11: 28 (4 new + 24 follow-ups). No bounces at start.
+UNLOGGED REPLIES found in Gmail (unread, from 28 to 29/10): Stop Wapenhandel (w.de.vries@stopwapenhandel.org) and Radio Campus Angers (programmation@, cc Musique de Nuit etienne@musique2nuit.com). Nikolai to read.
+Remaining: ~96 new; follow-ups for rest of Queue 4 (26 to 27/10 and 29 to 30/10 sends) and Queue 5.

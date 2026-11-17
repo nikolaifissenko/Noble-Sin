@@ -1,4 +1,4 @@
-# Noble Sin: live status (updated 15/11/2026)
+# Noble Sin: live status (updated 17/11/2026)
 
 Read with MANAGEMENT_BRIEF.md (strategy) and CLAUDE.md. This file is the quick handoff for a new session.
 
@@ -6,6 +6,7 @@ Read with MANAGEMENT_BRIEF.md (strategy) and CLAUDE.md. This file is the quick h
 - Spotify: https://open.spotify.com/album/38aJm1yeeMOXotxTUkaTAe · all platforms: https://distrokid.com/hyperfollow/noblesin1/nebo-2
 - Outreach log (every send, reply, slip): spotify/nebo_outreach_round4.md (Queues 1 to 7). Rules: spotify/outreach_rules.md. Facts allowed: press/band_story.md.
 - Email reply-alert scheduled task (trig_017s1LxgkT3JVMuDE7UpGSKx) DISABLED 13/11 by Nikolai ("stop checking, wasting tokens"). Replies now only checked when Nikolai asks.
+- Gaza reel (17/11): Nikolai cut a Gaza-footage reel to Nebo. Caption EN+IT and flagged risks (platform removal, footage rights, band OK, off the "universal" rule) in releases/nebo_gaza_reel.md. Not yet confirmed posted.
 
 ## Coverage so far
 - Gariwo interview: https://it.gariwo.net/magazine/interviste/noble-sin-la-band-rock-russoucraina-che-supera-i-fronti-opposti-della-guerra-30813.html

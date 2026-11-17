@@ -17,7 +17,7 @@ Read with MANAGEMENT_BRIEF.md (strategy) and CLAUDE.md. This file is the quick h
 - Playlists: Shouts "Selected Protest Music of 2026" https://open.spotify.com/playlist/3NoBhpjPP7u3sF5dQ4aSJm ; Derringer "Artists for Ukraine" https://open.spotify.com/playlist/31NHjQGfPhhp1wDxYAj6jq
 - Radio: KCOU rotation. Radio Waterloo CKMS 102.7 (Don Janzen, Radio Nowhere): replied 14/11, tagged "Protest", will play in a future show and in the Remembrance Day 2027 episode. Reply SENT 14/11 (family exile story: Kuban Cossack great-grandfather Sevastopol to Paris; father fled communism in the 80s), cc richard@radiowaterloo.ca. Asked for airdate; awaiting.
 - Radio CIUT 89.5 Toronto (Mopa, Unknown Pleasures): auto-ack 13/11, awaiting real reply.
-- GFR (DK): email pitch rejected by auto-reply 14/11, submissions only via form gfrock.dk/kontakt/indsend-materiale-til-anmeldelse/. Resubmit there if wanted.
+- GFR (DK): resubmitted Nebo via their web form 17/11 (single, Spotify link, comment to Ken). Confirmed received; if no review within a month, it was not picked.
 - Social: Connection e.V. reposted the video.
 - Italian Insider: interview done 09/11 (Michael LaPointe, La Bottega del Caffè, Monti); article not yet published.
 

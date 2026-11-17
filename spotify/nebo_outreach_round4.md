@@ -664,3 +664,13 @@ radionaba.lv, prog@ruc.pt, glasba@radiomars.si, info@radiocampus.be, redaction@r
 Total sent 17/11: 28 (4 new + 24 follow-ups). No bounces at start.
 UNLOGGED REPLIES found in Gmail (unread, from 28 to 29/10): Stop Wapenhandel (w.de.vries@stopwapenhandel.org) and Radio Campus Angers (programmation@, cc Musique de Nuit etienne@musique2nuit.com). Nikolai to read.
 Remaining: ~96 new; follow-ups for rest of Queue 4 (26 to 27/10 and 29 to 30/10 sends) and Queue 5.
+
+### 8A cont. (17/11)
+| 5 | Movimento Nonviolento / Azione nonviolenta (IT) | redazione@nonviolenti.org | Stop RWM Domusnovas 15/11; Azione nonviolenta n.667 (Davide Melodia, 14/11) | Sent 17/11 |
+Skipped: Promote Ukraine, Ukraine Solidarity Campaign, Stop the War UK, PSC (403), Peace Direct (no email on pages fetched).
+
+### 8C follow-ups (in-thread, 17/11), Queue 4 sends of 27/10 with no reply (30)
+abuondiritto, Sadankomitea (Elina), Aldrig Mere Krig, Nei til Atomvåpen, SLMK, KRF.se, Musicians without Borders, Glencree, Afri, Vredesactie (Truike), CNAPD (before 20/11), Mediterranea stampa, Campus FM (Tim), Radio Q, LORA 92.4, Radio Vostok, Stadtfilter, Campus & City Radio 94.4, Phil Lyness (Teenage Kicks), FRO, Russian Democratic Society, Zustricz, Russie-Libertés, UA Days Luxembourg, uicr@centrum.cz, Fundacja Ukraina, Ukraiński Dom, OPU, Ocalenie, asylkoordination. Corrymeela skipped (already replied in another thread).
+
+Total 17/11: 59 (5 new + 54 follow-ups). Daily cap reached.
+NEXT: remaining Queue 4 sends of 26/10 and 29 to 30/10, then Queue 5 (03/11) follow-ups; new targets via contact pages (homepage fetches rarely show emails).

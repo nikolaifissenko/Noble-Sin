@@ -23,6 +23,7 @@ Read with MANAGEMENT_BRIEF.md (strategy) and CLAUDE.md. This file is the quick h
 
 ## Open threads (Nikolai decides; never confirm dates/meetings without his OK)
 - IPPNW Austria (Dr Michael Schober, Anisa anisaozsatmaz@gmail.com): live slot at welcome party before IPPNW European Regional Meeting, Vienna, Feb 2027. Sent 08/11: yes in principle, need flights Rome to Vienna x5 covered, PA + drum kit + monitors; band rents guitars/bass in Vienna (Viennabackline), uses digital pedalboards straight to PA, NO amps needed; no fee; asked date, set length, 1 night accommodation. Awaiting reply.
+- IPPNW 18/11: office@ippnw.at says they cannot pay travel (volunteers). Nikolai decides: decline, self-fund, or ask for alternatives. No reply sent.
 - Pax Christi Roma (Andrea): wants to meet, will propose times.
 - Refugee Week Italia 2027 (Isa Lawlor-Plazas): first meeting early March 2027.
 - GariwoNetwork public conference Fri 27/11 18:30, Zest Hub, Via Marsala 29H (in Google Calendar, reminder 25/11). Nikolai handles Gariwo himself: never email Gariwo.

@@ -20,6 +20,7 @@ Read with MANAGEMENT_BRIEF.md (strategy) and CLAUDE.md. This file is the quick h
 - GFR (DK): resubmitted Nebo via their web form 17/11 (single, Spotify link, comment to Ken). Confirmed received; if no review within a month, it was not picked.
 - Social: Connection e.V. reposted the video.
 - Italian Insider: interview done 09/11 (Michael LaPointe, La Bottega del Caffè, Monti); article not yet published.
+- Atlante delle Guerre (46° Parallelo): Nikolai sent phone + availability 23 to 26/11 on 19/11; interview being arranged.
 
 ## Open threads (Nikolai decides; never confirm dates/meetings without his OK)
 - IPPNW Austria (Dr Michael Schober, Anisa anisaozsatmaz@gmail.com): live slot at welcome party before IPPNW European Regional Meeting, Vienna, Feb 2027. Sent 08/11: yes in principle, need flights Rome to Vienna x5 covered, PA + drum kit + monitors; band rents guitars/bass in Vienna (Viennabackline), uses digital pedalboards straight to PA, NO amps needed; no fee; asked date, set length, 1 night accommodation. Awaiting reply.

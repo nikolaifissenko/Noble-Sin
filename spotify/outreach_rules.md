@@ -41,6 +41,7 @@
 - "Nebo" means "sky" in Ukrainian. The single is out Fri 23/10/2026. Lyrics by Alina (2022), music by the band (2026). Three sergeants (Bryan, Al-Hassan, Grishchenko) refuse to fire. The song ends in English, Ukrainian and Russian. 145 BPM, 3:12.
 - Pitches stay universal ("every army"). Name specific conflicts only in interviews, where there's room to explain (MANAGEMENT_BRIEF §0).
 - Exception (Nikolai, 17/11/2026): for Gaza- or Ukraine-focused groups, the pitch may name the conflict.
+- Lighter hook (Nikolai, 20/11/2026, "do what you gotta do"): for Queue 8, a true detail from their page or their core work is enough when no dated item is visible. Never invent.
 
 ## Press assets
 - Press photo (Nebo-era grade): `press/noblesin_nebo_press_landscape.jpg` (1800x1200) and `press/noblesin_nebo_press_vertical.jpg` (1440x3117). Public links: https://raw.githubusercontent.com/nikolaifissenko/noble-sin/claude/exciting-goodall-FT79J/press/<file>. Files: noblesin_nebo_press_river.jpg (best), noblesin_nebo_press_bridge_gazometro.jpg, noblesin_nebo_press_landscape.jpg, noblesin_nebo_press_vertical.jpg. Credit: Leonardo Gentili.

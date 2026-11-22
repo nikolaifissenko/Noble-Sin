@@ -712,3 +712,9 @@ Queue 8 new pitches: 33 of 100 (+2 resends).
 New: Ukraїner mail@ukrainer.ua (led with Alina, culture); Northern Visions Belfast feedback@nvtv.co.uk.
 Grab yield fell to 2 from 90 pages: Italian music press and radios are almost all already contacted (round files), and many EU sites are JS-only or form-only. Skipped Metalitalia (metal, poor fit).
 Queue 8 new pitches: 35 of 100 (+2 resends). Diminishing returns: flagged to Nikolai.
+
+### 8J (22/11, Nikolai chose option 3: curators, podcasts, non-EU UA/RU outlets): 3 new
+New: Discours (RU culture journal) welcome@discours.io (in Russian, Nikolai angle); The Insider theinsidersru@gmail.com; Protest Music Project / The Dissenter Newsletter@TheDissenter.org.
+Tried with no usable email: New Pathway, UCC, Holod, Mediazona, TV Rain, Echo (already contacted); Agentstvo (hard news, skipped); podcasts Music For The New Revolution, Ongoing History of Protest Music, People Have The Power, Sound Opinions, Music and Revolution (forms/Apple pages only); Freedom & Protest songs playlist (no contact on index page).
+Finding: curators and podcasts mostly take submissions by form or Instagram DM, not email.
+Queue 8 new pitches: 38 of 100 (+2 resends).

@@ -707,3 +707,8 @@ New: Fellesutvalget for Palestina NO fup@palestina.no (Palestinakonferansen 2026
 Grab yield: ~9 usable from 110 pages (most JS sites, forms, or already contacted). Skipped: IKFF (personal staff addresses only), Universal Peace Federation (not a fit), Quaker UK (already contacted).
 New reply 21/11: IPPNW office forwarded the thread to Anisa, Lara Kacani and "nikolaifissenko1@gmail.com" (typo, no dot). Nikolai to read; not answered.
 Queue 8 new pitches: 33 of 100 (+2 resends).
+
+### 8I (22/11, day 6): 2 new pitches. No bounces, no new replies.
+New: Ukraїner mail@ukrainer.ua (led with Alina, culture); Northern Visions Belfast feedback@nvtv.co.uk.
+Grab yield fell to 2 from 90 pages: Italian music press and radios are almost all already contacted (round files), and many EU sites are JS-only or form-only. Skipped Metalitalia (metal, poor fit).
+Queue 8 new pitches: 35 of 100 (+2 resends). Diminishing returns: flagged to Nikolai.

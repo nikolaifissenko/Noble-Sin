@@ -267,7 +267,7 @@ Chorus over Ukrainian + Russian soldier footage (rights granted by the news outl
 > Footage: [outlets], used with permission.
 > #NobleSin #Nebo #AntiWar #AlternativeRock #NewMusic
 
-## US–IRAN FOOTAGE REEL (25/11; cover: `social/assets/nebo/reel_cover_us_iran_same_sky.jpg`, 20260913_173652 via `make_reel_cover_bottom.py`, font `fonts/CG.ttf`)
+## US–IRAN FOOTAGE REEL (25/11; cover: `social/assets/nebo/reel_cover_us_iran_same_sky.jpg`, 20260913_174411 via `make_reel_cover_bottom.py`, font `fonts/CG.ttf`)
 Nebo over US–Iran war clips. Same rule as the bridge reel: caption stays universal, no country names or flags in caption/hashtags, no side taken. Credit footage sources; check rights first.
 
 **Instagram:**

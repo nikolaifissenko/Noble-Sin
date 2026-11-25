@@ -266,3 +266,20 @@ Chorus over Ukrainian + Russian soldier footage (rights granted by the news outl
 > RU: Приказы отдают единицы. Платят за них тысячи. Алина написала «Небо» в 2022 году с одним вопросом: что, если солдаты просто перестанут подчиняться? Океан против капли зла.
 > Footage: [outlets], used with permission.
 > #NobleSin #Nebo #AntiWar #AlternativeRock #NewMusic
+
+## US–IRAN FOOTAGE REEL (25/11; cover: `social/assets/nebo/reel_cover_us_iran_same_sky.jpg`, 20260913_173652 via `make_reel_cover_bottom.py`, font `fonts/CG.ttf`)
+Nebo over US–Iran war clips. Same rule as the bridge reel: caption stays universal, no country names or flags in caption/hashtags, no side taken. Credit footage sources; check rights first.
+
+**Instagram:**
+> Different war. Same sky. 🌌
+> "Nebo" means sky in Ukrainian. Alina wrote it in 2022 for one war. In 2026 it fits another, and the question hasn't changed: what if the soldiers just stopped obeying? There are more of them than of those who give the orders. An ocean against a drop of evil.
+> A Ukrainian singer, a Russian guitarist, three Italians. One song. Link in bio.
+> 🇮🇹 Guerra diversa. Stesso cielo. Un oceano contro una goccia di male.
+> UA: Інша війна. Те саме небо.
+> RU: Другая война. То же небо.
+> Footage: [sources].
+> #NobleSin #Nebo #AntiWar #NoWar #AlternativeRock #NewMusic
+
+**TikTok:**
+> Different war. Same sky. A Ukrainian singer and a Russian guitarist wrote this one. 🌌 NEBO out now
+> #nebo #noblesin #antiwar #altrock #femalefronted

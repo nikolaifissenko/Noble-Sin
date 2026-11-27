@@ -31,7 +31,6 @@ def line(t,size,y,track,fill=C):
 line('LIVE',64,890,48)
 line('PIGNOLA (PZ)',230,2780,24)
 line('SABATO 12 GIUGNO 2027  ·  ORE 21:00',92,3080,14)
-line('una cantante ucraina, un chitarrista russo e tre romani',62,3245,4)
-line('@NOBLESIN_OFFICIAL',46,3380,14,(170,168,162))
+line('@NOBLESIN_OFFICIAL',46,3300,14,(170,168,162))
 im.save(R+'social/locandine/locandina_pignola_2027-06-12.png')
 p=im.copy(); p.thumbnail((620,877)); p.save('/tmp/claude-0/-home-user-Noble-Sin/424a8918-5573-5479-82c8-6fc887e2d8a1/scratchpad/prev.png')
